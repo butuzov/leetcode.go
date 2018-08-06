@@ -16,7 +16,7 @@ type Kalvin float64
 
 func main() {
 	fmt.Println("This code converts temperature in Celcius/Fahrenheiht/Kalvin (e.g.)")
-	fmt.Printf("%5s -> %9s \n", Celsius(10), CtoF(Celsius(10)))
+	fmt.Printf("%5s -> %9s \n", Celsius(0), CtoF(Celsius(10)))
 	fmt.Printf("%5s -> %9s \n", Celsius(10), CtoK(Celsius(10)))
 
 	fmt.Printf("%5s -> %9s \n", Kalvin(10), KtoC(Kalvin(10)))

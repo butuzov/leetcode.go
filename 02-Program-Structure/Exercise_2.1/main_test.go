@@ -10,6 +10,7 @@ func Test_Celcius_Fahrenheit(t *testing.T) {
 		Celsius(10):   Fahrenheit(50),
 		Celsius(0):    Fahrenheit(32),
 		Celsius(-100): Fahrenheit(-148),
+		Celsius(100):  Fahrenheit(212),
 	}
 
 	errorMessage := "Conversation Error %s to %s (Result of CtoF is %s)"
