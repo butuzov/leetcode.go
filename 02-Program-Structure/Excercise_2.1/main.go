@@ -42,6 +42,7 @@ func (c Celsius) String() string    { return fmt.Sprintf("%g°C", c) }
 func (f Fahrenheit) String() string { return fmt.Sprintf("%g°F", f) }
 func (k Kalvin) String() string     { return fmt.Sprintf("%g°K", k) }
 
+// general helper function - round numbers to next .00 point.
 func round(n, unit float64) float64 {
 	return math.Round(n*unit) / unit
 }
@@ -52,6 +53,8 @@ func CtoF(c Celsius) Fahrenheit {
 		panic("Your input cannot be below absolute zero.")
 	}
 
+	//   Conversation formula
+	//   t°C * 9/5 + 32
 	return Fahrenheit(round(float64(c)*9/5+32, 100))
 }
 
@@ -61,6 +64,8 @@ func CtoK(c Celsius) Kalvin {
 		panic("Your input cannot be below absolute zero.")
 	}
 
+	//   Conversation formula
+	//   t°C + 273.15 (°K kalvin temperature shift)
 	return Kalvin(round(float64(c)+float64(FreezingK), 100))
 }
 
@@ -70,6 +75,8 @@ func FtoC(f Fahrenheit) Celsius {
 		panic("Your input cannot be below absolute zero.")
 	}
 
+	//   Conversation formula
+	//   (t°F - 32) / 9/5
 	return Celsius(round((float64(f)-32)*5/9, 100))
 }
 
