@@ -1,0 +1,28 @@
+[
+	{
+		"name" : "Hello World",
+		"slug" : "hello-world",
+		"unlocked" : [
+			{ "name" : "Gigasecond", "slug" : "gigasecond" },
+			{ "name" : "Bob", "slug" : "bob" },
+			{ "name" : "Acronym", "slug" : "acronym" },
+			{ "name" : "Scale Generator", "slug" : "scale-generator" },
+			{ "name" : "Collatz Conjecture", "slug" : "collatz-conjecture" },
+			{ "name" : "List Ops", "slug" : "list-ops" },
+			{ "name" : "Space Age", "slug" : "space-age" }
+		]
+	},
+	{
+		"name" : "Two Fer",
+		"slug" : "two-fer",
+		"unlocked" : [
+			{ "name" : "Leap", "slug" : "gigasecond" },
+			{ "name" : "Triangle", "slug" : "triangle" },
+			{ "name" : "Proverb", "slug" : "proverb" }
+		]
+	},
+	{
+		"name" : "Hamming",
+		"slug" : "hamming"
+	}
+]
