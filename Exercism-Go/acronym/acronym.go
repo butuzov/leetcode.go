@@ -11,10 +11,6 @@ import (
 
 // Abbreviate should have a comment documenting it.
 func Abbreviate(s string) string {
-	// Write some code here to pass the test suite.
-	// Then remove all the stock comments.
-	// They're here to help you get started but they only clutter a finished solution.
-	// If you leave them in, reviewers may protest!
 
 	var acronim string
 
@@ -30,7 +26,6 @@ func Abbreviate(s string) string {
 		if c == rune(' ') || c == rune('-') {
 			checkNext = true
 		}
-
 	}
 
 	return acronim
