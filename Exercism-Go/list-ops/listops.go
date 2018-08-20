@@ -1,12 +1,14 @@
 package listops
 
+// IntList is []int slice of ints
 type IntList []int
 
+// Few types of different callback functions.
 type binFunc func(int, int) int
 type predFunc func(int) bool
 type unaryFunc func(int) int
 
-// Foldl- list itteration.
+// Foldl - list iteration.
 func (l IntList) Foldl(f binFunc, initial int) int {
 
 	for _, i := range l {
@@ -16,7 +18,7 @@ func (l IntList) Foldl(f binFunc, initial int) int {
 	return initial
 }
 
-// Foldr - reverced list itteration.
+// Foldr - reverced list iteration.
 func (l IntList) Foldr(f binFunc, initial int) int {
 
 	for i := len(l) - 1; i >= 0; i-- {
@@ -26,7 +28,7 @@ func (l IntList) Foldr(f binFunc, initial int) int {
 	return initial
 }
 
-// Filter based on predicate.
+// Filter method based on predicate.
 func (l IntList) Filter(f predFunc) IntList {
 	var nl IntList = []int{}
 	for _, i := range l {
@@ -37,7 +39,7 @@ func (l IntList) Filter(f predFunc) IntList {
 	return nl
 }
 
-// Length return length of list.
+// Length method length of list. Not using `len`.
 func (l IntList) Length() int {
 	var n int
 	for _ = range l {
@@ -46,7 +48,7 @@ func (l IntList) Length() int {
 	return n
 }
 
-// Map - applying unary function to all elements of list.
+// Map method applying unary function to all elements of list.
 func (l IntList) Map(f unaryFunc) IntList {
 	for i, v := range l {
 		l[i] = f(v)
@@ -54,13 +56,12 @@ func (l IntList) Map(f unaryFunc) IntList {
 	return l
 }
 
-// Reverse list.
+// Reverse method, using double assignment and iteration throgh
+// the half of slice.
 func (l IntList) Reverse() IntList {
-
 	for i, n := 0, l.Length()-1; i < n; i, n = i+1, n-1 {
 		l[i], l[n] = l[n], l[i]
 	}
-
 	return l
 }
 

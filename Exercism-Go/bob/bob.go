@@ -15,21 +15,26 @@ func Hey(remark string) string {
 	var isNumbers bool
 	var isQuestion bool
 
+	// Using range we checking each rune of the remark.
+	// we getting info is there numbers, uppercase and lowercase latters
+	// is it ends with "?"
 	for _, r := range strings.Trim(remark, " ") {
 
-		// fmt.Printf("%d %[1]c\n", r)
-
-		// Checking All cases ( well alsmost all)
+		// Checking All cases ( well alsmost all )
 		if !isLowercase && r >= 97 && r <= 122 {
+			// Lowercase
 			isLowercase = true
 		} else if !isUppercase && r >= 65 && r <= 90 {
+			// Uppercase
 			isUppercase = true
 		} else if !isNumbers && r >= 48 && r <= 57 {
+			// Numbers
 			isNumbers = true
 		}
 
-		// Questions? getting `char` isn't possible if you can get `rune`.
-		// on last itteration its going to be true or false.
+		// Question? Checking on each iteration
+		// in order to avoid additional check after this loop.
+		// Runes can be bigger then bytes
 		if r == 63 {
 			isQuestion = true
 		} else {

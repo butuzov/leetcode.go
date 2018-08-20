@@ -16,7 +16,7 @@
 		"name" : "Two Fer",
 		"slug" : "two-fer",
 		"unlocked" : [
-			{ "name" : "Leap", "slug" : "gigasecond" },
+			{ "name" : "Leap", "slug" : "leap" },
 			{ "name" : "Triangle", "slug" : "triangle" },
 			{ "name" : "Proverb", "slug" : "proverb" }
 		]
@@ -24,5 +24,65 @@
 	{
 		"name" : "Hamming",
 		"slug" : "hamming"
+	},
+	{
+		"name" : "Raindrops",
+		"slug" : "raindrops"
+	},
+	{
+		"name" : "Scrabble Score",
+		"slug" : "scrabble-score"
+	},
+	{
+		"name" : "Isogram",
+		"slug" : "isogram"
+	},
+	{
+		"name" : "Difference Of Squares",
+		"slug" : ""
+	},
+	{
+		"name" : "Luhn",
+		"slug" : "luhn"
+	},
+	{
+		"name" : "Grains",
+		"slug" : "grains"
+	},
+	{
+		"name" : "Clock",
+		"slug" : "clock"
+	},
+	{
+		"name" : "Parallel Letter Frequency",
+		"slug" : "parallel-letter-frequency"
+	},
+	{
+		"name" : "Tree Building",
+		"slug" : "tree-building"
+	},
+	{
+		"name" : "Robot Name",
+		"slug" : "robot-name"
+	}, 
+	{
+		"name" : "Tournament",
+		"slug" : "tournament"
+	},
+	{
+		"name" : "Twelve Days",
+		"slug" : "twelve-days"
+	},
+	{
+		"name" : "Matrix",
+		"slug" : "matrix"
+	},
+	{
+		"name" : "Error Handling",
+		"slug" : "error-handling"
+	},
+	{
+		"name" : "Bank Account",
+		"slug" : "bank-account"
 	}
 ]
