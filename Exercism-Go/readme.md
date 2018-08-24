@@ -20,8 +20,14 @@ Exercism is an online platform designed to help you improve your coding skills t
 	- [Proverb](proverb)
 
 1. [Hamming](hamming)
+	- [Rna Transcription](rna-transcription)
+	- Nucleotide Count
+	- Grep
 
 1. [Raindrops](raindrops)
+	- [Accumulate](accumulate)
+	- [Roman Numerals](roman-numerals)
+	- Strain
 
 1. [Scrabble Score](scrabble-score)
 
@@ -30,6 +36,11 @@ Exercism is an online platform designed to help you improve your coding skills t
 1. Difference Of Squares
 
 1. [Luhn](luhn)
+	- Crypto Square
+	- [Atbash Cipher](atbash-cipher)
+	- Diffie Hellman
+	- Simple Cipher
+	- Rotational Cipher
 
 1. Grains
 
@@ -39,7 +50,7 @@ Exercism is an online platform designed to help you improve your coding skills t
 
 1. Tree Building
 
-1. Robot Name
+1. [Robot Name](robot-name)
 
 1. Tournament
 
