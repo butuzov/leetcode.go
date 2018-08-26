@@ -30,10 +30,17 @@ Exercism is an online platform designed to help you improve your coding skills t
 	- Strain
 
 1. [Scrabble Score](scrabble-score)
+	- Etl
+	- Protein Translation
 
 1. Isogram
 
-1. Difference Of Squares
+1. [Difference Of Squares](difference-of-squares)
+	- Sum Of Multiples
+	- Pythagorean Triplet
+	- Largest Series Product
+	- Nth Prime
+	- Isbn Verifier
 
 1. [Luhn](luhn)
 	- Crypto Square
@@ -51,6 +58,9 @@ Exercism is an online platform designed to help you improve your coding skills t
 1. Tree Building
 
 1. [Robot Name](robot-name)
+	- Palindrome Products
+	- Say
+	- Wordy
 
 1. Tournament
 

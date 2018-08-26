@@ -41,7 +41,12 @@
 	},
 	{
 		"name" : "Scrabble Score",
-		"slug" : "scrabble-score"
+		"slug" : "scrabble-score",
+		"unlocked" : [
+			{ "name" : "Etl",  "slug" : "etl" },
+			{ "name" : "Protein Translation",  "slug" : "protein-translation" }
+
+		]
 	},
 	{
 		"name" : "Isogram",
@@ -49,7 +54,14 @@
 	},
 	{
 		"name" : "Difference Of Squares",
-		"slug" : ""
+		"slug" : "difference-of-squares",
+		"unlocked" : [
+			{ "name" : "Sum Of Multiples",  "slug" : "sum-of-multiples" },
+			{ "name" : "Pythagorean Triplet",  "slug" : "pythagorean-triplet" },
+			{ "name" : "Largest Series Product", "slug" : "largest-series-product" },
+			{ "name" : "Nth Prime", "slug" : "nth-prime" },
+			{ "name" : "Isbn Verifier", "slug" : "isbn-verifier" }
+		]
 	},
 	{
 		"name" : "Luhn",
@@ -80,7 +92,12 @@
 	},
 	{
 		"name" : "Robot Name",
-		"slug" : "robot-name"
+		"slug" : "robot-name",
+		"unlocked" : [
+			{ "name" : "Palindrome Products",  "slug" : "palindrome-products" },
+			{ "name" : "Say",  "slug" : "say" },
+			{ "name" : "Wordy", "slug" : "sordy" }
+		]
 	},
 	{
 		"name" : "Tournament",
