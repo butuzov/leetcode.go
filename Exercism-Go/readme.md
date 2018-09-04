@@ -33,7 +33,7 @@ Exercism is an online platform designed to help you improve your coding skills t
 	- Etl
 	- Protein Translation
 
-1. Isogram
+1. [Isogram](isogram)
 
 1. [Difference Of Squares](difference-of-squares)
 	- Sum Of Multiples
@@ -49,7 +49,7 @@ Exercism is an online platform designed to help you improve your coding skills t
 	- Simple Cipher
 	- Rotational Cipher
 
-1. Grains
+1. [Grains](grains)
 
 1. Clock
 
@@ -66,7 +66,7 @@ Exercism is an online platform designed to help you improve your coding skills t
 
 1. Twelve Days
 
-1. Matrix
+1. [Matrix](matrix)
 
 1. Error Handling
 
