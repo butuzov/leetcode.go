@@ -50,6 +50,12 @@ Exercism is an online platform designed to help you improve your coding skills t
 	- Rotational Cipher
 
 1. [Grains](grains)
+	- Secret Handshake
+	- Sieve
+	- Perfect Numbers
+	- [Allergies](allergies)
+	- All Your Base
+	- Variable Length Quantity
 
 1. Clock
 
@@ -67,6 +73,14 @@ Exercism is an online platform designed to help you improve your coding skills t
 1. Twelve Days
 
 1. [Matrix](matrix)
+	- Sublist
+	- Queen Attack
+	- Transpose
+	- Saddle Points
+	- Minesweeper
+	- Word Search
+	- Connect
+	- Spiral Matrix
 
 1. Error Handling
 

@@ -76,7 +76,15 @@
 	},
 	{
 		"name" : "Grains",
-		"slug" : "grains"
+		"slug" : "grains",
+		"unlocked" : [
+			{ "name" : "Secret Handshake",  "slug" : "secret-handshake" },
+			{ "name" : "Sieve",  "slug" : "sieve" },
+			{ "name" : "Perfect Numbers",  "slug" : "perfect-numbers" },
+			{ "name" : "Allergies",  "slug" : "allergies" },
+			{ "name" : "All Your Base",  "slug" : "all-your-base" },
+			{ "name" : "Variable Length Quantity",  "slug" : "variable-length-quantity" }
+		]
 	},
 	{
 		"name" : "Clock",
@@ -95,7 +103,7 @@
 		"slug" : "robot-name",
 		"unlocked" : [
 			{ "name" : "Palindrome Products",  "slug" : "palindrome-products" },
-			{ "name" : "Say",  "slug" : "say" },
+			{ "name" : "Say", "slug" : "say" },
 			{ "name" : "Wordy", "slug" : "sordy" }
 		]
 	},
@@ -109,7 +117,17 @@
 	},
 	{
 		"name" : "Matrix",
-		"slug" : "matrix"
+		"slug" : "matrix",
+		"unlocked" : [
+			{ "name" : "Sublist",  		"slug" : "sublist" },
+			{ "name" : "Queen Attack",  "slug" : "queen-attack" },
+			{ "name" : "Transpose",  	"slug" : "transpose" },
+			{ "name" : "Saddle Points", "slug" : "saddle-points" },
+			{ "name" : "Minesweeper",   "slug" : "minesweeper" },
+			{ "name" : "Word Search",   "slug" : "word-search" },
+			{ "name" : "Connect",  		"slug" : "connect" },
+			{ "name" : "Spiral Matrix", "slug" : "spiral matrix" }
+		]
 	},
 	{
 		"name" : "Error Handling",
