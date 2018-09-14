@@ -34,9 +34,14 @@ Exercism is an online platform designed to help you improve your coding skills t
 	- Protein Translation
 
 1. [Isogram](isogram)
+	- [Reverse String](reverse-string)
+	- Pangram
+	- Anagram
+	- Word Count
+	- Run Length Encoding
 
 1. [Difference Of Squares](difference-of-squares)
-	- Sum Of Multiples
+	- [Sum Of Multiples](sum-of-multiples)
 	- Pythagorean Triplet
 	- Largest Series Product
 	- Nth Prime

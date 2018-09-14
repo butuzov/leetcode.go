@@ -50,7 +50,14 @@
 	},
 	{
 		"name" : "Isogram",
-		"slug" : "isogram"
+		"slug" : "isogram",
+		"unlocked" : [
+			{ "name" : "Reverse String",  "slug" : "reverse-string" }, 
+			{ "name" : "Pangram",  "slug" : "pangram" }, 
+			{ "name" : "Anagram",  "slug" : "anagram" }, 
+			{ "name" : "Word Count",  "slug" : "word-count" }, 
+			{ "name" : "Run Length Encoding",  "slug" : "run-length-encoding" }
+		]
 	},
 	{
 		"name" : "Difference Of Squares",
