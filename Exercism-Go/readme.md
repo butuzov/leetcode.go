@@ -79,7 +79,7 @@ Exercism is an online platform designed to help you improve your coding skills t
 
 1. [Matrix](matrix)
 	- Sublist
-	- Queen Attack
+	- [Queen Attack](queen-attack)
 	- Transpose
 	- Saddle Points
 	- Minesweeper
