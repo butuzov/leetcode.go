@@ -95,15 +95,18 @@
 	},
 	{
 		"name" : "Clock",
-		"slug" : "clock"
+		"slug" : "clock",
+		"unlocked" : []
 	},
 	{
 		"name" : "Parallel Letter Frequency",
-		"slug" : "parallel-letter-frequency"
+		"slug" : "parallel-letter-frequency",
+		"unlocked" : []
 	},
 	{
 		"name" : "Tree Building",
-		"slug" : "tree-building"
+		"slug" : "tree-building",
+		"unlocked" : []
 	},
 	{
 		"name" : "Robot Name",
@@ -116,11 +119,13 @@
 	},
 	{
 		"name" : "Tournament",
-		"slug" : "tournament"
+		"slug" : "tournament",
+		"unlocked" : []
 	},
 	{
 		"name" : "Twelve Days",
-		"slug" : "twelve-days"
+		"slug" : "twelve-days",
+		"unlocked" : []
 	},
 	{
 		"name" : "Matrix",
@@ -133,15 +138,17 @@
 			{ "name" : "Minesweeper",   "slug" : "minesweeper" },
 			{ "name" : "Word Search",   "slug" : "word-search" },
 			{ "name" : "Connect",  		"slug" : "connect" },
-			{ "name" : "Spiral Matrix", "slug" : "spiral matrix" }
+			{ "name" : "Spiral Matrix", "slug" : "spiral-matrix" }
 		]
 	},
 	{
 		"name" : "Error Handling",
-		"slug" : "error-handling"
+		"slug" : "error-handling",
+		"unlocked" : []
 	},
 	{
 		"name" : "Bank Account",
-		"slug" : "bank-account"
+		"slug" : "bank-account",
+		"unlocked" : []
 	}
 ]

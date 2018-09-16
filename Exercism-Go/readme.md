@@ -2,92 +2,78 @@
 
 Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.
 
-## List of "Go" Exercises
+## List of "Go" Exercises 
 
+ 
 
-1. [Hello World](hello-world)
-	- [Gigasecond](gigasecond)
-	- [Bob](bob)
-	- [Acronym](acronym)
-	- Scale Generator
-	- [Collatz Conjecture](collatz-conjecture)
-	- [List Ops](list-ops)
-	- [Space Age](space-age)
-
-1. [Two Fer](two-fer)
-	- [Leap](leap)
-	- [Triangle](triangle)
-	- [Proverb](proverb)
-
-1. [Hamming](hamming)
-	- [Rna Transcription](rna-transcription)
-	- Nucleotide Count
-	- Grep
-
-1. [Raindrops](raindrops)
-	- [Accumulate](accumulate)
-	- [Roman Numerals](roman-numerals)
-	- Strain
-
-1. [Scrabble Score](scrabble-score)
-	- Etl
-	- Protein Translation
-
-1. [Isogram](isogram)
-	- [Reverse String](reverse-string)
-	- Pangram
-	- Anagram
-	- Word Count
-	- Run Length Encoding
-
-1. [Difference Of Squares](difference-of-squares)
-	- [Sum Of Multiples](sum-of-multiples)
-	- Pythagorean Triplet
-	- Largest Series Product
-	- Nth Prime
-	- Isbn Verifier
-
-1. [Luhn](luhn)
-	- Crypto Square
-	- [Atbash Cipher](atbash-cipher)
-	- Diffie Hellman
-	- Simple Cipher
-	- Rotational Cipher
-
-1. [Grains](grains)
-	- Secret Handshake
-	- Sieve
-	- Perfect Numbers
-	- [Allergies](allergies)
-	- All Your Base
-	- Variable Length Quantity
-
-1. Clock
-
-1. Parallel Letter Frequency
-
-1. Tree Building
-
-1. [Robot Name](robot-name)
-	- Palindrome Products
-	- Say
-	- Wordy
-
-1. Tournament
-
-1. Twelve Days
-
-1. [Matrix](matrix)
-	- Sublist
-	- [Queen Attack](queen-attack)
-	- Transpose
-	- Saddle Points
-	- Minesweeper
-	- Word Search
-	- Connect
-	- Spiral Matrix
-
-1. Error Handling
-
-1. Bank Account
+ Problem @ GitHub Solution     | Problem Page @ Exercism  
+-------------------------------|------------------------- 
+ [**Hello World**](hello-world) |  [exercism.io / hello-world ](https://exercism.io/tracks/go/exercises/hello-world)  
+ [Gigasecond](gigasecond) |  [exercism.io / gigasecond ](https://exercism.io/tracks/go/exercises/gigasecond)  
+ [Bob](bob) |  [exercism.io / bob ](https://exercism.io/tracks/go/exercises/bob)  
+ [Acronym](acronym) |  [exercism.io / acronym ](https://exercism.io/tracks/go/exercises/acronym)  
+ Scale Generator |  [exercism.io / scale-generator ](https://exercism.io/tracks/go/exercises/scale-generator)  
+ [Collatz Conjecture](collatz-conjecture) |  [exercism.io / collatz-conjecture ](https://exercism.io/tracks/go/exercises/collatz-conjecture)  
+ [List Ops](list-ops) |  [exercism.io / list-ops ](https://exercism.io/tracks/go/exercises/list-ops)  
+ [Space Age](space-age) |  [exercism.io / space-age ](https://exercism.io/tracks/go/exercises/space-age)  
+ [**Two Fer**](two-fer) |  [exercism.io / two-fer ](https://exercism.io/tracks/go/exercises/two-fer)  
+ [Leap](leap) |  [exercism.io / leap ](https://exercism.io/tracks/go/exercises/leap)  
+ [Triangle](triangle) |  [exercism.io / triangle ](https://exercism.io/tracks/go/exercises/triangle)  
+ [Proverb](proverb) |  [exercism.io / proverb ](https://exercism.io/tracks/go/exercises/proverb)  
+ [**Hamming**](hamming) |  [exercism.io / hamming ](https://exercism.io/tracks/go/exercises/hamming)  
+ [Rna Transcription](rna-transcription) |  [exercism.io / rna-transcription ](https://exercism.io/tracks/go/exercises/rna-transcription)  
+ Nucleotide Count |  [exercism.io / nucleotide-count ](https://exercism.io/tracks/go/exercises/nucleotide-count)  
+ Grep |  [exercism.io / grep ](https://exercism.io/tracks/go/exercises/grep)  
+ [**Raindrops**](raindrops) |  [exercism.io / raindrops ](https://exercism.io/tracks/go/exercises/raindrops)  
+ [Accumulate](accumulate) |  [exercism.io / accumulate ](https://exercism.io/tracks/go/exercises/accumulate)  
+ [Roman Numerals](roman-numerals) |  [exercism.io / roman-numerals ](https://exercism.io/tracks/go/exercises/roman-numerals)  
+ Strain |  [exercism.io / strain ](https://exercism.io/tracks/go/exercises/strain)  
+ [**Scrabble Score**](scrabble-score) |  [exercism.io / scrabble-score ](https://exercism.io/tracks/go/exercises/scrabble-score)  
+ Etl |  [exercism.io / etl ](https://exercism.io/tracks/go/exercises/etl)  
+ Protein Translation |  [exercism.io / protein-translation ](https://exercism.io/tracks/go/exercises/protein-translation)  
+ [**Isogram**](isogram) |  [exercism.io / isogram ](https://exercism.io/tracks/go/exercises/isogram)  
+ [Reverse String](reverse-string) |  [exercism.io / reverse-string ](https://exercism.io/tracks/go/exercises/reverse-string)  
+ Pangram |  [exercism.io / pangram ](https://exercism.io/tracks/go/exercises/pangram)  
+ Anagram |  [exercism.io / anagram ](https://exercism.io/tracks/go/exercises/anagram)  
+ Word Count |  [exercism.io / word-count ](https://exercism.io/tracks/go/exercises/word-count)  
+ Run Length Encoding |  [exercism.io / run-length-encoding ](https://exercism.io/tracks/go/exercises/run-length-encoding)  
+ [**Difference Of Squares**](difference-of-squares) |  [exercism.io / difference-of-squares ](https://exercism.io/tracks/go/exercises/difference-of-squares)  
+ [Sum Of Multiples](sum-of-multiples) |  [exercism.io / sum-of-multiples ](https://exercism.io/tracks/go/exercises/sum-of-multiples)  
+ Pythagorean Triplet |  [exercism.io / pythagorean-triplet ](https://exercism.io/tracks/go/exercises/pythagorean-triplet)  
+ Largest Series Product |  [exercism.io / largest-series-product ](https://exercism.io/tracks/go/exercises/largest-series-product)  
+ Nth Prime |  [exercism.io / nth-prime ](https://exercism.io/tracks/go/exercises/nth-prime)  
+ Isbn Verifier |  [exercism.io / isbn-verifier ](https://exercism.io/tracks/go/exercises/isbn-verifier)  
+ [**Luhn**](luhn) |  [exercism.io / luhn ](https://exercism.io/tracks/go/exercises/luhn)  
+ Crypto Square |  [exercism.io / crypto-square ](https://exercism.io/tracks/go/exercises/crypto-square)  
+ [Atbash Cipher](atbash-cipher) |  [exercism.io / atbash-cipher ](https://exercism.io/tracks/go/exercises/atbash-cipher)  
+ Diffie Hellman |  [exercism.io / diffie-hellman ](https://exercism.io/tracks/go/exercises/diffie-hellman)  
+ Simple Cipher |  [exercism.io / simple-cipher ](https://exercism.io/tracks/go/exercises/simple-cipher)  
+ Rotational Cipher |  [exercism.io / rotational-cipher ](https://exercism.io/tracks/go/exercises/rotational-cipher)  
+ [**Grains**](grains) |  [exercism.io / grains ](https://exercism.io/tracks/go/exercises/grains)  
+ Secret Handshake |  [exercism.io / secret-handshake ](https://exercism.io/tracks/go/exercises/secret-handshake)  
+ Sieve |  [exercism.io / sieve ](https://exercism.io/tracks/go/exercises/sieve)  
+ Perfect Numbers |  [exercism.io / perfect-numbers ](https://exercism.io/tracks/go/exercises/perfect-numbers)  
+ [Allergies](allergies) |  [exercism.io / allergies ](https://exercism.io/tracks/go/exercises/allergies)  
+ All Your Base |  [exercism.io / all-your-base ](https://exercism.io/tracks/go/exercises/all-your-base)  
+ Variable Length Quantity |  [exercism.io / variable-length-quantity ](https://exercism.io/tracks/go/exercises/variable-length-quantity)  
+ Clock |  [exercism.io / clock ](https://exercism.io/tracks/go/exercises/clock)  
+ Parallel Letter Frequency |  [exercism.io / parallel-letter-frequency ](https://exercism.io/tracks/go/exercises/parallel-letter-frequency)  
+ Tree Building |  [exercism.io / tree-building ](https://exercism.io/tracks/go/exercises/tree-building)  
+ [**Robot Name**](robot-name) |  [exercism.io / robot-name ](https://exercism.io/tracks/go/exercises/robot-name)  
+ Palindrome Products |  [exercism.io / palindrome-products ](https://exercism.io/tracks/go/exercises/palindrome-products)  
+ Say |  [exercism.io / say ](https://exercism.io/tracks/go/exercises/say)  
+ Wordy |  [exercism.io / sordy ](https://exercism.io/tracks/go/exercises/sordy)  
+ Tournament |  [exercism.io / tournament ](https://exercism.io/tracks/go/exercises/tournament)  
+ Twelve Days |  [exercism.io / twelve-days ](https://exercism.io/tracks/go/exercises/twelve-days)  
+ [**Matrix**](matrix) |  [exercism.io / matrix ](https://exercism.io/tracks/go/exercises/matrix)  
+ Sublist |  [exercism.io / sublist ](https://exercism.io/tracks/go/exercises/sublist)  
+ [Queen Attack](queen-attack) |  [exercism.io / queen-attack ](https://exercism.io/tracks/go/exercises/queen-attack)  
+ Transpose |  [exercism.io / transpose ](https://exercism.io/tracks/go/exercises/transpose)  
+ Saddle Points |  [exercism.io / saddle-points ](https://exercism.io/tracks/go/exercises/saddle-points)  
+ Minesweeper |  [exercism.io / minesweeper ](https://exercism.io/tracks/go/exercises/minesweeper)  
+ Word Search |  [exercism.io / word-search ](https://exercism.io/tracks/go/exercises/word-search)  
+ Connect |  [exercism.io / connect ](https://exercism.io/tracks/go/exercises/connect)  
+ Spiral Matrix |  [exercism.io / spiral-matrix ](https://exercism.io/tracks/go/exercises/spiral-matrix)  
+ Error Handling |  [exercism.io / error-handling ](https://exercism.io/tracks/go/exercises/error-handling)  
+ Bank Account |  [exercism.io / bank-account ](https://exercism.io/tracks/go/exercises/bank-account)  
 
