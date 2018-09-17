@@ -11,6 +11,7 @@ Problem | Dificulty | Tags
 [Allergies ](allergies) | ☆☆ | `bitwise operations`, `enumeration` 
 [Armstrong Numbers ](armstrong-numbers) | ☆ | `algorithms`, `integers`, `math` 
 [Atbash Cipher ](atbash-cipher) | ☆ | `algorithms`, `cryptography`, `strings`, `transforming` 
+[Beer Song ](beer-song) | ☆ | `loops`, `strings`, `text formatting` 
 [Bob ](bob) | ☆ | `conditionals`, `strings` 
 [Collatz Conjecture ](collatz-conjecture) | ☆ | `conditionals`, `control flow loops`, `integers`, `math` 
 [Difference Of Squares ](difference-of-squares) | ☆ | `algorithms`, `math` 
@@ -20,10 +21,12 @@ Problem | Dificulty | Tags
 [Hello World ](hello-world) | ☆ | `strings` 
 [Isogram ](isogram) | ☆ | `sequences`, `strings` 
 [Leap ](leap) | ☆ | `booleans`, `conditionals`, `integers`, `logic` 
+[Linked List ](linked-list) | ☆☆ | `data structure`, `pointer` 
 [List Ops ](list-ops) | ☆ | `recursion`, `type conversion`, `lists`, `functional programming` 
 [Luhn ](luhn) | ☆ | `algorithms`, `integers`, `strings` 
 [Matrix ](matrix) | ☆☆ | `arrays`, `exception handling`, `matrices`, `strings`, `type conversion` 
 [Nth Prime ](nth-prime) | ☆ | `algorithms`, `integers`, `math` 
+[Prime Factors ](prime-factors) | ☆ | `algorithms`, `integers`, `math` 
 [Proverb ](proverb) | ☆☆ | `arrays`, `loops`, `strings` 
 [Queen Attack ](queen-attack) | ☆☆ | `booleans`, `errors`, `games`, `logic` 
 [Raindrops ](raindrops) | ☆ | `conditionals`, `filtering`, `strings` 
@@ -46,7 +49,6 @@ Problem @ Exercsim.io | Dificulty | Tags
  [Alphametics @ exercism.io ](https://exercism.io/tracks/go/exercises/alphametics) | ☆☆ | `algorithms`, `arrays`, `searching` 
  [Anagram @ exercism.io ](https://exercism.io/tracks/go/exercises/anagram) | ☆ | `filtering`, `parsing`, `sorting`, `strings` 
  [Bank Account @ exercism.io ](https://exercism.io/tracks/go/exercises/bank-account) | ☆☆ | `concurrency`, `integers` 
- [Beer Song @ exercism.io ](https://exercism.io/tracks/go/exercises/beer-song) | ☆ | `loops`, `strings`, `text formatting` 
  [Binary @ exercism.io ](https://exercism.io/tracks/go/exercises/binary) |  | `misc` 
  [Binary Search @ exercism.io ](https://exercism.io/tracks/go/exercises/binary-search) | ☆☆ | `algorithms`, `arrays`, `searching`, `sorting` 
  [Binary Search Tree @ exercism.io ](https://exercism.io/tracks/go/exercises/binary-search-tree) | ☆☆ | `algorithms`, `recursion`, `searching`, `sorting`, `structs`, `trees` 
@@ -76,7 +78,6 @@ Problem @ Exercsim.io | Dificulty | Tags
  [Kindergarten Garden @ exercism.io ](https://exercism.io/tracks/go/exercises/kindergarten-garden) | ☆ | `parsing`, `records`, `searching`, `strings`, `structs` 
  [Largest Series Product @ exercism.io ](https://exercism.io/tracks/go/exercises/largest-series-product) | ☆ | `algorithms`, `integers`, `sequences`, `math` 
  [Ledger @ exercism.io ](https://exercism.io/tracks/go/exercises/ledger) | ☆☆ | `dates`, `integers`, `records`, `refactoring`, `sorting`, `strings`, `text formatting` 
- [Linked List @ exercism.io ](https://exercism.io/tracks/go/exercises/linked-list) | ☆☆ | `data structure`, `pointer` 
  [Markdown @ exercism.io ](https://exercism.io/tracks/go/exercises/markdown) | ☆☆ | `refactoring`, `strings`, `text formatting` 
  [Meetup @ exercism.io ](https://exercism.io/tracks/go/exercises/meetup) | ☆ | `dates`, `time`, `transforming`, `type conversion` 
  [Minesweeper @ exercism.io ](https://exercism.io/tracks/go/exercises/minesweeper) | ☆☆ | `arrays`, `games`, `loops`, `matrices`, `transforming` 
@@ -93,7 +94,6 @@ Problem @ Exercsim.io | Dificulty | Tags
  [Pig Latin @ exercism.io ](https://exercism.io/tracks/go/exercises/pig-latin) | ☆☆ | `conditionals`, `strings`, `transforming` 
  [Poker @ exercism.io ](https://exercism.io/tracks/go/exercises/poker) | ☆☆ | `equality`, `games`, `parsing`, `pattern matching`, `sequences`, `strings` 
  [POV @ exercism.io ](https://exercism.io/tracks/go/exercises/pov) | ☆☆ | `graphs`, `recursion`, `structs`, `transforming`, `trees` 
- [Prime Factors @ exercism.io ](https://exercism.io/tracks/go/exercises/prime-factors) | ☆ | `algorithms`, `integers`, `math` 
  [Protein Translation @ exercism.io ](https://exercism.io/tracks/go/exercises/protein-translation) | ☆ | `filtering`, `maps`, `sequences` 
  [Pythagorean Triplet @ exercism.io ](https://exercism.io/tracks/go/exercises/pythagorean-triplet) | ☆☆ | `algorithms`, `math` 
  [Rail Fence Cipher @ exercism.io ](https://exercism.io/tracks/go/exercises/rail-fence-cipher) | ☆☆ | `algorithms`, `cryptography`, `loops`, `sorting`, `strings`, `text formatting`, `transforming` 
