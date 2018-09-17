@@ -2,78 +2,126 @@
 
 Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.
 
-## List of "Go" Exercises 
+### Solved Problems
 
- 
+Problem | Dificulty | Tags
+--------|-----------|-------------------------------------------------
+[Accumulate ](accumulate) | ☆ | `lists` 
+[Acronym ](acronym) | ☆ | `regular expressions`, `strings`, `transforming` 
+[Allergies ](allergies) | ☆☆ | `bitwise operations`, `enumeration` 
+[Armstrong Numbers ](armstrong-numbers) | ☆ | `algorithms`, `integers`, `math` 
+[Atbash Cipher ](atbash-cipher) | ☆ | `algorithms`, `cryptography`, `strings`, `transforming` 
+[Bob ](bob) | ☆ | `conditionals`, `strings` 
+[Collatz Conjecture ](collatz-conjecture) | ☆ | `conditionals`, `control flow loops`, `integers`, `math` 
+[Difference Of Squares ](difference-of-squares) | ☆ | `algorithms`, `math` 
+[Gigasecond ](gigasecond) | ☆ | `time` 
+[Grains ](grains) | ☆ | `bitwise operations`, `if else statements`, `integers`, `type conversion` 
+[Hamming ](hamming) | ☆ | `equality`, `loops`, `strings` 
+[Hello World ](hello-world) | ☆ | `strings` 
+[Isogram ](isogram) | ☆ | `sequences`, `strings` 
+[Leap ](leap) | ☆ | `booleans`, `conditionals`, `integers`, `logic` 
+[List Ops ](list-ops) | ☆ | `recursion`, `type conversion`, `lists`, `functional programming` 
+[Luhn ](luhn) | ☆ | `algorithms`, `integers`, `strings` 
+[Matrix ](matrix) | ☆☆ | `arrays`, `exception handling`, `matrices`, `strings`, `type conversion` 
+[Nth Prime ](nth-prime) | ☆ | `algorithms`, `integers`, `math` 
+[Proverb ](proverb) | ☆☆ | `arrays`, `loops`, `strings` 
+[Queen Attack ](queen-attack) | ☆☆ | `booleans`, `errors`, `games`, `logic` 
+[Raindrops ](raindrops) | ☆ | `conditionals`, `filtering`, `strings` 
+[Reverse String ](reverse-string) | ☆ | `sequences`, `strings` 
+[RNA Transcription ](rna-transcription) | ☆ | `maps`, `transforming` 
+[Robot Name ](robot-name) | ☆ | `randomness` 
+[Roman Numerals ](roman-numerals) | ☆ | `numbers`, `transforming` 
+[Scrabble Score ](scrabble-score) | ☆ | `loops`, `maps`, `strings` 
+[Space Age ](space-age) | ☆ | `floating point numbers`, `if else statements` 
+[Sum Of Multiples ](sum-of-multiples) | ☆☆ | `loops`, `math` 
+[Triangle ](triangle) | ☆ | `booleans`, `conditionals`, `logic` 
+[Two Fer ](two-fer) | ☆ | `conditionals`, `strings` 
 
- Problem @ GitHub Solution     | Problem Page @ Exercism  
--------------------------------|------------------------- 
- [**Hello World**](hello-world) |  [exercism.io / hello-world ](https://exercism.io/tracks/go/exercises/hello-world)  
- [Gigasecond](gigasecond) |  [exercism.io / gigasecond ](https://exercism.io/tracks/go/exercises/gigasecond)  
- [Bob](bob) |  [exercism.io / bob ](https://exercism.io/tracks/go/exercises/bob)  
- [Acronym](acronym) |  [exercism.io / acronym ](https://exercism.io/tracks/go/exercises/acronym)  
- Scale Generator |  [exercism.io / scale-generator ](https://exercism.io/tracks/go/exercises/scale-generator)  
- [Collatz Conjecture](collatz-conjecture) |  [exercism.io / collatz-conjecture ](https://exercism.io/tracks/go/exercises/collatz-conjecture)  
- [List Ops](list-ops) |  [exercism.io / list-ops ](https://exercism.io/tracks/go/exercises/list-ops)  
- [Space Age](space-age) |  [exercism.io / space-age ](https://exercism.io/tracks/go/exercises/space-age)  
- [**Two Fer**](two-fer) |  [exercism.io / two-fer ](https://exercism.io/tracks/go/exercises/two-fer)  
- [Leap](leap) |  [exercism.io / leap ](https://exercism.io/tracks/go/exercises/leap)  
- [Triangle](triangle) |  [exercism.io / triangle ](https://exercism.io/tracks/go/exercises/triangle)  
- [Proverb](proverb) |  [exercism.io / proverb ](https://exercism.io/tracks/go/exercises/proverb)  
- [**Hamming**](hamming) |  [exercism.io / hamming ](https://exercism.io/tracks/go/exercises/hamming)  
- [Rna Transcription](rna-transcription) |  [exercism.io / rna-transcription ](https://exercism.io/tracks/go/exercises/rna-transcription)  
- Nucleotide Count |  [exercism.io / nucleotide-count ](https://exercism.io/tracks/go/exercises/nucleotide-count)  
- Grep |  [exercism.io / grep ](https://exercism.io/tracks/go/exercises/grep)  
- [**Raindrops**](raindrops) |  [exercism.io / raindrops ](https://exercism.io/tracks/go/exercises/raindrops)  
- [Accumulate](accumulate) |  [exercism.io / accumulate ](https://exercism.io/tracks/go/exercises/accumulate)  
- [Roman Numerals](roman-numerals) |  [exercism.io / roman-numerals ](https://exercism.io/tracks/go/exercises/roman-numerals)  
- Strain |  [exercism.io / strain ](https://exercism.io/tracks/go/exercises/strain)  
- [**Scrabble Score**](scrabble-score) |  [exercism.io / scrabble-score ](https://exercism.io/tracks/go/exercises/scrabble-score)  
- Etl |  [exercism.io / etl ](https://exercism.io/tracks/go/exercises/etl)  
- Protein Translation |  [exercism.io / protein-translation ](https://exercism.io/tracks/go/exercises/protein-translation)  
- [**Isogram**](isogram) |  [exercism.io / isogram ](https://exercism.io/tracks/go/exercises/isogram)  
- [Reverse String](reverse-string) |  [exercism.io / reverse-string ](https://exercism.io/tracks/go/exercises/reverse-string)  
- Pangram |  [exercism.io / pangram ](https://exercism.io/tracks/go/exercises/pangram)  
- Anagram |  [exercism.io / anagram ](https://exercism.io/tracks/go/exercises/anagram)  
- Word Count |  [exercism.io / word-count ](https://exercism.io/tracks/go/exercises/word-count)  
- Run Length Encoding |  [exercism.io / run-length-encoding ](https://exercism.io/tracks/go/exercises/run-length-encoding)  
- [**Difference Of Squares**](difference-of-squares) |  [exercism.io / difference-of-squares ](https://exercism.io/tracks/go/exercises/difference-of-squares)  
- [Sum Of Multiples](sum-of-multiples) |  [exercism.io / sum-of-multiples ](https://exercism.io/tracks/go/exercises/sum-of-multiples)  
- Pythagorean Triplet |  [exercism.io / pythagorean-triplet ](https://exercism.io/tracks/go/exercises/pythagorean-triplet)  
- Largest Series Product |  [exercism.io / largest-series-product ](https://exercism.io/tracks/go/exercises/largest-series-product)  
- [Nth Prime](nth-prime) |  [exercism.io / nth-prime ](https://exercism.io/tracks/go/exercises/nth-prime)  
- Isbn Verifier |  [exercism.io / isbn-verifier ](https://exercism.io/tracks/go/exercises/isbn-verifier)  
- [**Luhn**](luhn) |  [exercism.io / luhn ](https://exercism.io/tracks/go/exercises/luhn)  
- Crypto Square |  [exercism.io / crypto-square ](https://exercism.io/tracks/go/exercises/crypto-square)  
- [Atbash Cipher](atbash-cipher) |  [exercism.io / atbash-cipher ](https://exercism.io/tracks/go/exercises/atbash-cipher)  
- Diffie Hellman |  [exercism.io / diffie-hellman ](https://exercism.io/tracks/go/exercises/diffie-hellman)  
- Simple Cipher |  [exercism.io / simple-cipher ](https://exercism.io/tracks/go/exercises/simple-cipher)  
- Rotational Cipher |  [exercism.io / rotational-cipher ](https://exercism.io/tracks/go/exercises/rotational-cipher)  
- [**Grains**](grains) |  [exercism.io / grains ](https://exercism.io/tracks/go/exercises/grains)  
- Secret Handshake |  [exercism.io / secret-handshake ](https://exercism.io/tracks/go/exercises/secret-handshake)  
- Sieve |  [exercism.io / sieve ](https://exercism.io/tracks/go/exercises/sieve)  
- Perfect Numbers |  [exercism.io / perfect-numbers ](https://exercism.io/tracks/go/exercises/perfect-numbers)  
- [Allergies](allergies) |  [exercism.io / allergies ](https://exercism.io/tracks/go/exercises/allergies)  
- All Your Base |  [exercism.io / all-your-base ](https://exercism.io/tracks/go/exercises/all-your-base)  
- Variable Length Quantity |  [exercism.io / variable-length-quantity ](https://exercism.io/tracks/go/exercises/variable-length-quantity)  
- Clock |  [exercism.io / clock ](https://exercism.io/tracks/go/exercises/clock)  
- Parallel Letter Frequency |  [exercism.io / parallel-letter-frequency ](https://exercism.io/tracks/go/exercises/parallel-letter-frequency)  
- Tree Building |  [exercism.io / tree-building ](https://exercism.io/tracks/go/exercises/tree-building)  
- [**Robot Name**](robot-name) |  [exercism.io / robot-name ](https://exercism.io/tracks/go/exercises/robot-name)  
- Palindrome Products |  [exercism.io / palindrome-products ](https://exercism.io/tracks/go/exercises/palindrome-products)  
- Say |  [exercism.io / say ](https://exercism.io/tracks/go/exercises/say)  
- Wordy |  [exercism.io / sordy ](https://exercism.io/tracks/go/exercises/sordy)  
- Tournament |  [exercism.io / tournament ](https://exercism.io/tracks/go/exercises/tournament)  
- Twelve Days |  [exercism.io / twelve-days ](https://exercism.io/tracks/go/exercises/twelve-days)  
- [**Matrix**](matrix) |  [exercism.io / matrix ](https://exercism.io/tracks/go/exercises/matrix)  
- Sublist |  [exercism.io / sublist ](https://exercism.io/tracks/go/exercises/sublist)  
- [Queen Attack](queen-attack) |  [exercism.io / queen-attack ](https://exercism.io/tracks/go/exercises/queen-attack)  
- Transpose |  [exercism.io / transpose ](https://exercism.io/tracks/go/exercises/transpose)  
- Saddle Points |  [exercism.io / saddle-points ](https://exercism.io/tracks/go/exercises/saddle-points)  
- Minesweeper |  [exercism.io / minesweeper ](https://exercism.io/tracks/go/exercises/minesweeper)  
- Word Search |  [exercism.io / word-search ](https://exercism.io/tracks/go/exercises/word-search)  
- Connect |  [exercism.io / connect ](https://exercism.io/tracks/go/exercises/connect)  
- Spiral Matrix |  [exercism.io / spiral-matrix ](https://exercism.io/tracks/go/exercises/spiral-matrix)  
- Error Handling |  [exercism.io / error-handling ](https://exercism.io/tracks/go/exercises/error-handling)  
- Bank Account |  [exercism.io / bank-account ](https://exercism.io/tracks/go/exercises/bank-account)  
 
+### Upcoming 
+
+Problem @ Exercsim.io | Dificulty | Tags
+----------------------|-----------|-------------------------------------------------
+ [All Your Base @ exercism.io ](https://exercism.io/tracks/go/exercises/all-your-base) | ☆ | `integers`, `transforming`, `math` 
+ [Alphametics @ exercism.io ](https://exercism.io/tracks/go/exercises/alphametics) | ☆☆ | `algorithms`, `arrays`, `searching` 
+ [Anagram @ exercism.io ](https://exercism.io/tracks/go/exercises/anagram) | ☆ | `filtering`, `parsing`, `sorting`, `strings` 
+ [Bank Account @ exercism.io ](https://exercism.io/tracks/go/exercises/bank-account) | ☆☆ | `concurrency`, `integers` 
+ [Beer Song @ exercism.io ](https://exercism.io/tracks/go/exercises/beer-song) | ☆ | `loops`, `strings`, `text formatting` 
+ [Binary @ exercism.io ](https://exercism.io/tracks/go/exercises/binary) |  | `misc` 
+ [Binary Search @ exercism.io ](https://exercism.io/tracks/go/exercises/binary-search) | ☆☆ | `algorithms`, `arrays`, `searching`, `sorting` 
+ [Binary Search Tree @ exercism.io ](https://exercism.io/tracks/go/exercises/binary-search-tree) | ☆☆ | `algorithms`, `recursion`, `searching`, `sorting`, `structs`, `trees` 
+ [Book Store @ exercism.io ](https://exercism.io/tracks/go/exercises/book-store) | ☆☆☆ | `algorithms`, `floating point numbers`, `integers`, `lists` 
+ [Bowling @ exercism.io ](https://exercism.io/tracks/go/exercises/bowling) | ☆☆ | `algorithms`, `arrays`, `conditionals` 
+ [Bracket Push @ exercism.io ](https://exercism.io/tracks/go/exercises/bracket-push) | ☆☆ | `parsing`, `strings` 
+ [Change @ exercism.io ](https://exercism.io/tracks/go/exercises/change) | ☆☆ | `algorithms`, `arrays`, `loops`, `searching` 
+ [Circular Buffer @ exercism.io ](https://exercism.io/tracks/go/exercises/circular-buffer) | ☆☆ | `queues`, `structs` 
+ [Clock @ exercism.io ](https://exercism.io/tracks/go/exercises/clock) | ☆ | `equality`, `text formatting`, `time` 
+ [Connect @ exercism.io ](https://exercism.io/tracks/go/exercises/connect) | ☆☆☆ | `arrays`, `games`, `graphs`, `loops`, `searching` 
+ [Counter @ exercism.io ](https://exercism.io/tracks/go/exercises/counter) |  | `misc` 
+ [Crypto Square @ exercism.io ](https://exercism.io/tracks/go/exercises/crypto-square) | ☆ | `cryptography`, `filtering`, `strings`, `text formatting`, `transforming` 
+ [Custom Set @ exercism.io ](https://exercism.io/tracks/go/exercises/custom-set) | ☆☆ | `filtering`, `loops`, `sets` 
+ [Diamond @ exercism.io ](https://exercism.io/tracks/go/exercises/diamond) | ☆☆ | `algorithms`, `conditionals`, `loops`, `strings`, `text formatting` 
+ [Diffie Hellman @ exercism.io ](https://exercism.io/tracks/go/exercises/diffie-hellman) | ☆☆ | `algorithms`, `cryptography`, `integers`, `transforming`, `math` 
+ [Dominoes @ exercism.io ](https://exercism.io/tracks/go/exercises/dominoes) | ☆☆ | `algorithms`, `arrays`, `searching` 
+ [Error Handling @ exercism.io ](https://exercism.io/tracks/go/exercises/error-handling) | ☆☆ | `exception handling` 
+ [ETL @ exercism.io ](https://exercism.io/tracks/go/exercises/etl) | ☆ | `loops`, `maps`, `transforming` 
+ [Flatten Array @ exercism.io ](https://exercism.io/tracks/go/exercises/flatten-array) | ☆ | `arrays`, `recursion` 
+ [Food Chain @ exercism.io ](https://exercism.io/tracks/go/exercises/food-chain) | ☆☆ | `conditionals`, `loops`, `recursion`, `strings`, `text formatting` 
+ [Forth @ exercism.io ](https://exercism.io/tracks/go/exercises/forth) | ☆☆☆ | `domain specific languages`, `parsing`, `stacks` 
+ [Grade School @ exercism.io ](https://exercism.io/tracks/go/exercises/grade-school) | ☆☆ | `lists`, `sorting`, `structs` 
+ [Grep @ exercism.io ](https://exercism.io/tracks/go/exercises/grep) | ☆☆ | `algorithms`, `arrays`, `conditionals`, `searching`, `strings` 
+ [Hexadecimal @ exercism.io ](https://exercism.io/tracks/go/exercises/hexadecimal) |  | `misc` 
+ [House @ exercism.io ](https://exercism.io/tracks/go/exercises/house) | ☆☆ | `recursion`, `strings`, `text formatting` 
+ [ISBN Verifier @ exercism.io ](https://exercism.io/tracks/go/exercises/isbn-verifier) | ☆ | `arrays` 
+ [Kindergarten Garden @ exercism.io ](https://exercism.io/tracks/go/exercises/kindergarten-garden) | ☆ | `parsing`, `records`, `searching`, `strings`, `structs` 
+ [Largest Series Product @ exercism.io ](https://exercism.io/tracks/go/exercises/largest-series-product) | ☆ | `algorithms`, `integers`, `sequences`, `math` 
+ [Ledger @ exercism.io ](https://exercism.io/tracks/go/exercises/ledger) | ☆☆ | `dates`, `integers`, `records`, `refactoring`, `sorting`, `strings`, `text formatting` 
+ [Linked List @ exercism.io ](https://exercism.io/tracks/go/exercises/linked-list) | ☆☆ | `data structure`, `pointer` 
+ [Markdown @ exercism.io ](https://exercism.io/tracks/go/exercises/markdown) | ☆☆ | `refactoring`, `strings`, `text formatting` 
+ [Meetup @ exercism.io ](https://exercism.io/tracks/go/exercises/meetup) | ☆ | `dates`, `time`, `transforming`, `type conversion` 
+ [Minesweeper @ exercism.io ](https://exercism.io/tracks/go/exercises/minesweeper) | ☆☆ | `arrays`, `games`, `loops`, `matrices`, `transforming` 
+ [Nucleotide Count @ exercism.io ](https://exercism.io/tracks/go/exercises/nucleotide-count) | ☆ | `maps`, `parsing`, `strings` 
+ [OCR Numbers @ exercism.io ](https://exercism.io/tracks/go/exercises/ocr-numbers) | ☆☆ | `parsing`, `pattern recognition` 
+ [Octal @ exercism.io ](https://exercism.io/tracks/go/exercises/octal) |  | `misc` 
+ [Paasio @ exercism.io ](https://exercism.io/tracks/go/exercises/paasio) | ☆☆ | `concurrency`, `interfaces`, `networking` 
+ [Palindrome Products @ exercism.io ](https://exercism.io/tracks/go/exercises/palindrome-products) | ☆☆ | `algorithms`, `math` 
+ [Pangram @ exercism.io ](https://exercism.io/tracks/go/exercises/pangram) | ☆ | `loops`, `strings` 
+ [Parallel Letter Frequency @ exercism.io ](https://exercism.io/tracks/go/exercises/parallel-letter-frequency) | ☆ | `concurrency` 
+ [Pascal&amp;#39;s Triangle @ exercism.io ](https://exercism.io/tracks/go/exercises/pascals-triangle) | ☆☆ | `algorithms`, `arrays`, `recursion`, `math` 
+ [Perfect Numbers @ exercism.io ](https://exercism.io/tracks/go/exercises/perfect-numbers) | ☆☆ | `algorithms`, `filtering`, `integers`, `math` 
+ [Phone Number @ exercism.io ](https://exercism.io/tracks/go/exercises/phone-number) | ☆ | `conditionals`, `regular expressions`, `strings`, `text formatting`, `transforming` 
+ [Pig Latin @ exercism.io ](https://exercism.io/tracks/go/exercises/pig-latin) | ☆☆ | `conditionals`, `strings`, `transforming` 
+ [Poker @ exercism.io ](https://exercism.io/tracks/go/exercises/poker) | ☆☆ | `equality`, `games`, `parsing`, `pattern matching`, `sequences`, `strings` 
+ [POV @ exercism.io ](https://exercism.io/tracks/go/exercises/pov) | ☆☆ | `graphs`, `recursion`, `structs`, `transforming`, `trees` 
+ [Prime Factors @ exercism.io ](https://exercism.io/tracks/go/exercises/prime-factors) | ☆ | `algorithms`, `integers`, `math` 
+ [Protein Translation @ exercism.io ](https://exercism.io/tracks/go/exercises/protein-translation) | ☆ | `filtering`, `maps`, `sequences` 
+ [Pythagorean Triplet @ exercism.io ](https://exercism.io/tracks/go/exercises/pythagorean-triplet) | ☆☆ | `algorithms`, `math` 
+ [Rail Fence Cipher @ exercism.io ](https://exercism.io/tracks/go/exercises/rail-fence-cipher) | ☆☆ | `algorithms`, `cryptography`, `loops`, `sorting`, `strings`, `text formatting`, `transforming` 
+ [React @ exercism.io ](https://exercism.io/tracks/go/exercises/react) | ☆☆☆ | `callbacks`, `interfaces`, `reactive programming` 
+ [Rectangles @ exercism.io ](https://exercism.io/tracks/go/exercises/rectangles) | ☆☆ | `arrays`, `control flow conditionals`, `control flow loops`, `matrices`, `strings` 
+ [Robot Simulator @ exercism.io ](https://exercism.io/tracks/go/exercises/robot-simulator) | ☆☆ | `concurrency`, `loops`, `sequences`, `strings`, `structs` 
+ [Rotational Cipher @ exercism.io ](https://exercism.io/tracks/go/exercises/rotational-cipher) | ☆ | `cryptography`, `integers`, `strings` 
+ [Run Length Encoding @ exercism.io ](https://exercism.io/tracks/go/exercises/run-length-encoding) | ☆☆ | `parsing`, `strings`, `transforming` 
+ [Saddle Points @ exercism.io ](https://exercism.io/tracks/go/exercises/saddle-points) | ☆☆ | `arrays`, `integers`, `matrices`, `searching` 
+ [Say @ exercism.io ](https://exercism.io/tracks/go/exercises/say) | ☆☆ | `numbers`, `strings`, `text formatting`, `transforming` 
+ [Scale Generator @ exercism.io ](https://exercism.io/tracks/go/exercises/scale-generator) | ☆ | `pattern matching`, `strings` 
+ [Secret Handshake @ exercism.io ](https://exercism.io/tracks/go/exercises/secret-handshake) | ☆☆ | `arrays`, `bitwise operations`, `integers` 
+ [Series @ exercism.io ](https://exercism.io/tracks/go/exercises/series) | ☆ | `arrays`, `refactoring`, `strings` 
+ [Sieve @ exercism.io ](https://exercism.io/tracks/go/exercises/sieve) | ☆ | `algorithms`, `integers`, `loops`, `sorting`, `math` 
+ [Simple Cipher @ exercism.io ](https://exercism.io/tracks/go/exercises/simple-cipher) | ☆ | `algorithms`, `cryptography`, `interfaces`, `strings`, `transforming` 
+ [Simple Linked List @ exercism.io ](https://exercism.io/tracks/go/exercises/simple-linked-list) | ☆☆ | `arrays`, `loops` 
+ [Spiral Matrix @ exercism.io ](https://exercism.io/tracks/go/exercises/spiral-matrix) | ☆☆ | `arrays`, `loops`, `matrices` 
+ [Strain @ exercism.io ](https://exercism.io/tracks/go/exercises/strain) | ☆ | `arrays`, `filtering`, `loops` 
+ [Sublist @ exercism.io ](https://exercism.io/tracks/go/exercises/sublist) | ☆ | `arrays`, `control flow loops` 
+ [Tournament @ exercism.io ](https://exercism.io/tracks/go/exercises/tournament) | ☆ | `integers`, `parsing`, `records`, `sorting`, `strings`, `text formatting`, `transforming` 
+ [Transpose @ exercism.io ](https://exercism.io/tracks/go/exercises/transpose) | ☆☆ | `loops`, `strings`, `transforming` 
+ [Tree Building @ exercism.io ](https://exercism.io/tracks/go/exercises/tree-building) | ☆ | `records`, `refactoring`, `sorting`, `trees` 
+ [Trinary @ exercism.io ](https://exercism.io/tracks/go/exercises/trinary) |  | `misc` 
+ [Twelve Days @ exercism.io ](https://exercism.io/tracks/go/exercises/twelve-days) | ☆☆ | `algorithms`, `pattern recognition`, `sequences`, `strings`, `text formatting` 
+ [Two Bucket @ exercism.io ](https://exercism.io/tracks/go/exercises/two-bucket) | ☆☆ | `algorithms`, `conditionals`, `searching` 
+ [Variable Length Quantity @ exercism.io ](https://exercism.io/tracks/go/exercises/variable-length-quantity) | ☆☆ | `bitwise operations`, `integers`, `transforming` 
+ [Word Count @ exercism.io ](https://exercism.io/tracks/go/exercises/word-count) | ☆ | `sorting`, `strings` 
+ [Word Search @ exercism.io ](https://exercism.io/tracks/go/exercises/word-search) | ☆☆ | `matrices`, `searching`, `strings` 
+ [Wordy @ exercism.io ](https://exercism.io/tracks/go/exercises/wordy) | ☆ | `conditionals`, `integers`, `parsing`, `strings`, `type conversion` 
+ [Yacht @ exercism.io ](https://exercism.io/tracks/go/exercises/yacht) | ☆☆ | `equality`, `games`, `integers`, `parsing`, `pattern matching`, `sequences` 
+ [Zebra Puzzle @ exercism.io ](https://exercism.io/tracks/go/exercises/zebra-puzzle) | ☆☆ | `algorithms`, `arrays`, `searching` 
