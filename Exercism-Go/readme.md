@@ -41,7 +41,7 @@ Exercism is an online platform designed to help you improve your coding skills t
  [Sum Of Multiples](sum-of-multiples) |  [exercism.io / sum-of-multiples ](https://exercism.io/tracks/go/exercises/sum-of-multiples)  
  Pythagorean Triplet |  [exercism.io / pythagorean-triplet ](https://exercism.io/tracks/go/exercises/pythagorean-triplet)  
  Largest Series Product |  [exercism.io / largest-series-product ](https://exercism.io/tracks/go/exercises/largest-series-product)  
- Nth Prime |  [exercism.io / nth-prime ](https://exercism.io/tracks/go/exercises/nth-prime)  
+ [Nth Prime](nth-prime) |  [exercism.io / nth-prime ](https://exercism.io/tracks/go/exercises/nth-prime)  
  Isbn Verifier |  [exercism.io / isbn-verifier ](https://exercism.io/tracks/go/exercises/isbn-verifier)  
  [**Luhn**](luhn) |  [exercism.io / luhn ](https://exercism.io/tracks/go/exercises/luhn)  
  Crypto Square |  [exercism.io / crypto-square ](https://exercism.io/tracks/go/exercises/crypto-square)  
