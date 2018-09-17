@@ -1,4 +1,7 @@
 # [Exercism.io - Go](https://exercism.io/tracks/go)
+ 
+![GO - Exercism](https://assets.exercism.io/tracks/go-bordered-green.png)
+ 
 
 Exercism is an online platform designed to help you improve your coding skills through practice and mentorship.
 
