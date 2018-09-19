@@ -15,6 +15,8 @@ Problem | Dificulty | Tags
 [Armstrong Numbers ](armstrong-numbers) | ☆ | `algorithms`, `integers`, `math` 
 [Atbash Cipher ](atbash-cipher) | ☆ | `algorithms`, `cryptography`, `strings`, `transforming` 
 [Beer Song ](beer-song) | ☆ | `loops`, `strings`, `text formatting` 
+[Binary Search ](binary-search) | ☆☆ | `algorithms`, `arrays`, `searching`, `sorting` 
+[Binary Search Tree ](binary-search-tree) | ☆☆ | `algorithms`, `recursion`, `searching`, `sorting`, `structs`, `trees` 
 [Bob ](bob) | ☆ | `conditionals`, `strings` 
 [Collatz Conjecture ](collatz-conjecture) | ☆ | `conditionals`, `control flow loops`, `integers`, `math` 
 [Difference Of Squares ](difference-of-squares) | ☆ | `algorithms`, `math` 
@@ -29,6 +31,7 @@ Problem | Dificulty | Tags
 [Luhn ](luhn) | ☆ | `algorithms`, `integers`, `strings` 
 [Matrix ](matrix) | ☆☆ | `arrays`, `exception handling`, `matrices`, `strings`, `type conversion` 
 [Nth Prime ](nth-prime) | ☆ | `algorithms`, `integers`, `math` 
+[Pascal&amp;#39;s Triangle ](pascals-triangle) | ☆☆ | `algorithms`, `arrays`, `recursion`, `math` 
 [Prime Factors ](prime-factors) | ☆ | `algorithms`, `integers`, `math` 
 [Proverb ](proverb) | ☆☆ | `arrays`, `loops`, `strings` 
 [Queen Attack ](queen-attack) | ☆☆ | `booleans`, `errors`, `games`, `logic` 
@@ -53,8 +56,6 @@ Problem @ Exercsim.io | Dificulty | Tags
  [Anagram @ exercism.io ](https://exercism.io/tracks/go/exercises/anagram) | ☆ | `filtering`, `parsing`, `sorting`, `strings` 
  [Bank Account @ exercism.io ](https://exercism.io/tracks/go/exercises/bank-account) | ☆☆ | `concurrency`, `integers` 
  [Binary @ exercism.io ](https://exercism.io/tracks/go/exercises/binary) |  | `misc` 
- [Binary Search @ exercism.io ](https://exercism.io/tracks/go/exercises/binary-search) | ☆☆ | `algorithms`, `arrays`, `searching`, `sorting` 
- [Binary Search Tree @ exercism.io ](https://exercism.io/tracks/go/exercises/binary-search-tree) | ☆☆ | `algorithms`, `recursion`, `searching`, `sorting`, `structs`, `trees` 
  [Book Store @ exercism.io ](https://exercism.io/tracks/go/exercises/book-store) | ☆☆☆ | `algorithms`, `floating point numbers`, `integers`, `lists` 
  [Bowling @ exercism.io ](https://exercism.io/tracks/go/exercises/bowling) | ☆☆ | `algorithms`, `arrays`, `conditionals` 
  [Bracket Push @ exercism.io ](https://exercism.io/tracks/go/exercises/bracket-push) | ☆☆ | `parsing`, `strings` 
@@ -91,7 +92,6 @@ Problem @ Exercsim.io | Dificulty | Tags
  [Palindrome Products @ exercism.io ](https://exercism.io/tracks/go/exercises/palindrome-products) | ☆☆ | `algorithms`, `math` 
  [Pangram @ exercism.io ](https://exercism.io/tracks/go/exercises/pangram) | ☆ | `loops`, `strings` 
  [Parallel Letter Frequency @ exercism.io ](https://exercism.io/tracks/go/exercises/parallel-letter-frequency) | ☆ | `concurrency` 
- [Pascal&amp;#39;s Triangle @ exercism.io ](https://exercism.io/tracks/go/exercises/pascals-triangle) | ☆☆ | `algorithms`, `arrays`, `recursion`, `math` 
  [Perfect Numbers @ exercism.io ](https://exercism.io/tracks/go/exercises/perfect-numbers) | ☆☆ | `algorithms`, `filtering`, `integers`, `math` 
  [Phone Number @ exercism.io ](https://exercism.io/tracks/go/exercises/phone-number) | ☆ | `conditionals`, `regular expressions`, `strings`, `text formatting`, `transforming` 
  [Pig Latin @ exercism.io ](https://exercism.io/tracks/go/exercises/pig-latin) | ☆☆ | `conditionals`, `strings`, `transforming` 
