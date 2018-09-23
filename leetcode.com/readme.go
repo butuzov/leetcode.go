@@ -6,6 +6,7 @@ import (
 	"html/template"
 	"io/ioutil"
 	"os"
+	"sort"
 	"strings"
 )
 
@@ -21,6 +22,8 @@ type Problem struct {
 
 	Ready bool
 }
+
+type Problems []Problem
 
 func main() {
 
@@ -43,11 +46,11 @@ func main() {
 	}
 
 	// Getting List of Problems from Json
-	var Problems = make(map[string]Problem)
+	var ProblemsMap = make(map[string]Problem)
 
-	json.Unmarshal(file, &Problems)
+	json.Unmarshal(file, &ProblemsMap)
 
-	for i, v := range Problems {
+	for i, v := range ProblemsMap {
 
 		for i := range v.Topics {
 			v.Topics[i] = fmt.Sprintf("`%s`", v.Topics[i])
@@ -67,11 +70,11 @@ func main() {
 			break
 		}
 
-		Problems[i] = v
+		ProblemsMap[i] = v
 	}
 
-	isReadyOrNot(Problems, exercises, true)
-	isReadyOrNot(Problems, exercises, false)
+	isReadyOrNot(ProblemsMap, exercises, true)
+	isReadyOrNot(ProblemsMap, exercises, false)
 
 	// Getting list of tasks already finished.
 	f, errReadmeFile := os.Create("readme.md")
@@ -81,8 +84,31 @@ func main() {
 	}
 
 	// Saving Data to file.
+
+	tmp, n := make(Problems, len(ProblemsMap)), 0
+	for _, problem := range ProblemsMap {
+		tmp[n] = problem
+		n++
+	}
+	sort.Sort(tmp)
+
 	tpl := template.Must(template.ParseGlob("readme*"))
-	tpl.ExecuteTemplate(f, "readme.md.tpl", Problems)
+	tpl.ExecuteTemplate(f, "readme.md.tpl", tmp)
+}
+
+// Len is part of sort.Interface.
+func (p Problems) Len() int {
+	return len(p)
+}
+
+// Swap is part of sort.Interface.
+func (p Problems) Swap(i, j int) {
+	p[i], p[j] = p[j], p[i]
+}
+
+// Less is part of sort.Interface. We use count as the value to sort by
+func (p Problems) Less(i, j int) bool {
+	return p[i].ID > p[j].ID
 }
 
 func isReadyOrNot(p map[string]Problem, exercises []string, ready bool) {
