@@ -1537,140 +1537,208 @@
         "Title": "Valid Palindrome II",
         "Slug": "valid-palindrome-ii",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
     },
     "24-game": {
         "Id": 679,
         "Title": "24 Game",
         "Slug": "24-game",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Depth-first Search"
+        ]
     },
     "valid-parenthesis-string": {
         "Id": 678,
         "Title": "Valid Parenthesis String",
         "Slug": "valid-parenthesis-string",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
     },
     "map-sum-pairs": {
         "Id": 677,
         "Title": "Map Sum Pairs",
         "Slug": "map-sum-pairs",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Trie"
+        ]
     },
     "implement-magic-dictionary": {
         "Id": 676,
         "Title": "Implement Magic Dictionary",
         "Slug": "implement-magic-dictionary",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Trie",
+            "Google"
+        ]
     },
     "cut-off-trees-for-golf-event": {
         "Id": 675,
         "Title": "Cut Off Trees for Golf Event",
         "Slug": "cut-off-trees-for-golf-event",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Breadth-first Search",
+            "Amazon"
+        ]
     },
     "longest-continuous-increasing-subsequence": {
         "Id": 674,
         "Title": "Longest Continuous Increasing Subsequence",
         "Slug": "longest-continuous-increasing-subsequence",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Facebook"
+        ]
     },
     "number-of-longest-increasing-subsequence": {
         "Id": 673,
         "Title": "Number of Longest Increasing Subsequence",
         "Slug": "number-of-longest-increasing-subsequence",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Facebook"
+        ]
     },
     "bulb-switcher-ii": {
         "Id": 672,
         "Title": "Bulb Switcher II",
         "Slug": "bulb-switcher-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
     },
     "second-minimum-node-in-a-binary-tree": {
         "Id": 671,
         "Title": "Second Minimum Node In a Binary Tree",
         "Slug": "second-minimum-node-in-a-binary-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "maximum-swap": {
         "Id": 670,
         "Title": "Maximum Swap",
         "Slug": "maximum-swap",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Math"
+        ]
     },
     "trim-a-binary-search-tree": {
         "Id": 669,
         "Title": "Trim a Binary Search Tree",
         "Slug": "trim-a-binary-search-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "kth-smallest-number-in-multiplication-table": {
         "Id": 668,
         "Title": "Kth Smallest Number in Multiplication Table",
         "Slug": "kth-smallest-number-in-multiplication-table",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Binary Search"
+        ]
     },
     "beautiful-arrangement-ii": {
         "Id": 667,
         "Title": "Beautiful Arrangement II",
         "Slug": "beautiful-arrangement-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "non-decreasing-array": {
         "Id": 665,
         "Title": "Non-decreasing Array",
         "Slug": "non-decreasing-array",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "strange-printer": {
         "Id": 664,
         "Title": "Strange Printer",
         "Slug": "strange-printer",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming",
+            "Depth-first Search"
+        ]
     },
     "maximum-width-of-binary-tree": {
         "Id": 662,
         "Title": "Maximum Width of Binary Tree",
         "Slug": "maximum-width-of-binary-tree",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree"
+        ]
     },
     "image-smoother": {
         "Id": 661,
         "Title": "Image Smoother",
         "Slug": "image-smoother",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "split-array-into-consecutive-subsequences": {
         "Id": 659,
         "Title": "Split Array into Consecutive Subsequences",
         "Slug": "split-array-into-consecutive-subsequences",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Heap",
+            "Greedy"
+        ]
     },
     "find-k-closest-elements": {
         "Id": 658,
         "Title": "Find K Closest Elements",
         "Slug": "find-k-closest-elements",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Binary Search"
+        ]
     },
     "robot-return-to-origin": {
         "Id": 657,
@@ -1684,413 +1752,608 @@
         "Title": "Print Binary Tree",
         "Slug": "print-binary-tree",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree"
+        ]
     },
     "maximum-binary-tree": {
         "Id": 654,
         "Title": "Maximum Binary Tree",
         "Slug": "maximum-binary-tree",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree"
+        ]
     },
     "two-sum-iv-input-is-a-bst": {
         "Id": 653,
         "Title": "Two Sum IV - Input is a BST",
         "Slug": "two-sum-iv-input-is-a-bst",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "find-duplicate-subtrees": {
         "Id": 652,
         "Title": "Find Duplicate Subtrees",
         "Slug": "find-duplicate-subtrees",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree"
+        ]
     },
     "2-keys-keyboard": {
         "Id": 650,
         "Title": "2 Keys Keyboard",
         "Slug": "2-keys-keyboard",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "dota2-senate": {
         "Id": 649,
         "Title": "Dota2 Senate",
         "Slug": "dota2-senate",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Greedy"
+        ]
     },
     "replace-words": {
         "Id": 648,
         "Title": "Replace Words",
         "Slug": "replace-words",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Trie"
+        ]
     },
     "palindromic-substrings": {
         "Id": 647,
         "Title": "Palindromic Substrings",
         "Slug": "palindromic-substrings",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Dynamic Programming"
+        ]
     },
     "maximum-length-of-pair-chain": {
         "Id": 646,
         "Title": "Maximum Length of Pair Chain",
         "Slug": "maximum-length-of-pair-chain",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "set-mismatch": {
         "Id": 645,
         "Title": "Set Mismatch",
         "Slug": "set-mismatch",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table",
+            "Math"
+        ]
     },
     "maximum-average-subarray-i": {
         "Id": 643,
         "Title": "Maximum Average Subarray I",
         "Slug": "maximum-average-subarray-i",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "solve-the-equation": {
         "Id": 640,
         "Title": "Solve the Equation",
         "Slug": "solve-the-equation",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
     },
     "decode-ways-ii": {
         "Id": 639,
         "Title": "Decode Ways II",
         "Slug": "decode-ways-ii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "shopping-offers": {
         "Id": 638,
         "Title": "Shopping Offers",
         "Slug": "shopping-offers",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Depth-first Search"
+        ]
     },
     "average-of-levels-in-binary-tree": {
         "Id": 637,
         "Title": "Average of Levels in Binary Tree",
         "Slug": "average-of-levels-in-binary-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "exclusive-time-of-functions": {
         "Id": 636,
         "Title": "Exclusive Time of Functions",
         "Slug": "exclusive-time-of-functions",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Stack"
+        ]
     },
     "sum-of-square-numbers": {
         "Id": 633,
         "Title": "Sum of Square Numbers",
         "Slug": "sum-of-square-numbers",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "smallest-range": {
         "Id": 632,
         "Title": "Smallest Range",
         "Slug": "smallest-range",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ]
     },
     "course-schedule-iii": {
         "Id": 630,
         "Title": "Course Schedule III",
         "Slug": "course-schedule-iii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Greedy"
+        ]
     },
     "k-inverse-pairs-array": {
         "Id": 629,
         "Title": "K Inverse Pairs Array",
         "Slug": "k-inverse-pairs-array",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "maximum-product-of-three-numbers": {
         "Id": 628,
         "Title": "Maximum Product of Three Numbers",
         "Slug": "maximum-product-of-three-numbers",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Math"
+        ]
     },
     "add-one-row-to-tree": {
         "Id": 623,
         "Title": "Add One Row to Tree",
         "Slug": "add-one-row-to-tree",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree"
+        ]
     },
     "task-scheduler": {
         "Id": 621,
         "Title": "Task Scheduler",
         "Slug": "task-scheduler",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Greedy",
+            "Queue"
+        ]
     },
     "merge-two-binary-trees": {
         "Id": 617,
         "Title": "Merge Two Binary Trees",
         "Slug": "merge-two-binary-trees",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "valid-triangle-number": {
         "Id": 611,
         "Title": "Valid Triangle Number",
         "Slug": "valid-triangle-number",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "find-duplicate-file-in-system": {
         "Id": 609,
         "Title": "Find Duplicate File in System",
         "Slug": "find-duplicate-file-in-system",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "String"
+        ]
     },
     "construct-string-from-binary-tree": {
         "Id": 606,
         "Title": "Construct String from Binary Tree",
         "Slug": "construct-string-from-binary-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String",
+            "Tree"
+        ]
     },
     "can-place-flowers": {
         "Id": 605,
         "Title": "Can Place Flowers",
         "Slug": "can-place-flowers",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "non-negative-integers-without-consecutive-ones": {
         "Id": 600,
         "Title": "Non-negative Integers without Consecutive Ones",
         "Slug": "non-negative-integers-without-consecutive-ones",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "minimum-index-sum-of-two-lists": {
         "Id": 599,
         "Title": "Minimum Index Sum of Two Lists",
         "Slug": "minimum-index-sum-of-two-lists",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "range-addition-ii": {
         "Id": 598,
         "Title": "Range Addition II",
         "Slug": "range-addition-ii",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "longest-harmonious-subsequence": {
         "Id": 594,
         "Title": "Longest Harmonious Subsequence",
         "Slug": "longest-harmonious-subsequence",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "valid-square": {
         "Id": 593,
         "Title": "Valid Square",
         "Slug": "valid-square",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
     },
     "fraction-addition-and-subtraction": {
         "Id": 592,
         "Title": "Fraction Addition and Subtraction",
         "Slug": "fraction-addition-and-subtraction",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
     },
     "tag-validator": {
         "Id": 591,
         "Title": "Tag Validator",
         "Slug": "tag-validator",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "String",
+            "Stack"
+        ]
     },
     "erect-the-fence": {
         "Id": 587,
         "Title": "Erect the Fence",
         "Slug": "erect-the-fence",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Geometry"
+        ]
     },
     "delete-operation-for-two-strings": {
         "Id": 583,
         "Title": "Delete Operation for Two Strings",
         "Slug": "delete-operation-for-two-strings",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
     },
     "shortest-unsorted-continuous-subarray": {
         "Id": 581,
         "Title": "Shortest Unsorted Continuous Subarray",
         "Slug": "shortest-unsorted-continuous-subarray",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "out-of-boundary-paths": {
         "Id": 576,
         "Title": "Out of Boundary Paths",
         "Slug": "out-of-boundary-paths",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Depth-first Search"
+        ]
     },
     "distribute-candies": {
         "Id": 575,
         "Title": "Distribute Candies",
         "Slug": "distribute-candies",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "subtree-of-another-tree": {
         "Id": 572,
         "Title": "Subtree of Another Tree",
         "Slug": "subtree-of-another-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "permutation-in-string": {
         "Id": 567,
         "Title": "Permutation in String",
         "Slug": "permutation-in-string",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Two Pointers"
+        ]
     },
     "reshape-the-matrix": {
         "Id": 566,
         "Title": "Reshape the Matrix",
         "Slug": "reshape-the-matrix",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "array-nesting": {
         "Id": 565,
         "Title": "Array Nesting",
         "Slug": "array-nesting",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "find-the-closest-palindrome": {
         "Id": 564,
         "Title": "Find the Closest Palindrome",
         "Slug": "find-the-closest-palindrome",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "String"
+        ]
     },
     "binary-tree-tilt": {
         "Id": 563,
         "Title": "Binary Tree Tilt",
         "Slug": "binary-tree-tilt",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "array-partition-i": {
         "Id": 561,
         "Title": "Array Partition I",
         "Slug": "array-partition-i",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "subarray-sum-equals-k": {
         "Id": 560,
         "Title": "Subarray Sum Equals K",
         "Slug": "subarray-sum-equals-k",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Map"
+        ]
     },
     "reverse-words-in-a-string-iii": {
         "Id": 557,
         "Title": "Reverse Words in a String III",
         "Slug": "reverse-words-in-a-string-iii",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
     },
     "next-greater-element-iii": {
         "Id": 556,
         "Title": "Next Greater Element III",
         "Slug": "next-greater-element-iii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
     },
     "brick-wall": {
         "Id": 554,
         "Title": "Brick Wall",
         "Slug": "brick-wall",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "optimal-division": {
         "Id": 553,
         "Title": "Optimal Division",
         "Slug": "optimal-division",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "String"
+        ]
     },
     "student-attendance-record-ii": {
         "Id": 552,
         "Title": "Student Attendance Record II",
         "Slug": "student-attendance-record-ii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "student-attendance-record-i": {
         "Id": 551,
         "Title": "Student Attendance Record I",
         "Slug": "student-attendance-record-i",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
     },
     "friend-circles": {
         "Id": 547,
         "Title": "Friend Circles",
         "Slug": "friend-circles",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search",
+            "Union Find"
+        ]
     },
     "remove-boxes": {
         "Id": 546,
         "Title": "Remove Boxes",
         "Slug": "remove-boxes",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming",
+            "Depth-first Search"
+        ]
     },
     "diameter-of-binary-tree": {
         "Id": 543,
         "Title": "Diameter of Binary Tree",
         "Slug": "diameter-of-binary-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "01-matrix": {
         "Id": 542,
         "Title": "01 Matrix",
         "Slug": "01-matrix",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search",
+            "Breadth-first Search"
+        ]
     },
     "reverse-string-ii": {
         "Id": 541,
         "Title": "Reverse String II",
         "Slug": "reverse-string-ii",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
     },
     "single-element-in-a-sorted-array": {
         "Id": 540,
@@ -2104,98 +2367,146 @@
         "Title": "Minimum Time Difference",
         "Slug": "minimum-time-difference",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
     },
     "convert-bst-to-greater-tree": {
         "Id": 538,
         "Title": "Convert BST to Greater Tree",
         "Slug": "convert-bst-to-greater-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "complex-number-multiplication": {
         "Id": 537,
         "Title": "Complex Number Multiplication",
         "Slug": "complex-number-multiplication",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "String"
+        ]
     },
     "encode-and-decode-tinyurl": {
         "Id": 535,
         "Title": "Encode and Decode TinyURL",
         "Slug": "encode-and-decode-tinyurl",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Math"
+        ]
     },
     "k-diff-pairs-in-an-array": {
         "Id": 532,
         "Title": "K-diff Pairs in an Array",
         "Slug": "k-diff-pairs-in-an-array",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Two Pointers"
+        ]
     },
     "minimum-absolute-difference-in-bst": {
         "Id": 530,
         "Title": "Minimum Absolute Difference in BST",
         "Slug": "minimum-absolute-difference-in-bst",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Binary Search Tree"
+        ]
     },
     "minesweeper": {
         "Id": 529,
         "Title": "Minesweeper",
         "Slug": "minesweeper",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search",
+            "Breadth-first Search"
+        ]
     },
     "beautiful-arrangement": {
         "Id": 526,
         "Title": "Beautiful Arrangement",
         "Slug": "beautiful-arrangement",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Backtracking"
+        ]
     },
     "contiguous-array": {
         "Id": 525,
         "Title": "Contiguous Array",
         "Slug": "contiguous-array",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "longest-word-in-dictionary-through-deleting": {
         "Id": 524,
         "Title": "Longest Word in Dictionary through Deleting",
         "Slug": "longest-word-in-dictionary-through-deleting",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Two Pointers",
+            "Sort"
+        ]
     },
     "continuous-subarray-sum": {
         "Id": 523,
         "Title": "Continuous Subarray Sum",
         "Slug": "continuous-subarray-sum",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Dynamic Programming"
+        ]
     },
     "longest-uncommon-subsequence-ii": {
         "Id": 522,
         "Title": "Longest Uncommon Subsequence II",
         "Slug": "longest-uncommon-subsequence-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
     },
     "longest-uncommon-subsequence-i": {
         "Id": 521,
         "Title": "Longest Uncommon Subsequence I ",
         "Slug": "longest-uncommon-subsequence-i",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
     },
     "detect-capital": {
         "Id": 520,
         "Title": "Detect Capital",
         "Slug": "detect-capital",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
     },
     "coin-change-2": {
         "Id": 518,
@@ -2209,49 +2520,78 @@
         "Title": "Super Washing Machines",
         "Slug": "super-washing-machines",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Math",
+            "Dynamic Programming"
+        ]
     },
     "longest-palindromic-subsequence": {
         "Id": 516,
         "Title": "Longest Palindromic Subsequence",
         "Slug": "longest-palindromic-subsequence",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "find-largest-value-in-each-tree-row": {
         "Id": 515,
         "Title": "Find Largest Value in Each Tree Row",
         "Slug": "find-largest-value-in-each-tree-row",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search",
+            "Breadth-first Search"
+        ]
     },
     "freedom-trail": {
         "Id": 514,
         "Title": "Freedom Trail",
         "Slug": "freedom-trail",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Divide and Conquer",
+            "Dynamic Programming",
+            "Depth-first Search"
+        ]
     },
     "find-bottom-left-tree-value": {
         "Id": 513,
         "Title": "Find Bottom Left Tree Value",
         "Slug": "find-bottom-left-tree-value",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search",
+            "Breadth-first Search"
+        ]
     },
     "most-frequent-subtree-sum": {
         "Id": 508,
         "Title": "Most Frequent Subtree Sum",
         "Slug": "most-frequent-subtree-sum",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Tree"
+        ]
     },
     "perfect-number": {
         "Id": 507,
         "Title": "Perfect Number",
         "Slug": "perfect-number",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "relative-ranks": {
         "Id": 506,
@@ -2272,28 +2612,41 @@
         "Title": "Next Greater Element II",
         "Slug": "next-greater-element-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Stack"
+        ]
     },
     "ipo": {
         "Id": 502,
         "Title": "IPO",
         "Slug": "ipo",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Heap",
+            "Greedy"
+        ]
     },
     "find-mode-in-binary-search-tree": {
         "Id": 501,
         "Title": "Find Mode in Binary Search Tree",
         "Slug": "find-mode-in-binary-search-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "keyboard-row": {
         "Id": 500,
         "Title": "Keyboard Row",
         "Slug": "keyboard-row",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "diagonal-traverse": {
         "Id": 498,
@@ -2307,28 +2660,44 @@
         "Title": "Next Greater Element I",
         "Slug": "next-greater-element-i",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Stack"
+        ]
     },
     "teemo-attacking": {
         "Id": 495,
         "Title": "Teemo Attacking",
         "Slug": "teemo-attacking",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "target-sum": {
         "Id": 494,
         "Title": "Target Sum",
         "Slug": "target-sum",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Depth-first Search"
+        ]
     },
     "reverse-pairs": {
         "Id": 493,
         "Title": "Reverse Pairs",
         "Slug": "reverse-pairs",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Binary Search Tree"
+        ]
     },
     "construct-the-rectangle": {
         "Id": 492,
@@ -2342,35 +2711,52 @@
         "Title": "Increasing Subsequences",
         "Slug": "increasing-subsequences",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search"
+        ]
     },
     "zuma-game": {
         "Id": 488,
         "Title": "Zuma Game",
         "Slug": "zuma-game",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Depth-first Search"
+        ]
     },
     "predict-the-winner": {
         "Id": 486,
         "Title": "Predict the Winner",
         "Slug": "predict-the-winner",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Minimax"
+        ]
     },
     "max-consecutive-ones": {
         "Id": 485,
         "Title": "Max Consecutive Ones",
         "Slug": "max-consecutive-ones",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "smallest-good-base": {
         "Id": 483,
         "Title": "Smallest Good Base",
         "Slug": "smallest-good-base",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Math",
+            "Binary Search"
+        ]
     },
     "license-key-formatting": {
         "Id": 482,
@@ -2405,105 +2791,153 @@
         "Title": "Total Hamming Distance",
         "Slug": "total-hamming-distance",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "number-complement": {
         "Id": 476,
         "Title": "Number Complement",
         "Slug": "number-complement",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "heaters": {
         "Id": 475,
         "Title": "Heaters",
         "Slug": "heaters",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Binary Search"
+        ]
     },
     "ones-and-zeroes": {
         "Id": 474,
         "Title": "Ones and Zeroes",
         "Slug": "ones-and-zeroes",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "matchsticks-to-square": {
         "Id": 473,
         "Title": "Matchsticks to Square",
         "Slug": "matchsticks-to-square",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search"
+        ]
     },
     "concatenated-words": {
         "Id": 472,
         "Title": "Concatenated Words",
         "Slug": "concatenated-words",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming",
+            "Depth-first Search",
+            "Trie"
+        ]
     },
     "validate-ip-address": {
         "Id": 468,
         "Title": "Validate IP Address",
         "Slug": "validate-ip-address",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
     },
     "unique-substrings-in-wraparound-string": {
         "Id": 467,
         "Title": "Unique Substrings in Wraparound String",
         "Slug": "unique-substrings-in-wraparound-string",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "count-the-repetitions": {
         "Id": 466,
         "Title": "Count The Repetitions",
         "Slug": "count-the-repetitions",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "can-i-win": {
         "Id": 464,
         "Title": "Can I Win",
         "Slug": "can-i-win",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Minimax"
+        ]
     },
     "island-perimeter": {
         "Id": 463,
         "Title": "Island Perimeter",
         "Slug": "island-perimeter",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "minimum-moves-to-equal-array-elements-ii": {
         "Id": 462,
         "Title": "Minimum Moves to Equal Array Elements II",
         "Slug": "minimum-moves-to-equal-array-elements-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
     },
     "hamming-distance": {
         "Id": 461,
         "Title": "Hamming Distance",
         "Slug": "hamming-distance",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "lfu-cache": {
         "Id": 460,
         "Title": "LFU Cache",
         "Slug": "lfu-cache",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Design"
+        ]
     },
     "repeated-substring-pattern": {
         "Id": 459,
         "Title": "Repeated Substring Pattern",
         "Slug": "repeated-substring-pattern",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
     },
     "poor-pigs": {
         "Id": 458,
@@ -2524,84 +2958,122 @@
         "Title": "132 Pattern",
         "Slug": "132-pattern",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Stack"
+        ]
     },
     "assign-cookies": {
         "Id": 455,
         "Title": "Assign Cookies",
         "Slug": "assign-cookies",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Greedy"
+        ]
     },
     "4sum-ii": {
         "Id": 454,
         "Title": "4Sum II",
         "Slug": "4sum-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Binary Search"
+        ]
     },
     "minimum-moves-to-equal-array-elements": {
         "Id": 453,
         "Title": "Minimum Moves to Equal Array Elements",
         "Slug": "minimum-moves-to-equal-array-elements",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "minimum-number-of-arrows-to-burst-balloons": {
         "Id": 452,
         "Title": "Minimum Number of Arrows to Burst Balloons",
         "Slug": "minimum-number-of-arrows-to-burst-balloons",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Greedy"
+        ]
     },
     "sort-characters-by-frequency": {
         "Id": 451,
         "Title": "Sort Characters By Frequency",
         "Slug": "sort-characters-by-frequency",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Heap"
+        ]
     },
     "delete-node-in-a-bst": {
         "Id": 450,
         "Title": "Delete Node in a BST",
         "Slug": "delete-node-in-a-bst",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree"
+        ]
     },
     "serialize-and-deserialize-bst": {
         "Id": 449,
         "Title": "Serialize and Deserialize BST",
         "Slug": "serialize-and-deserialize-bst",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree"
+        ]
     },
     "find-all-numbers-disappeared-in-an-array": {
         "Id": 448,
         "Title": "Find All Numbers Disappeared in an Array",
         "Slug": "find-all-numbers-disappeared-in-an-array",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "number-of-boomerangs": {
         "Id": 447,
         "Title": "Number of Boomerangs",
         "Slug": "number-of-boomerangs",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "arithmetic-slices-ii-subsequence": {
         "Id": 446,
         "Title": "Arithmetic Slices II - Subsequence",
         "Slug": "arithmetic-slices-ii-subsequence",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "add-two-numbers-ii": {
         "Id": 445,
         "Title": "Add Two Numbers II",
         "Slug": "add-two-numbers-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "string-compression": {
         "Id": 443,
@@ -2615,14 +3087,21 @@
         "Title": "Find All Duplicates in an Array",
         "Slug": "find-all-duplicates-in-an-array",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "arranging-coins": {
         "Id": 441,
         "Title": "Arranging Coins",
         "Slug": "arranging-coins",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math",
+            "Binary Search"
+        ]
     },
     "k-th-smallest-in-lexicographical-order": {
         "Id": 440,
@@ -2636,35 +3115,50 @@
         "Title": "Find All Anagrams in a String",
         "Slug": "find-all-anagrams-in-a-string",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "path-sum-iii": {
         "Id": 437,
         "Title": "Path Sum III",
         "Slug": "path-sum-iii",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "find-right-interval": {
         "Id": 436,
         "Title": "Find Right Interval",
         "Slug": "find-right-interval",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Binary Search"
+        ]
     },
     "non-overlapping-intervals": {
         "Id": 435,
         "Title": "Non-overlapping Intervals",
         "Slug": "non-overlapping-intervals",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Greedy"
+        ]
     },
     "number-of-segments-in-a-string": {
         "Id": 434,
         "Title": "Number of Segments in a String",
         "Slug": "number-of-segments-in-a-string",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
     },
     "minimum-genetic-mutation": {
         "Id": 433,
@@ -2678,7 +3172,10 @@
         "Title": "All O`one Data Structure",
         "Slug": "all-oone-data-structure",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Design"
+        ]
     },
     "longest-repeating-character-replacement": {
         "Id": 424,
@@ -2692,14 +3189,21 @@
         "Title": "Reconstruct Original Digits from English",
         "Slug": "reconstruct-original-digits-from-english",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
     },
     "maximum-xor-of-two-numbers-in-an-array": {
         "Id": 421,
         "Title": "Maximum XOR of Two Numbers in an Array",
         "Slug": "maximum-xor-of-two-numbers-in-an-array",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Bit Manipulation",
+            "Trie"
+        ]
     },
     "strong-password-checker": {
         "Id": 420,
@@ -2720,35 +3224,52 @@
         "Title": "Pacific Atlantic Water Flow",
         "Slug": "pacific-atlantic-water-flow",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search",
+            "Breadth-first Search"
+        ]
     },
     "partition-equal-subset-sum": {
         "Id": 416,
         "Title": "Partition Equal Subset Sum",
         "Slug": "partition-equal-subset-sum",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "add-strings": {
         "Id": 415,
         "Title": "Add Strings",
         "Slug": "add-strings",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "third-maximum-number": {
         "Id": 414,
         "Title": "Third Maximum Number",
         "Slug": "third-maximum-number",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "arithmetic-slices": {
         "Id": 413,
         "Title": "Arithmetic Slices",
         "Slug": "arithmetic-slices",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Dynamic Programming"
+        ]
     },
     "fizz-buzz": {
         "Id": 412,
@@ -2762,98 +3283,145 @@
         "Title": "Split Array Largest Sum",
         "Slug": "split-array-largest-sum",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Binary Search",
+            "Dynamic Programming"
+        ]
     },
     "longest-palindrome": {
         "Id": 409,
         "Title": "Longest Palindrome",
         "Slug": "longest-palindrome",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "trapping-rain-water-ii": {
         "Id": 407,
         "Title": "Trapping Rain Water II",
         "Slug": "trapping-rain-water-ii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Heap",
+            "Breadth-first Search"
+        ]
     },
     "queue-reconstruction-by-height": {
         "Id": 406,
         "Title": "Queue Reconstruction by Height",
         "Slug": "queue-reconstruction-by-height",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Greedy"
+        ]
     },
     "convert-a-number-to-hexadecimal": {
         "Id": 405,
         "Title": "Convert a Number to Hexadecimal",
         "Slug": "convert-a-number-to-hexadecimal",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "sum-of-left-leaves": {
         "Id": 404,
         "Title": "Sum of Left Leaves",
         "Slug": "sum-of-left-leaves",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "frog-jump": {
         "Id": 403,
         "Title": "Frog Jump",
         "Slug": "frog-jump",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "remove-k-digits": {
         "Id": 402,
         "Title": "Remove K Digits",
         "Slug": "remove-k-digits",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Stack",
+            "Greedy"
+        ]
     },
     "binary-watch": {
         "Id": 401,
         "Title": "Binary Watch",
         "Slug": "binary-watch",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Backtracking",
+            "Bit Manipulation"
+        ]
     },
     "nth-digit": {
         "Id": 400,
         "Title": "Nth Digit",
         "Slug": "nth-digit",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "evaluate-division": {
         "Id": 399,
         "Title": "Evaluate Division",
         "Slug": "evaluate-division",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Graph"
+        ]
     },
     "random-pick-index": {
         "Id": 398,
         "Title": "Random Pick Index",
         "Slug": "random-pick-index",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Reservoir Sampling"
+        ]
     },
     "integer-replacement": {
         "Id": 397,
         "Title": "Integer Replacement",
         "Slug": "integer-replacement",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Bit Manipulation"
+        ]
     },
     "rotate-function": {
         "Id": 396,
         "Title": "Rotate Function",
         "Slug": "rotate-function",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
     },
     "longest-substring-with-at-least-k-repeating-characters": {
         "Id": 395,
@@ -2867,21 +3435,33 @@
         "Title": "Decode String",
         "Slug": "decode-string",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Stack",
+            "Depth-first Search"
+        ]
     },
     "utf-8-validation": {
         "Id": 393,
         "Title": "UTF-8 Validation",
         "Slug": "utf-8-validation",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "is-subsequence": {
         "Id": 392,
         "Title": "Is Subsequence",
         "Slug": "is-subsequence",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Binary Search",
+            "Dynamic Programming",
+            "Greedy"
+        ]
     },
     "perfect-rectangle": {
         "Id": 391,
@@ -2902,7 +3482,11 @@
         "Title": "Find the Difference",
         "Slug": "find-the-difference",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table",
+            "Bit Manipulation"
+        ]
     },
     "longest-absolute-file-path": {
         "Id": 388,
@@ -2930,7 +3514,11 @@
         "Title": "Mini Parser",
         "Slug": "mini-parser",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Stack"
+        ]
     },
     "shuffle-an-array": {
         "Id": 384,
@@ -2944,224 +3532,351 @@
         "Title": "Ransom Note",
         "Slug": "ransom-note",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
     },
     "linked-list-random-node": {
         "Id": 382,
         "Title": "Linked List Random Node",
         "Slug": "linked-list-random-node",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Reservoir Sampling"
+        ]
     },
     "insert-delete-getrandom-o1-duplicates-allowed": {
         "Id": 381,
         "Title": "Insert Delete GetRandom O(1) - Duplicates allowed",
         "Slug": "insert-delete-getrandom-o1-duplicates-allowed",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Hash Table",
+            "Design"
+        ]
     },
     "insert-delete-getrandom-o1": {
         "Id": 380,
         "Title": "Insert Delete GetRandom O(1)",
         "Slug": "insert-delete-getrandom-o1",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Hash Table",
+            "Design"
+        ]
     },
     "kth-smallest-element-in-a-sorted-matrix": {
         "Id": 378,
         "Title": "Kth Smallest Element in a Sorted Matrix",
         "Slug": "kth-smallest-element-in-a-sorted-matrix",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Binary Search",
+            "Heap"
+        ]
     },
     "combination-sum-iv": {
         "Id": 377,
         "Title": "Combination Sum IV",
         "Slug": "combination-sum-iv",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "wiggle-subsequence": {
         "Id": 376,
         "Title": "Wiggle Subsequence",
         "Slug": "wiggle-subsequence",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Greedy"
+        ]
     },
     "guess-number-higher-or-lower-ii": {
         "Id": 375,
         "Title": "Guess Number Higher or Lower II",
         "Slug": "guess-number-higher-or-lower-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Minimax"
+        ]
     },
     "guess-number-higher-or-lower": {
         "Id": 374,
         "Title": "Guess Number Higher or Lower",
         "Slug": "guess-number-higher-or-lower",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Binary Search"
+        ]
     },
     "find-k-pairs-with-smallest-sums": {
         "Id": 373,
         "Title": "Find K Pairs with Smallest Sums",
         "Slug": "find-k-pairs-with-smallest-sums",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Heap"
+        ]
     },
     "super-pow": {
         "Id": 372,
         "Title": "Super Pow",
         "Slug": "super-pow",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
     },
     "sum-of-two-integers": {
         "Id": 371,
         "Title": "Sum of Two Integers",
         "Slug": "sum-of-two-integers",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "largest-divisible-subset": {
         "Id": 368,
         "Title": "Largest Divisible Subset",
         "Slug": "largest-divisible-subset",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Dynamic Programming"
+        ]
     },
     "valid-perfect-square": {
         "Id": 367,
         "Title": "Valid Perfect Square",
         "Slug": "valid-perfect-square",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math",
+            "Binary Search"
+        ]
     },
     "water-and-jug-problem": {
         "Id": 365,
         "Title": "Water and Jug Problem",
         "Slug": "water-and-jug-problem",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
     },
     "max-sum-of-rectangle-no-larger-than-k": {
         "Id": 363,
         "Title": "Max Sum of Rectangle No Larger Than K",
         "Slug": "max-sum-of-rectangle-no-larger-than-k",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Binary Search",
+            "Dynamic Programming",
+            "Queue"
+        ]
     },
     "count-numbers-with-unique-digits": {
         "Id": 357,
         "Title": "Count Numbers with Unique Digits",
         "Slug": "count-numbers-with-unique-digits",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Dynamic Programming",
+            "Backtracking"
+        ]
     },
     "design-twitter": {
         "Id": 355,
         "Title": "Design Twitter",
         "Slug": "design-twitter",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Heap",
+            "Design"
+        ]
     },
     "russian-doll-envelopes": {
         "Id": 354,
         "Title": "Russian Doll Envelopes",
         "Slug": "russian-doll-envelopes",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Binary Search",
+            "Dynamic Programming"
+        ]
     },
     "data-stream-as-disjoint-intervals": {
         "Id": 352,
         "Title": "Data Stream as Disjoint Intervals",
         "Slug": "data-stream-as-disjoint-intervals",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Binary Search Tree"
+        ]
     },
     "intersection-of-two-arrays-ii": {
         "Id": 350,
         "Title": "Intersection of Two Arrays II",
         "Slug": "intersection-of-two-arrays-ii",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sort"
+        ]
     },
     "intersection-of-two-arrays": {
         "Id": 349,
         "Title": "Intersection of Two Arrays",
         "Slug": "intersection-of-two-arrays",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sort"
+        ]
     },
     "top-k-frequent-elements": {
         "Id": 347,
         "Title": "Top K Frequent Elements",
         "Slug": "top-k-frequent-elements",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Heap"
+        ]
     },
     "reverse-vowels-of-a-string": {
         "Id": 345,
         "Title": "Reverse Vowels of a String",
         "Slug": "reverse-vowels-of-a-string",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Two Pointers",
+            "String"
+        ]
     },
     "reverse-string": {
         "Id": 344,
         "Title": "Reverse String",
         "Slug": "reverse-string",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Two Pointers",
+            "String"
+        ]
     },
     "integer-break": {
         "Id": 343,
         "Title": "Integer Break",
         "Slug": "integer-break",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Dynamic Programming"
+        ]
     },
     "power-of-four": {
         "Id": 342,
         "Title": "Power of Four",
         "Slug": "power-of-four",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "flatten-nested-list-iterator": {
         "Id": 341,
         "Title": "Flatten Nested List Iterator",
         "Slug": "flatten-nested-list-iterator",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Stack",
+            "Design"
+        ]
     },
     "counting-bits": {
         "Id": 338,
         "Title": "Counting Bits",
         "Slug": "counting-bits",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Bit Manipulation"
+        ]
     },
     "house-robber-iii": {
         "Id": 337,
         "Title": "House Robber III",
         "Slug": "house-robber-iii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "palindrome-pairs": {
         "Id": 336,
         "Title": "Palindrome Pairs",
         "Slug": "palindrome-pairs",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Hash Table",
+            "String",
+            "Trie"
+        ]
     },
     "self-crossing": {
         "Id": 335,
         "Title": "Self Crossing",
         "Slug": "self-crossing",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Math"
+        ]
     },
     "increasing-triplet-subsequence": {
         "Id": 334,
@@ -3175,133 +3890,204 @@
         "Title": "Reconstruct Itinerary",
         "Slug": "reconstruct-itinerary",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search",
+            "Graph"
+        ]
     },
     "verify-preorder-serialization-of-a-binary-tree": {
         "Id": 331,
         "Title": "Verify Preorder Serialization of a Binary Tree",
         "Slug": "verify-preorder-serialization-of-a-binary-tree",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Stack"
+        ]
     },
     "patching-array": {
         "Id": 330,
         "Title": "Patching Array",
         "Slug": "patching-array",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Greedy"
+        ]
     },
     "longest-increasing-path-in-a-matrix": {
         "Id": 329,
         "Title": "Longest Increasing Path in a Matrix",
         "Slug": "longest-increasing-path-in-a-matrix",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Depth-first Search",
+            "Topological Sort",
+            "Memoization"
+        ]
     },
     "odd-even-linked-list": {
         "Id": 328,
         "Title": "Odd Even Linked List",
         "Slug": "odd-even-linked-list",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "count-of-range-sum": {
         "Id": 327,
         "Title": "Count of Range Sum",
         "Slug": "count-of-range-sum",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Divide and Conquer",
+            "Binary Search Tree"
+        ]
     },
     "power-of-three": {
         "Id": 326,
         "Title": "Power of Three",
         "Slug": "power-of-three",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "wiggle-sort-ii": {
         "Id": 324,
         "Title": "Wiggle Sort II",
         "Slug": "wiggle-sort-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Sort"
+        ]
     },
     "coin-change": {
         "Id": 322,
         "Title": "Coin Change",
         "Slug": "coin-change",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "create-maximum-number": {
         "Id": 321,
         "Title": "Create Maximum Number",
         "Slug": "create-maximum-number",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming",
+            "Greedy"
+        ]
     },
     "bulb-switcher": {
         "Id": 319,
         "Title": "Bulb Switcher",
         "Slug": "bulb-switcher",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Brainteaser"
+        ]
     },
     "maximum-product-of-word-lengths": {
         "Id": 318,
         "Title": "Maximum Product of Word Lengths",
         "Slug": "maximum-product-of-word-lengths",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "remove-duplicate-letters": {
         "Id": 316,
         "Title": "Remove Duplicate Letters",
         "Slug": "remove-duplicate-letters",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Stack",
+            "Greedy"
+        ]
     },
     "count-of-smaller-numbers-after-self": {
         "Id": 315,
         "Title": "Count of Smaller Numbers After Self",
         "Slug": "count-of-smaller-numbers-after-self",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Binary Search Tree"
+        ]
     },
     "super-ugly-number": {
         "Id": 313,
         "Title": "Super Ugly Number",
         "Slug": "super-ugly-number",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Heap"
+        ]
     },
     "burst-balloons": {
         "Id": 312,
         "Title": "Burst Balloons",
         "Slug": "burst-balloons",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Divide and Conquer",
+            "Dynamic Programming"
+        ]
     },
     "minimum-height-trees": {
         "Id": 310,
         "Title": "Minimum Height Trees",
         "Slug": "minimum-height-trees",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Breadth-first Search",
+            "Graph"
+        ]
     },
     "best-time-to-buy-and-sell-stock-with-cooldown": {
         "Id": 309,
         "Title": "Best Time to Buy and Sell Stock with Cooldown",
         "Slug": "best-time-to-buy-and-sell-stock-with-cooldown",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "range-sum-query-mutable": {
         "Id": 307,
         "Title": "Range Sum Query - Mutable",
         "Slug": "range-sum-query-mutable",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Binary Indexed Tree",
+            "Segment Tree"
+        ]
     },
     "additive-number": {
         "Id": 306,
@@ -3315,343 +4101,516 @@
         "Title": "Range Sum Query 2D - Immutable",
         "Slug": "range-sum-query-2d-immutable",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "range-sum-query-immutable": {
         "Id": 303,
         "Title": "Range Sum Query - Immutable",
         "Slug": "range-sum-query-immutable",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "remove-invalid-parentheses": {
         "Id": 301,
         "Title": "Remove Invalid Parentheses",
         "Slug": "remove-invalid-parentheses",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Depth-first Search",
+            "Breadth-first Search"
+        ]
     },
     "longest-increasing-subsequence": {
         "Id": 300,
         "Title": "Longest Increasing Subsequence",
         "Slug": "longest-increasing-subsequence",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Binary Search",
+            "Dynamic Programming"
+        ]
     },
     "bulls-and-cows": {
         "Id": 299,
         "Title": "Bulls and Cows",
         "Slug": "bulls-and-cows",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "serialize-and-deserialize-binary-tree": {
         "Id": 297,
         "Title": "Serialize and Deserialize Binary Tree",
         "Slug": "serialize-and-deserialize-binary-tree",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Tree",
+            "Design"
+        ]
     },
     "find-median-from-data-stream": {
         "Id": 295,
         "Title": "Find Median from Data Stream",
         "Slug": "find-median-from-data-stream",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Heap",
+            "Design"
+        ]
     },
     "nim-game": {
         "Id": 292,
         "Title": "Nim Game",
         "Slug": "nim-game",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Brainteaser"
+        ]
     },
     "word-pattern": {
         "Id": 290,
         "Title": "Word Pattern",
         "Slug": "word-pattern",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "game-of-life": {
         "Id": 289,
         "Title": "Game of Life",
         "Slug": "game-of-life",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "find-the-duplicate-number": {
         "Id": 287,
         "Title": "Find the Duplicate Number",
         "Slug": "find-the-duplicate-number",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Two Pointers",
+            "Binary Search"
+        ]
     },
     "peeking-iterator": {
         "Id": 284,
         "Title": "Peeking Iterator",
         "Slug": "peeking-iterator",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Design"
+        ]
     },
     "move-zeroes": {
         "Id": 283,
         "Title": "Move Zeroes",
         "Slug": "move-zeroes",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Two Pointers"
+        ]
     },
     "expression-add-operators": {
         "Id": 282,
         "Title": "Expression Add Operators",
         "Slug": "expression-add-operators",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Divide and Conquer"
+        ]
     },
     "perfect-squares": {
         "Id": 279,
         "Title": "Perfect Squares",
         "Slug": "perfect-squares",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Dynamic Programming",
+            "Breadth-first Search"
+        ]
     },
     "first-bad-version": {
         "Id": 278,
         "Title": "First Bad Version",
         "Slug": "first-bad-version",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Binary Search"
+        ]
     },
     "h-index-ii": {
         "Id": 275,
         "Title": "H-Index II",
         "Slug": "h-index-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Binary Search"
+        ]
     },
     "h-index": {
         "Id": 274,
         "Title": "H-Index",
         "Slug": "h-index",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Sort"
+        ]
     },
     "integer-to-english-words": {
         "Id": 273,
         "Title": "Integer to English Words",
         "Slug": "integer-to-english-words",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Math",
+            "String"
+        ]
     },
     "missing-number": {
         "Id": 268,
         "Title": "Missing Number",
         "Slug": "missing-number",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Math",
+            "Bit Manipulation"
+        ]
     },
     "ugly-number-ii": {
         "Id": 264,
         "Title": "Ugly Number II",
         "Slug": "ugly-number-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Dynamic Programming",
+            "Heap"
+        ]
     },
     "ugly-number": {
         "Id": 263,
         "Title": "Ugly Number",
         "Slug": "ugly-number",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "single-number-iii": {
         "Id": 260,
         "Title": "Single Number III",
         "Slug": "single-number-iii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "add-digits": {
         "Id": 258,
         "Title": "Add Digits",
         "Slug": "add-digits",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "binary-tree-paths": {
         "Id": 257,
         "Title": "Binary Tree Paths",
         "Slug": "binary-tree-paths",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "valid-anagram": {
         "Id": 242,
         "Title": "Valid Anagram",
         "Slug": "valid-anagram",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table",
+            "Sort"
+        ]
     },
     "different-ways-to-add-parentheses": {
         "Id": 241,
         "Title": "Different Ways to Add Parentheses",
         "Slug": "different-ways-to-add-parentheses",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Divide and Conquer"
+        ]
     },
     "search-a-2d-matrix-ii": {
         "Id": 240,
         "Title": "Search a 2D Matrix II",
         "Slug": "search-a-2d-matrix-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Binary Search",
+            "Divide and Conquer"
+        ]
     },
     "sliding-window-maximum": {
         "Id": 239,
         "Title": "Sliding Window Maximum",
         "Slug": "sliding-window-maximum",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Heap"
+        ]
     },
     "product-of-array-except-self": {
         "Id": 238,
         "Title": "Product of Array Except Self",
         "Slug": "product-of-array-except-self",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "delete-node-in-a-linked-list": {
         "Id": 237,
         "Title": "Delete Node in a Linked List",
         "Slug": "delete-node-in-a-linked-list",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "lowest-common-ancestor-of-a-binary-tree": {
         "Id": 236,
         "Title": "Lowest Common Ancestor of a Binary Tree",
         "Slug": "lowest-common-ancestor-of-a-binary-tree",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree"
+        ]
     },
     "lowest-common-ancestor-of-a-binary-search-tree": {
         "Id": 235,
         "Title": "Lowest Common Ancestor of a Binary Search Tree",
         "Slug": "lowest-common-ancestor-of-a-binary-search-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "palindrome-linked-list": {
         "Id": 234,
         "Title": "Palindrome Linked List",
         "Slug": "palindrome-linked-list",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Linked List",
+            "Two Pointers"
+        ]
     },
     "number-of-digit-one": {
         "Id": 233,
         "Title": "Number of Digit One",
         "Slug": "number-of-digit-one",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Math"
+        ]
     },
     "implement-queue-using-stacks": {
         "Id": 232,
         "Title": "Implement Queue using Stacks",
         "Slug": "implement-queue-using-stacks",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Stack",
+            "Design"
+        ]
     },
     "power-of-two": {
         "Id": 231,
         "Title": "Power of Two",
         "Slug": "power-of-two",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math",
+            "Bit Manipulation"
+        ]
     },
     "kth-smallest-element-in-a-bst": {
         "Id": 230,
         "Title": "Kth Smallest Element in a BST",
         "Slug": "kth-smallest-element-in-a-bst",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Binary Search",
+            "Tree"
+        ]
     },
     "majority-element-ii": {
         "Id": 229,
         "Title": "Majority Element II",
         "Slug": "majority-element-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "summary-ranges": {
         "Id": 228,
         "Title": "Summary Ranges",
         "Slug": "summary-ranges",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "basic-calculator-ii": {
         "Id": 227,
         "Title": "Basic Calculator II",
         "Slug": "basic-calculator-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
     },
     "invert-binary-tree": {
         "Id": 226,
         "Title": "Invert Binary Tree",
         "Slug": "invert-binary-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree"
+        ]
     },
     "implement-stack-using-queues": {
         "Id": 225,
         "Title": "Implement Stack using Queues",
         "Slug": "implement-stack-using-queues",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Stack",
+            "Design"
+        ]
     },
     "basic-calculator": {
         "Id": 224,
         "Title": "Basic Calculator",
         "Slug": "basic-calculator",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Math",
+            "Stack"
+        ]
     },
     "rectangle-area": {
         "Id": 223,
         "Title": "Rectangle Area",
         "Slug": "rectangle-area",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
     },
     "count-complete-tree-nodes": {
         "Id": 222,
         "Title": "Count Complete Tree Nodes",
         "Slug": "count-complete-tree-nodes",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Binary Search",
+            "Tree"
+        ]
     },
     "maximal-square": {
         "Id": 221,
         "Title": "Maximal Square",
         "Slug": "maximal-square",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "contains-duplicate-iii": {
         "Id": 220,
         "Title": "Contains Duplicate III",
         "Slug": "contains-duplicate-iii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Binary Search Tree"
+        ]
     },
     "contains-duplicate-ii": {
         "Id": 219,
         "Title": "Contains Duplicate II",
         "Slug": "contains-duplicate-ii",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Hash Table"
+        ]
     },
     "the-skyline-problem": {
         "Id": 218,
@@ -3665,238 +4624,370 @@
         "Title": "Contains Duplicate",
         "Slug": "contains-duplicate",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Hash Table"
+        ]
     },
     "combination-sum-iii": {
         "Id": 216,
         "Title": "Combination Sum III",
         "Slug": "combination-sum-iii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Backtracking"
+        ]
     },
     "kth-largest-element-in-an-array": {
         "Id": 215,
         "Title": "Kth Largest Element in an Array",
         "Slug": "kth-largest-element-in-an-array",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Divide and Conquer",
+            "Heap"
+        ]
     },
     "shortest-palindrome": {
         "Id": 214,
         "Title": "Shortest Palindrome",
         "Slug": "shortest-palindrome",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "String"
+        ]
     },
     "house-robber-ii": {
         "Id": 213,
         "Title": "House Robber II",
         "Slug": "house-robber-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "word-search-ii": {
         "Id": 212,
         "Title": "Word Search II",
         "Slug": "word-search-ii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Backtracking",
+            "Trie"
+        ]
     },
     "add-and-search-word-data-structure-design": {
         "Id": 211,
         "Title": "Add and Search Word - Data structure design",
         "Slug": "add-and-search-word-data-structure-design",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Backtracking",
+            "Design",
+            "Trie"
+        ]
     },
     "course-schedule-ii": {
         "Id": 210,
         "Title": "Course Schedule II",
         "Slug": "course-schedule-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search",
+            "Breadth-first Search",
+            "Graph",
+            "Topological Sort"
+        ]
     },
     "minimum-size-subarray-sum": {
         "Id": 209,
         "Title": "Minimum Size Subarray Sum",
         "Slug": "minimum-size-subarray-sum",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Two Pointers",
+            "Binary Search"
+        ]
     },
     "implement-trie-prefix-tree": {
         "Id": 208,
         "Title": "Implement Trie (Prefix Tree)",
         "Slug": "implement-trie-prefix-tree",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Design",
+            "Trie"
+        ]
     },
     "course-schedule": {
         "Id": 207,
         "Title": "Course Schedule",
         "Slug": "course-schedule",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search",
+            "Breadth-first Search",
+            "Graph",
+            "Topological Sort"
+        ]
     },
     "reverse-linked-list": {
         "Id": 206,
         "Title": "Reverse Linked List",
         "Slug": "reverse-linked-list",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "isomorphic-strings": {
         "Id": 205,
         "Title": "Isomorphic Strings",
         "Slug": "isomorphic-strings",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "count-primes": {
         "Id": 204,
         "Title": "Count Primes",
         "Slug": "count-primes",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table",
+            "Math"
+        ]
     },
     "remove-linked-list-elements": {
         "Id": 203,
         "Title": "Remove Linked List Elements",
         "Slug": "remove-linked-list-elements",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "happy-number": {
         "Id": 202,
         "Title": "Happy Number",
         "Slug": "happy-number",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table",
+            "Math"
+        ]
     },
     "bitwise-and-of-numbers-range": {
         "Id": 201,
         "Title": "Bitwise AND of Numbers Range",
         "Slug": "bitwise-and-of-numbers-range",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "number-of-islands": {
         "Id": 200,
         "Title": "Number of Islands",
         "Slug": "number-of-islands",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search",
+            "Breadth-first Search",
+            "Union Find"
+        ]
     },
     "binary-tree-right-side-view": {
         "Id": 199,
         "Title": "Binary Tree Right Side View",
         "Slug": "binary-tree-right-side-view",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search",
+            "Breadth-first Search"
+        ]
     },
     "house-robber": {
         "Id": 198,
         "Title": "House Robber",
         "Slug": "house-robber",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "number-of-1-bits": {
         "Id": 191,
         "Title": "Number of 1 Bits",
         "Slug": "number-of-1-bits",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "reverse-bits": {
         "Id": 190,
         "Title": "Reverse Bits",
         "Slug": "reverse-bits",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "rotate-array": {
         "Id": 189,
         "Title": "Rotate Array",
         "Slug": "rotate-array",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "best-time-to-buy-and-sell-stock-iv": {
         "Id": 188,
         "Title": "Best Time to Buy and Sell Stock IV",
         "Slug": "best-time-to-buy-and-sell-stock-iv",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "repeated-dna-sequences": {
         "Id": 187,
         "Title": "Repeated DNA Sequences",
         "Slug": "repeated-dna-sequences",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Bit Manipulation"
+        ]
     },
     "largest-number": {
         "Id": 179,
         "Title": "Largest Number",
         "Slug": "largest-number",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Sort"
+        ]
     },
     "dungeon-game": {
         "Id": 174,
         "Title": "Dungeon Game",
         "Slug": "dungeon-game",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Binary Search",
+            "Dynamic Programming"
+        ]
     },
     "binary-search-tree-iterator": {
         "Id": 173,
         "Title": "Binary Search Tree Iterator",
         "Slug": "binary-search-tree-iterator",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Stack",
+            "Tree",
+            "Design"
+        ]
     },
     "factorial-trailing-zeroes": {
         "Id": 172,
         "Title": "Factorial Trailing Zeroes",
         "Slug": "factorial-trailing-zeroes",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "excel-sheet-column-number": {
         "Id": 171,
         "Title": "Excel Sheet Column Number",
         "Slug": "excel-sheet-column-number",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "majority-element": {
         "Id": 169,
         "Title": "Majority Element",
         "Slug": "majority-element",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Divide and Conquer",
+            "Bit Manipulation"
+        ]
     },
     "excel-sheet-column-title": {
         "Id": 168,
         "Title": "Excel Sheet Column Title",
         "Slug": "excel-sheet-column-title",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
     },
     "two-sum-ii-input-array-is-sorted": {
         "Id": 167,
         "Title": "Two Sum II - Input array is sorted",
         "Slug": "two-sum-ii-input-array-is-sorted",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Two Pointers",
+            "Binary Search"
+        ]
     },
     "fraction-to-recurring-decimal": {
         "Id": 166,
         "Title": "Fraction to Recurring Decimal",
         "Slug": "fraction-to-recurring-decimal",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Math"
+        ]
     },
     "compare-version-numbers": {
         "Id": 165,
@@ -3910,217 +5001,330 @@
         "Title": "Maximum Gap",
         "Slug": "maximum-gap",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Sort"
+        ]
     },
     "find-peak-element": {
         "Id": 162,
         "Title": "Find Peak Element",
         "Slug": "find-peak-element",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
     },
     "intersection-of-two-linked-lists": {
         "Id": 160,
         "Title": "Intersection of Two Linked Lists",
         "Slug": "intersection-of-two-linked-lists",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "min-stack": {
         "Id": 155,
         "Title": "Min Stack",
         "Slug": "min-stack",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Stack",
+            "Design"
+        ]
     },
     "find-minimum-in-rotated-sorted-array-ii": {
         "Id": 154,
         "Title": "Find Minimum in Rotated Sorted Array II",
         "Slug": "find-minimum-in-rotated-sorted-array-ii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
     },
     "find-minimum-in-rotated-sorted-array": {
         "Id": 153,
         "Title": "Find Minimum in Rotated Sorted Array",
         "Slug": "find-minimum-in-rotated-sorted-array",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
     },
     "maximum-product-subarray": {
         "Id": 152,
         "Title": "Maximum Product Subarray",
         "Slug": "maximum-product-subarray",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Dynamic Programming"
+        ]
     },
     "reverse-words-in-a-string": {
         "Id": 151,
         "Title": "Reverse Words in a String",
         "Slug": "reverse-words-in-a-string",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
     },
     "evaluate-reverse-polish-notation": {
         "Id": 150,
         "Title": "Evaluate Reverse Polish Notation",
         "Slug": "evaluate-reverse-polish-notation",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Stack"
+        ]
     },
     "max-points-on-a-line": {
         "Id": 149,
         "Title": "Max Points on a Line",
         "Slug": "max-points-on-a-line",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Hash Table",
+            "Math"
+        ]
     },
     "sort-list": {
         "Id": 148,
         "Title": "Sort List",
         "Slug": "sort-list",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List",
+            "Sort"
+        ]
     },
     "insertion-sort-list": {
         "Id": 147,
         "Title": "Insertion Sort List",
         "Slug": "insertion-sort-list",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List",
+            "Sort"
+        ]
     },
     "lru-cache": {
         "Id": 146,
         "Title": "LRU Cache",
         "Slug": "lru-cache",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Design"
+        ]
     },
     "binary-tree-postorder-traversal": {
         "Id": 145,
         "Title": "Binary Tree Postorder Traversal",
         "Slug": "binary-tree-postorder-traversal",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Stack",
+            "Tree"
+        ]
     },
     "binary-tree-preorder-traversal": {
         "Id": 144,
         "Title": "Binary Tree Preorder Traversal",
         "Slug": "binary-tree-preorder-traversal",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Stack",
+            "Tree"
+        ]
     },
     "reorder-list": {
         "Id": 143,
         "Title": "Reorder List",
         "Slug": "reorder-list",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "linked-list-cycle-ii": {
         "Id": 142,
         "Title": "Linked List Cycle II",
         "Slug": "linked-list-cycle-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List",
+            "Two Pointers"
+        ]
     },
     "linked-list-cycle": {
         "Id": 141,
         "Title": "Linked List Cycle",
         "Slug": "linked-list-cycle",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Linked List",
+            "Two Pointers"
+        ]
     },
     "word-break-ii": {
         "Id": 140,
         "Title": "Word Break II",
         "Slug": "word-break-ii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming",
+            "Backtracking"
+        ]
     },
     "word-break": {
         "Id": 139,
         "Title": "Word Break",
         "Slug": "word-break",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "copy-list-with-random-pointer": {
         "Id": 138,
         "Title": "Copy List with Random Pointer",
         "Slug": "copy-list-with-random-pointer",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Linked List"
+        ]
     },
     "single-number-ii": {
         "Id": 137,
         "Title": "Single Number II",
         "Slug": "single-number-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Bit Manipulation"
+        ]
     },
     "single-number": {
         "Id": 136,
         "Title": "Single Number",
         "Slug": "single-number",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Hash Table",
+            "Bit Manipulation"
+        ]
     },
     "candy": {
         "Id": 135,
         "Title": "Candy",
         "Slug": "candy",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Greedy"
+        ]
     },
     "gas-station": {
         "Id": 134,
         "Title": "Gas Station",
         "Slug": "gas-station",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Greedy"
+        ]
     },
     "clone-graph": {
         "Id": 133,
         "Title": "Clone Graph",
         "Slug": "clone-graph",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search",
+            "Breadth-first Search",
+            "Graph"
+        ]
     },
     "palindrome-partitioning-ii": {
         "Id": 132,
         "Title": "Palindrome Partitioning II",
         "Slug": "palindrome-partitioning-ii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "palindrome-partitioning": {
         "Id": 131,
         "Title": "Palindrome Partitioning",
         "Slug": "palindrome-partitioning",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Backtracking"
+        ]
     },
     "surrounded-regions": {
         "Id": 130,
         "Title": "Surrounded Regions",
         "Slug": "surrounded-regions",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Breadth-first Search",
+            "Union Find"
+        ]
     },
     "sum-root-to-leaf-numbers": {
         "Id": 129,
         "Title": "Sum Root to Leaf Numbers",
         "Slug": "sum-root-to-leaf-numbers",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "longest-consecutive-sequence": {
         "Id": 128,
         "Title": "Longest Consecutive Sequence",
         "Slug": "longest-consecutive-sequence",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Union Find"
+        ]
     },
     "word-ladder": {
         "Id": 127,
@@ -4134,644 +5338,1008 @@
         "Title": "Word Ladder II",
         "Slug": "word-ladder-ii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Breadth-first Search"
+        ]
     },
     "valid-palindrome": {
         "Id": 125,
         "Title": "Valid Palindrome",
         "Slug": "valid-palindrome",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Two Pointers",
+            "String"
+        ]
     },
     "binary-tree-maximum-path-sum": {
         "Id": 124,
         "Title": "Binary Tree Maximum Path Sum",
         "Slug": "binary-tree-maximum-path-sum",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "best-time-to-buy-and-sell-stock-iii": {
         "Id": 123,
         "Title": "Best Time to Buy and Sell Stock III",
         "Slug": "best-time-to-buy-and-sell-stock-iii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Dynamic Programming"
+        ]
     },
     "best-time-to-buy-and-sell-stock-ii": {
         "Id": 122,
         "Title": "Best Time to Buy and Sell Stock II",
         "Slug": "best-time-to-buy-and-sell-stock-ii",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Greedy"
+        ]
     },
     "best-time-to-buy-and-sell-stock": {
         "Id": 121,
         "Title": "Best Time to Buy and Sell Stock",
         "Slug": "best-time-to-buy-and-sell-stock",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Dynamic Programming"
+        ]
     },
     "triangle": {
         "Id": 120,
         "Title": "Triangle",
         "Slug": "triangle",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Dynamic Programming"
+        ]
     },
     "pascals-triangle-ii": {
         "Id": 119,
         "Title": "Pascal's Triangle II",
         "Slug": "pascals-triangle-ii",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "pascals-triangle": {
         "Id": 118,
         "Title": "Pascal's Triangle",
         "Slug": "pascals-triangle",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "populating-next-right-pointers-in-each-node-ii": {
         "Id": 117,
         "Title": "Populating Next Right Pointers in Each Node II",
         "Slug": "populating-next-right-pointers-in-each-node-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "populating-next-right-pointers-in-each-node": {
         "Id": 116,
         "Title": "Populating Next Right Pointers in Each Node",
         "Slug": "populating-next-right-pointers-in-each-node",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "distinct-subsequences": {
         "Id": 115,
         "Title": "Distinct Subsequences",
         "Slug": "distinct-subsequences",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "String",
+            "Dynamic Programming"
+        ]
     },
     "flatten-binary-tree-to-linked-list": {
         "Id": 114,
         "Title": "Flatten Binary Tree to Linked List",
         "Slug": "flatten-binary-tree-to-linked-list",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "path-sum-ii": {
         "Id": 113,
         "Title": "Path Sum II",
         "Slug": "path-sum-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "path-sum": {
         "Id": 112,
         "Title": "Path Sum",
         "Slug": "path-sum",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "minimum-depth-of-binary-tree": {
         "Id": 111,
         "Title": "Minimum Depth of Binary Tree",
         "Slug": "minimum-depth-of-binary-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree",
+            "Depth-first Search",
+            "Breadth-first Search"
+        ]
     },
     "balanced-binary-tree": {
         "Id": 110,
         "Title": "Balanced Binary Tree",
         "Slug": "balanced-binary-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "convert-sorted-list-to-binary-search-tree": {
         "Id": 109,
         "Title": "Convert Sorted List to Binary Search Tree",
         "Slug": "convert-sorted-list-to-binary-search-tree",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List",
+            "Depth-first Search"
+        ]
     },
     "convert-sorted-array-to-binary-search-tree": {
         "Id": 108,
         "Title": "Convert Sorted Array to Binary Search Tree",
         "Slug": "convert-sorted-array-to-binary-search-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "binary-tree-level-order-traversal-ii": {
         "Id": 107,
         "Title": "Binary Tree Level Order Traversal II",
         "Slug": "binary-tree-level-order-traversal-ii",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree",
+            "Breadth-first Search"
+        ]
     },
     "construct-binary-tree-from-inorder-and-postorder-traversal": {
         "Id": 106,
         "Title": "Construct Binary Tree from Inorder and Postorder Traversal",
         "Slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "construct-binary-tree-from-preorder-and-inorder-traversal": {
         "Id": 105,
         "Title": "Construct Binary Tree from Preorder and Inorder Traversal",
         "Slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "maximum-depth-of-binary-tree": {
         "Id": 104,
         "Title": "Maximum Depth of Binary Tree",
         "Slug": "maximum-depth-of-binary-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "binary-tree-zigzag-level-order-traversal": {
         "Id": 103,
         "Title": "Binary Tree Zigzag Level Order Traversal",
         "Slug": "binary-tree-zigzag-level-order-traversal",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Stack",
+            "Tree",
+            "Breadth-first Search"
+        ]
     },
     "binary-tree-level-order-traversal": {
         "Id": 102,
         "Title": "Binary Tree Level Order Traversal",
         "Slug": "binary-tree-level-order-traversal",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Breadth-first Search"
+        ]
     },
     "symmetric-tree": {
         "Id": 101,
         "Title": "Symmetric Tree",
         "Slug": "symmetric-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree",
+            "Depth-first Search",
+            "Breadth-first Search"
+        ]
     },
     "same-tree": {
         "Id": 100,
         "Title": "Same Tree",
         "Slug": "same-tree",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "recover-binary-search-tree": {
         "Id": 99,
         "Title": "Recover Binary Search Tree",
         "Slug": "recover-binary-search-tree",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "validate-binary-search-tree": {
         "Id": 98,
         "Title": "Validate Binary Search Tree",
         "Slug": "validate-binary-search-tree",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
     },
     "interleaving-string": {
         "Id": 97,
         "Title": "Interleaving String",
         "Slug": "interleaving-string",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "String",
+            "Dynamic Programming"
+        ]
     },
     "unique-binary-search-trees": {
         "Id": 96,
         "Title": "Unique Binary Search Trees",
         "Slug": "unique-binary-search-trees",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Tree"
+        ]
     },
     "unique-binary-search-trees-ii": {
         "Id": 95,
         "Title": "Unique Binary Search Trees II",
         "Slug": "unique-binary-search-trees-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Tree"
+        ]
     },
     "binary-tree-inorder-traversal": {
         "Id": 94,
         "Title": "Binary Tree Inorder Traversal",
         "Slug": "binary-tree-inorder-traversal",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Stack",
+            "Tree"
+        ]
     },
     "restore-ip-addresses": {
         "Id": 93,
         "Title": "Restore IP Addresses",
         "Slug": "restore-ip-addresses",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Backtracking"
+        ]
     },
     "reverse-linked-list-ii": {
         "Id": 92,
         "Title": "Reverse Linked List II",
         "Slug": "reverse-linked-list-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "decode-ways": {
         "Id": 91,
         "Title": "Decode Ways",
         "Slug": "decode-ways",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Dynamic Programming"
+        ]
     },
     "subsets-ii": {
         "Id": 90,
         "Title": "Subsets II",
         "Slug": "subsets-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Backtracking"
+        ]
     },
     "gray-code": {
         "Id": 89,
         "Title": "Gray Code",
         "Slug": "gray-code",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Backtracking"
+        ]
     },
     "merge-sorted-array": {
         "Id": 88,
         "Title": "Merge Sorted Array",
         "Slug": "merge-sorted-array",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Two Pointers"
+        ]
     },
     "scramble-string": {
         "Id": 87,
         "Title": "Scramble String",
         "Slug": "scramble-string",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "String",
+            "Dynamic Programming"
+        ]
     },
     "partition-list": {
         "Id": 86,
         "Title": "Partition List",
         "Slug": "partition-list",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List",
+            "Two Pointers"
+        ]
     },
     "maximal-rectangle": {
         "Id": 85,
         "Title": "Maximal Rectangle",
         "Slug": "maximal-rectangle",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Hash Table",
+            "Dynamic Programming",
+            "Stack"
+        ]
     },
     "largest-rectangle-in-histogram": {
         "Id": 84,
         "Title": "Largest Rectangle in Histogram",
         "Slug": "largest-rectangle-in-histogram",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Stack"
+        ]
     },
     "remove-duplicates-from-sorted-list": {
         "Id": 83,
         "Title": "Remove Duplicates from Sorted List",
         "Slug": "remove-duplicates-from-sorted-list",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "remove-duplicates-from-sorted-list-ii": {
         "Id": 82,
         "Title": "Remove Duplicates from Sorted List II",
         "Slug": "remove-duplicates-from-sorted-list-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "search-in-rotated-sorted-array-ii": {
         "Id": 81,
         "Title": "Search in Rotated Sorted Array II",
         "Slug": "search-in-rotated-sorted-array-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
     },
     "remove-duplicates-from-sorted-array-ii": {
         "Id": 80,
         "Title": "Remove Duplicates from Sorted Array II",
         "Slug": "remove-duplicates-from-sorted-array-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Two Pointers"
+        ]
     },
     "word-search": {
         "Id": 79,
         "Title": "Word Search",
         "Slug": "word-search",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Backtracking"
+        ]
     },
     "subsets": {
         "Id": 78,
         "Title": "Subsets",
         "Slug": "subsets",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+        ]
     },
     "combinations": {
         "Id": 77,
         "Title": "Combinations",
         "Slug": "combinations",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Backtracking"
+        ]
     },
     "minimum-window-substring": {
         "Id": 76,
         "Title": "Minimum Window Substring",
         "Slug": "minimum-window-substring",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ]
     },
     "sort-colors": {
         "Id": 75,
         "Title": "Sort Colors",
         "Slug": "sort-colors",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Two Pointers",
+            "Sort"
+        ]
     },
     "search-a-2d-matrix": {
         "Id": 74,
         "Title": "Search a 2D Matrix",
         "Slug": "search-a-2d-matrix",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
     },
     "set-matrix-zeroes": {
         "Id": 73,
         "Title": "Set Matrix Zeroes",
         "Slug": "set-matrix-zeroes",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "edit-distance": {
         "Id": 72,
         "Title": "Edit Distance",
         "Slug": "edit-distance",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "String",
+            "Dynamic Programming"
+        ]
     },
     "simplify-path": {
         "Id": 71,
         "Title": "Simplify Path",
         "Slug": "simplify-path",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Stack"
+        ]
     },
     "climbing-stairs": {
         "Id": 70,
         "Title": "Climbing Stairs",
         "Slug": "climbing-stairs",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Dynamic Programming"
+        ]
     },
     "sqrtx": {
         "Id": 69,
         "Title": "Sqrt(x)",
         "Slug": "sqrtx",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math",
+            "Binary Search"
+        ]
     },
     "text-justification": {
         "Id": 68,
         "Title": "Text Justification",
         "Slug": "text-justification",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "String"
+        ]
     },
     "add-binary": {
         "Id": 67,
         "Title": "Add Binary",
         "Slug": "add-binary",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math",
+            "String"
+        ]
     },
     "plus-one": {
         "Id": 66,
         "Title": "Plus One",
         "Slug": "plus-one",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Math"
+        ]
     },
     "valid-number": {
         "Id": 65,
         "Title": "Valid Number",
         "Slug": "valid-number",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Math",
+            "String"
+        ]
     },
     "minimum-path-sum": {
         "Id": 64,
         "Title": "Minimum Path Sum",
         "Slug": "minimum-path-sum",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Dynamic Programming"
+        ]
     },
     "unique-paths-ii": {
         "Id": 63,
         "Title": "Unique Paths II",
         "Slug": "unique-paths-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Dynamic Programming"
+        ]
     },
     "unique-paths": {
         "Id": 62,
         "Title": "Unique Paths",
         "Slug": "unique-paths",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Dynamic Programming"
+        ]
     },
     "rotate-list": {
         "Id": 61,
         "Title": "Rotate List",
         "Slug": "rotate-list",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List",
+            "Two Pointers"
+        ]
     },
     "permutation-sequence": {
         "Id": 60,
         "Title": "Permutation Sequence",
         "Slug": "permutation-sequence",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Backtracking"
+        ]
     },
     "spiral-matrix-ii": {
         "Id": 59,
         "Title": "Spiral Matrix II",
         "Slug": "spiral-matrix-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "length-of-last-word": {
         "Id": 58,
         "Title": "Length of Last Word",
         "Slug": "length-of-last-word",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
     },
     "insert-interval": {
         "Id": 57,
         "Title": "Insert Interval",
         "Slug": "insert-interval",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Sort"
+        ]
     },
     "merge-intervals": {
         "Id": 56,
         "Title": "Merge Intervals",
         "Slug": "merge-intervals",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Sort"
+        ]
     },
     "jump-game": {
         "Id": 55,
         "Title": "Jump Game",
         "Slug": "jump-game",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Greedy"
+        ]
     },
     "spiral-matrix": {
         "Id": 54,
         "Title": "Spiral Matrix",
         "Slug": "spiral-matrix",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "maximum-subarray": {
         "Id": 53,
         "Title": "Maximum Subarray",
         "Slug": "maximum-subarray",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+        ]
     },
     "n-queens-ii": {
         "Id": 52,
         "Title": "N-Queens II",
         "Slug": "n-queens-ii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Backtracking"
+        ]
     },
     "n-queens": {
         "Id": 51,
         "Title": "N-Queens",
         "Slug": "n-queens",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Backtracking"
+        ]
     },
     "powx-n": {
         "Id": 50,
         "Title": "Pow(x, n)",
         "Slug": "powx-n",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Binary Search"
+        ]
     },
     "group-anagrams": {
         "Id": 49,
         "Title": "Group Anagrams",
         "Slug": "group-anagrams",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "String"
+        ]
     },
     "rotate-image": {
         "Id": 48,
         "Title": "Rotate Image",
         "Slug": "rotate-image",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "permutations-ii": {
         "Id": 47,
         "Title": "Permutations II",
         "Slug": "permutations-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Backtracking"
+        ]
     },
     "permutations": {
         "Id": 46,
         "Title": "Permutations",
         "Slug": "permutations",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Backtracking"
+        ]
     },
     "jump-game-ii": {
         "Id": 45,
         "Title": "Jump Game II",
         "Slug": "jump-game-ii",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Greedy"
+        ]
     },
     "wildcard-matching": {
         "Id": 44,
         "Title": "Wildcard Matching",
         "Slug": "wildcard-matching",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking",
+            "Greedy"
+        ]
     },
     "multiply-strings": {
         "Id": 43,
         "Title": "Multiply Strings",
         "Slug": "multiply-strings",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "String"
+        ]
     },
     "trapping-rain-water": {
         "Id": 42,
         "Title": "Trapping Rain Water",
         "Slug": "trapping-rain-water",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Two Pointers",
+            "Stack"
+        ]
     },
     "first-missing-positive": {
         "Id": 41,
         "Title": "First Missing Positive",
         "Slug": "first-missing-positive",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array"
+        ]
     },
     "combination-sum-ii": {
         "Id": 40,
         "Title": "Combination Sum II",
         "Slug": "combination-sum-ii",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Backtracking"
+        ]
     },
     "combination-sum": {
         "Id": 39,
         "Title": "Combination Sum",
         "Slug": "combination-sum",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Backtracking"
+        ]
     },
     "count-and-say": {
         "Id": 38,
         "Title": "Count and Say",
         "Slug": "count-and-say",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
     },
     "sudoku-solver": {
         "Id": 37,
         "Title": "Sudoku Solver",
         "Slug": "sudoku-solver",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Hash Table",
+            "Backtracking"
+        ]
     },
     "valid-sudoku": {
         "Id": 36,
         "Title": "Valid Sudoku",
         "Slug": "valid-sudoku",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table"
+        ]
     },
     "search-insert-position": {
         "Id": 35,
         "Title": "Search Insert Position",
         "Slug": "search-insert-position",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
     },
     "find-first-and-last-position-of-element-in-sorted-array": {
         "Id": 34,
@@ -4785,91 +6353,141 @@
         "Title": "Search in Rotated Sorted Array",
         "Slug": "search-in-rotated-sorted-array",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
     },
     "longest-valid-parentheses": {
         "Id": 32,
         "Title": "Longest Valid Parentheses",
         "Slug": "longest-valid-parentheses",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "String",
+            "Dynamic Programming"
+        ]
     },
     "next-permutation": {
         "Id": 31,
         "Title": "Next Permutation",
         "Slug": "next-permutation",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
     },
     "substring-with-concatenation-of-all-words": {
         "Id": 30,
         "Title": "Substring with Concatenation of All Words",
         "Slug": "substring-with-concatenation-of-all-words",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ]
     },
     "divide-two-integers": {
         "Id": 29,
         "Title": "Divide Two Integers",
         "Slug": "divide-two-integers",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Binary Search"
+        ]
     },
     "implement-strstr": {
         "Id": 28,
         "Title": "Implement strStr()",
         "Slug": "implement-strstr",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Two Pointers",
+            "String"
+        ]
     },
     "remove-element": {
         "Id": 27,
         "Title": "Remove Element",
         "Slug": "remove-element",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Two Pointers"
+        ]
     },
     "remove-duplicates-from-sorted-array": {
         "Id": 26,
         "Title": "Remove Duplicates from Sorted Array",
         "Slug": "remove-duplicates-from-sorted-array",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Two Pointers"
+        ]
     },
     "reverse-nodes-in-k-group": {
         "Id": 25,
         "Title": "Reverse Nodes in k-Group",
         "Slug": "reverse-nodes-in-k-group",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "swap-nodes-in-pairs": {
         "Id": 24,
         "Title": "Swap Nodes in Pairs",
         "Slug": "swap-nodes-in-pairs",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "merge-k-sorted-lists": {
         "Id": 23,
         "Title": "Merge k Sorted Lists",
         "Slug": "merge-k-sorted-lists",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Linked List",
+            "Divide and Conquer",
+            "Heap"
+        ]
     },
     "generate-parentheses": {
         "Id": 22,
         "Title": "Generate Parentheses",
         "Slug": "generate-parentheses",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Backtracking"
+        ]
     },
     "merge-two-sorted-lists": {
         "Id": 21,
         "Title": "Merge Two Sorted Lists",
         "Slug": "merge-two-sorted-lists",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "valid-parentheses": {
         "Id": 20,
@@ -4883,35 +6501,56 @@
         "Title": "Remove Nth Node From End of List",
         "Slug": "remove-nth-node-from-end-of-list",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List",
+            "Two Pointers"
+        ]
     },
     "4sum": {
         "Id": 18,
         "Title": "4Sum",
         "Slug": "4sum",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Hash Table",
+            "Two Pointers"
+        ]
     },
     "letter-combinations-of-a-phone-number": {
         "Id": 17,
         "Title": "Letter Combinations of a Phone Number",
         "Slug": "letter-combinations-of-a-phone-number",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Backtracking"
+        ]
     },
     "3sum-closest": {
         "Id": 16,
         "Title": "3Sum Closest",
         "Slug": "3sum-closest",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Two Pointers"
+        ]
     },
     "3sum": {
         "Id": 15,
         "Title": "3Sum",
         "Slug": "3sum",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Two Pointers"
+        ]
     },
     "longest-common-prefix": {
         "Id": 14,
@@ -4925,14 +6564,22 @@
         "Title": "Roman to Integer",
         "Slug": "roman-to-integer",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Math",
+            "String"
+        ]
     },
     "integer-to-roman": {
         "Id": 12,
         "Title": "Integer to Roman",
         "Slug": "integer-to-roman",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "String"
+        ]
     },
     "container-with-most-water": {
         "Id": 11,
@@ -4960,7 +6607,11 @@
         "Title": "String to Integer (atoi)",
         "Slug": "string-to-integer-atoi",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "String"
+        ]
     },
     "reverse-integer": {
         "Id": 7,
@@ -4974,40 +6625,91 @@
         "Title": "ZigZag Conversion",
         "Slug": "zigzag-conversion",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
     },
     "longest-palindromic-substring": {
         "Id": 5,
         "Title": "Longest Palindromic Substring",
         "Slug": "longest-palindromic-substring",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
     },
     "median-of-two-sorted-arrays": {
         "Id": 4,
         "Title": "Median of Two Sorted Arrays",
         "Slug": "median-of-two-sorted-arrays",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+        ]
     },
     "longest-substring-without-repeating-characters": {
         "Id": 3,
         "Title": "Longest Substring Without Repeating Characters",
         "Slug": "longest-substring-without-repeating-characters",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Two Pointers",
+            "String"
+        ]
     },
     "add-two-numbers": {
         "Id": 2,
         "Title": "Add Two Numbers",
         "Slug": "add-two-numbers",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Linked List"
+        ]
     },
     "two-sum": {
         "Id": 1,
         "Title": "Two Sum",
         "Slug": "two-sum",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Hash Table"
+        ]
+    },
+    "online-election": {
+        "Id": 911,
+        "Title": "Online Election",
+        "Slug": "online-election",
+        "Paid": false,
+        "Level": 2
+    },
+    "smallest-range-ii": {
+        "Id": 910,
+        "Title": "Smallest Range II",
+        "Slug": "smallest-range-ii",
+        "Paid": false,
+        "Level": 2
+    },
+    "snakes-and-ladders": {
+        "Id": 909,
+        "Title": "Snakes and Ladders",
+        "Slug": "snakes-and-ladders",
+        "Paid": false,
+        "Level": 2
+    },
+    "smallest-range-i": {
+        "Id": 908,
+        "Title": "Smallest Range I",
+        "Slug": "smallest-range-i",
         "Paid": false,
         "Level": 1
     }

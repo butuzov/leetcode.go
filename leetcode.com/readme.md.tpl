@@ -3,18 +3,18 @@
  
 ### Solved Problems
 
-Problem | Dificulty  
---------|----------- 
+ID | Problem               | Dificulty  | Topics
+---|-----------------------|------------|------------ 
 {{ range . }} 
-{{- if .Ready -}} [ {{ .Title }} ]( {{ .Slug }} ) | {{ .LevelStr }}  
+{{- if .Ready -}} {{ .ID }} | [ {{ .Title }} ]( {{ .Slug }} ) | {{ .LevelStr }} | {{ .Topic }} 
 {{end}}
 {{- end}}
 
 ### Upcoming 
 
-Problem @ LeetCode    | Dificulty
-----------------------|------------  
+ID | Problem @ LeetCode    | Dificulty  | Topics
+---|-----------------------|------------|--------
 {{ range . }} 
-{{- if not .Ready -}}[{{ .Title }}](https://leetcode.com/problems/{{- .Slug -}}) | {{ .LevelStr }} 
+{{- if not .Ready -}}{{ .ID }} | [{{ .Title }}](https://leetcode.com/problems/{{- .Slug -}}) | {{ .LevelStr }}  | {{ .Topic }} 
 {{end}}
 {{- end}}

@@ -16,6 +16,7 @@ type Problem struct {
 	Slug     string
 	Level    int `json:"Level"`
 	LevelStr string
+	Topics   []string `json:"topics"`
 	Topic    string
 
 	Ready bool
@@ -48,9 +49,11 @@ func main() {
 
 	for i, v := range Problems {
 
-		// for i := range v.Topics {
-		// 	v.Topics[i] = fmt.Sprintf("`%s`", v.Topics[i])
-		// }
+		for i := range v.Topics {
+			v.Topics[i] = fmt.Sprintf("`%s`", v.Topics[i])
+		}
+
+		v.Topic = strings.Join(v.Topics, ", ")
 
 		switch v.Level {
 		case 1:
