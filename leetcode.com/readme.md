@@ -8,6 +8,8 @@ ID | Problem               | Dificulty  | Topics
 674 | [ Longest Continuous Increasing Subsequence ]( 0674-Longest-Continuous-Increasing-Subsequence ) | ☆ | `Array`, `Facebook` 
 520 | [ Detect Capital ]( 0520-Detect-Capital ) | ☆ | `String` 
 441 | [ Arranging Coins ]( 0441-Arranging-Coins ) | ☆ | `Math`, `Binary Search` 
+345 | [ Reverse Vowels of a String ]( 0345-Reverse-Vowels-of-a-String ) | ☆ | `Two Pointers`, `String` 
+344 | [ Reverse String ]( 0344-Reverse-String ) | ☆ | `Two Pointers`, `String` 
 231 | [ Power of Two ]( 0231-Power-of-Two ) | ☆ | `Math`, `Bit Manipulation` 
 198 | [ House Robber ]( 0198-House-Robber ) | ☆ | `Dynamic Programming` 
 179 | [ Largest Number ]( 0179-Largest-Number ) | ☆☆ | `Sort` 
@@ -464,8 +466,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | ☆  | `Hash Table`, `Two Pointers`, `Binary Search`, `Sort` 
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | ☆  | `Hash Table`, `Two Pointers`, `Binary Search`, `Sort` 
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | ☆☆  | `Hash Table`, `Heap` 
-345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | ☆  | `Two Pointers`, `String` 
-344 | [Reverse String](https://leetcode.com/problems/reverse-string) | ☆  | `Two Pointers`, `String` 
 343 | [Integer Break](https://leetcode.com/problems/integer-break) | ☆☆  | `Math`, `Dynamic Programming` 
 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | ☆  | `Bit Manipulation` 
 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | ☆☆  | `Stack`, `Design` 
