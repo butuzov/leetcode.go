@@ -43,7 +43,10 @@ Problem | Dificulty | Tags
 [Scrabble Score ](scrabble-score) | ☆ | `loops`, `maps`, `strings` 
 [Space Age ](space-age) | ☆ | `floating point numbers`, `if else statements` 
 [Sum Of Multiples ](sum-of-multiples) | ☆☆ | `loops`, `math` 
+[Tournament ](tournament) | ☆ | `integers`, `parsing`, `records`, `sorting`, `strings`, `text formatting`, `transforming` 
+[Transpose ](transpose) | ☆☆ | `loops`, `strings`, `transforming` 
 [Triangle ](triangle) | ☆ | `booleans`, `conditionals`, `logic` 
+[Twelve Days ](twelve-days) | ☆☆ | `algorithms`, `pattern recognition`, `sequences`, `strings`, `text formatting` 
 [Two Fer ](two-fer) | ☆ | `conditionals`, `strings` 
 
 
@@ -116,11 +119,8 @@ Problem @ Exercsim.io | Dificulty | Tags
  [Spiral Matrix @ exercism.io ](https://exercism.io/tracks/go/exercises/spiral-matrix) | ☆☆ | `arrays`, `loops`, `matrices` 
  [Strain @ exercism.io ](https://exercism.io/tracks/go/exercises/strain) | ☆ | `arrays`, `filtering`, `loops` 
  [Sublist @ exercism.io ](https://exercism.io/tracks/go/exercises/sublist) | ☆ | `arrays`, `control flow loops` 
- [Tournament @ exercism.io ](https://exercism.io/tracks/go/exercises/tournament) | ☆ | `integers`, `parsing`, `records`, `sorting`, `strings`, `text formatting`, `transforming` 
- [Transpose @ exercism.io ](https://exercism.io/tracks/go/exercises/transpose) | ☆☆ | `loops`, `strings`, `transforming` 
  [Tree Building @ exercism.io ](https://exercism.io/tracks/go/exercises/tree-building) | ☆ | `records`, `refactoring`, `sorting`, `trees` 
  [Trinary @ exercism.io ](https://exercism.io/tracks/go/exercises/trinary) |  | `misc` 
- [Twelve Days @ exercism.io ](https://exercism.io/tracks/go/exercises/twelve-days) | ☆☆ | `algorithms`, `pattern recognition`, `sequences`, `strings`, `text formatting` 
  [Two Bucket @ exercism.io ](https://exercism.io/tracks/go/exercises/two-bucket) | ☆☆ | `algorithms`, `conditionals`, `searching` 
  [Variable Length Quantity @ exercism.io ](https://exercism.io/tracks/go/exercises/variable-length-quantity) | ☆☆ | `bitwise operations`, `integers`, `transforming` 
  [Word Count @ exercism.io ](https://exercism.io/tracks/go/exercises/word-count) | ☆ | `sorting`, `strings` 
