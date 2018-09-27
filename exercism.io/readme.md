@@ -40,8 +40,10 @@ Problem | Dificulty | Tags
 [RNA Transcription ](rna-transcription) | ☆ | `maps`, `transforming` 
 [Robot Name ](robot-name) | ☆ | `randomness` 
 [Roman Numerals ](roman-numerals) | ☆ | `numbers`, `transforming` 
+[Rotational Cipher ](rotational-cipher) | ☆ | `cryptography`, `integers`, `strings` 
 [Scrabble Score ](scrabble-score) | ☆ | `loops`, `maps`, `strings` 
 [Space Age ](space-age) | ☆ | `floating point numbers`, `if else statements` 
+[Spiral Matrix ](spiral-matrix) | ☆☆ | `arrays`, `loops`, `matrices` 
 [Sum Of Multiples ](sum-of-multiples) | ☆☆ | `loops`, `math` 
 [Tournament ](tournament) | ☆ | `integers`, `parsing`, `records`, `sorting`, `strings`, `text formatting`, `transforming` 
 [Transpose ](transpose) | ☆☆ | `loops`, `strings`, `transforming` 
@@ -106,7 +108,6 @@ Problem @ Exercsim.io | Dificulty | Tags
  [React @ exercism.io ](https://exercism.io/tracks/go/exercises/react) | ☆☆☆ | `callbacks`, `interfaces`, `reactive programming` 
  [Rectangles @ exercism.io ](https://exercism.io/tracks/go/exercises/rectangles) | ☆☆ | `arrays`, `control flow conditionals`, `control flow loops`, `matrices`, `strings` 
  [Robot Simulator @ exercism.io ](https://exercism.io/tracks/go/exercises/robot-simulator) | ☆☆ | `concurrency`, `loops`, `sequences`, `strings`, `structs` 
- [Rotational Cipher @ exercism.io ](https://exercism.io/tracks/go/exercises/rotational-cipher) | ☆ | `cryptography`, `integers`, `strings` 
  [Run Length Encoding @ exercism.io ](https://exercism.io/tracks/go/exercises/run-length-encoding) | ☆☆ | `parsing`, `strings`, `transforming` 
  [Saddle Points @ exercism.io ](https://exercism.io/tracks/go/exercises/saddle-points) | ☆☆ | `arrays`, `integers`, `matrices`, `searching` 
  [Say @ exercism.io ](https://exercism.io/tracks/go/exercises/say) | ☆☆ | `numbers`, `strings`, `text formatting`, `transforming` 
@@ -116,7 +117,6 @@ Problem @ Exercsim.io | Dificulty | Tags
  [Sieve @ exercism.io ](https://exercism.io/tracks/go/exercises/sieve) | ☆ | `algorithms`, `integers`, `loops`, `sorting`, `math` 
  [Simple Cipher @ exercism.io ](https://exercism.io/tracks/go/exercises/simple-cipher) | ☆ | `algorithms`, `cryptography`, `interfaces`, `strings`, `transforming` 
  [Simple Linked List @ exercism.io ](https://exercism.io/tracks/go/exercises/simple-linked-list) | ☆☆ | `arrays`, `loops` 
- [Spiral Matrix @ exercism.io ](https://exercism.io/tracks/go/exercises/spiral-matrix) | ☆☆ | `arrays`, `loops`, `matrices` 
  [Strain @ exercism.io ](https://exercism.io/tracks/go/exercises/strain) | ☆ | `arrays`, `filtering`, `loops` 
  [Sublist @ exercism.io ](https://exercism.io/tracks/go/exercises/sublist) | ☆ | `arrays`, `control flow loops` 
  [Tree Building @ exercism.io ](https://exercism.io/tracks/go/exercises/tree-building) | ☆ | `records`, `refactoring`, `sorting`, `trees` 
