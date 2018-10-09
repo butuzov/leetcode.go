@@ -15,6 +15,7 @@ ID | Problem               | Dificulty  | Topics
 179 | [ Largest Number ]( 0179-Largest-Number ) | ☆☆ | `Sort` 
 83 | [ Remove Duplicates from Sorted List ]( 0083-Remove-Duplicates-from-Sorted-List ) | ☆ | `Linked List` 
 78 | [ Subsets ]( 0078-Subsets ) | ☆☆ | `Array`, `Backtracking`, `Bit Manipulation` 
+34 | [ Find First and Last Position of Element in Sorted Array ]( 0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array ) | ☆☆ |  
 2 | [ Add Two Numbers ]( 0002-Add-Two-Numbers ) | ☆☆ | `Linked List` 
 
 
@@ -698,7 +699,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | ☆☆☆  | `Hash Table`, `Backtracking` 
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | ☆☆  | `Hash Table` 
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | ☆  | `Array`, `Binary Search` 
-34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | ☆☆  |  
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | ☆☆  | `Array`, `Binary Search` 
 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | ☆☆☆  | `String`, `Dynamic Programming` 
 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) | ☆☆  | `Array` 
