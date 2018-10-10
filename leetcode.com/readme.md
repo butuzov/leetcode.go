@@ -5,7 +5,9 @@
 
 ID | Problem               | Dificulty  | Topics
 ---|-----------------------|------------|------------ 
+848 | [ Shifting Letters ]( 0848-Shifting-Letters ) | ☆☆ |  
 674 | [ Longest Continuous Increasing Subsequence ]( 0674-Longest-Continuous-Increasing-Subsequence ) | ☆ | `Array`, `Facebook` 
+539 | [ Minimum Time Difference ]( 0539-Minimum-Time-Difference ) | ☆☆ | `String` 
 520 | [ Detect Capital ]( 0520-Detect-Capital ) | ☆ | `String` 
 441 | [ Arranging Coins ]( 0441-Arranging-Coins ) | ☆ | `Math`, `Binary Search` 
 345 | [ Reverse Vowels of a String ]( 0345-Reverse-Vowels-of-a-String ) | ☆ | `Two Pointers`, `String` 
@@ -86,7 +88,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich) | ☆☆  |  
 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii) | ☆☆☆  |  
 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person) | ☆  |  
-848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | ☆☆  |  
 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes) | ☆☆☆  |  
 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) | ☆☆  |  
 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) | ☆☆  |  
@@ -318,7 +319,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | ☆☆  | `Depth-first Search`, `Breadth-first Search` 
 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | ☆  | `String` 
 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | ☆☆  |  
-539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | ☆☆  | `String` 
 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | ☆  | `Tree` 
 537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | ☆☆  | `Math`, `String` 
 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | ☆☆  | `Hash Table`, `Math` 
