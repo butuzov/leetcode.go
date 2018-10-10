@@ -50,7 +50,6 @@ func (dll List) String() string {
 			buf.WriteString(fmt.Sprintf("%+v", node.Val))
 		} else {
 
-			var n int
 			var format string
 
 			for node != nil {
