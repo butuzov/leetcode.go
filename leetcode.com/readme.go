@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"html/template"
 	"io/ioutil"
+	"math"
 	"os"
 	"sort"
 	"strings"
@@ -92,8 +93,29 @@ func main() {
 	}
 	sort.Sort(tmp)
 
+	var total, solved int
+	solvedStat := map[string]int{"☆": 0, "☆☆": 0, "☆☆☆": 0, "All": 0}
+	for _, p := range tmp {
+		if p.Ready {
+			solved++
+			solvedStat[p.LevelStr]++
+		}
+		total++
+		solvedStat["All"]++
+	}
+
+	solvedPercents := int(math.RoundToEven((float64(solved) / float64(total)) * float64(60)))
+
 	tpl := template.Must(template.ParseGlob("readme*"))
-	tpl.ExecuteTemplate(f, "readme.md.tpl", tmp)
+	tpl.ExecuteTemplate(f, "readme.md.tpl", struct {
+		List     Problems
+		Progress string
+		Stat     map[string]int
+	}{
+		tmp,
+		strings.Repeat("▰", solvedPercents) + strings.Repeat("▱", 60-solvedPercents),
+		solvedStat,
+	})
 }
 
 // Len is part of sort.Interface.

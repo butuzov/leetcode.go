@@ -1,6 +1,24 @@
 # [LeetCode.com](https://leetcode.com)
- 
- 
+
+ * [Progress](#progress)
+ * [Stats](#stats)
+ * [Solved Problems](#solved-problems)
+ * [Upcoming Problems](#upcoming-problems)
+
+### Progress
+
+▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+
+### Stats 
+
+Dificulty                            |Done
+-------------------------------------|------------------------- 
+☆                                     | 9 
+☆☆                                   | 8 
+☆☆☆                                 | 0 
+Total Questions Available             | 728 
+
+
 ### Solved Problems
 
 ID | Problem               | Dificulty  | Topics
@@ -24,7 +42,7 @@ ID | Problem               | Dificulty  | Topics
 2 | [ Add Two Numbers ]( 0002-Add-Two-Numbers ) | ☆☆ | `Linked List` 
 
 
-### Upcoming 
+### Upcoming Problems
 
 ID | Problem @ LeetCode    | Dificulty  | Topics
 ---|-----------------------|------------|--------
