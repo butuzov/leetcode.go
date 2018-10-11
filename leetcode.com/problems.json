@@ -6712,5 +6712,61 @@
         "Slug": "smallest-range-i",
         "Paid": false,
         "Level": 1
+    },
+    "number-of-music-playlists": {
+        "Id": 920,
+        "Title": "Number of Music Playlists",
+        "Slug": "number-of-music-playlists",
+        "Paid": false,
+        "Level": 3
+    },
+    "complete-binary-tree-inserter": {
+        "Id": 919,
+        "Title": "Complete Binary Tree Inserter",
+        "Slug": "complete-binary-tree-inserter",
+        "Paid": false,
+        "Level": 2
+    },
+    "maximum-sum-circular-subarray": {
+        "Id": 918,
+        "Title": "Maximum Sum Circular Subarray",
+        "Slug": "maximum-sum-circular-subarray",
+        "Paid": false,
+        "Level": 2
+    },
+    "reverse-only-letters": {
+        "Id": 917,
+        "Title": "Reverse Only Letters",
+        "Slug": "reverse-only-letters",
+        "Paid": false,
+        "Level": 1
+    },
+    "word-subsets": {
+        "Id": 916,
+        "Title": "Word Subsets",
+        "Slug": "word-subsets",
+        "Paid": false,
+        "Level": 2
+    },
+    "partition-array-into-disjoint-intervals": {
+        "Id": 915,
+        "Title": "Partition Array into Disjoint Intervals",
+        "Slug": "partition-array-into-disjoint-intervals",
+        "Paid": false,
+        "Level": 2
+    },
+    "x-of-a-kind-in-a-deck-of-cards": {
+        "Id": 914,
+        "Title": "X of a Kind in a Deck of Cards",
+        "Slug": "x-of-a-kind-in-a-deck-of-cards",
+        "Paid": false,
+        "Level": 1
+    },
+    "cat-and-mouse": {
+        "Id": 913,
+        "Title": "Cat and Mouse",
+        "Slug": "cat-and-mouse",
+        "Paid": false,
+        "Level": 3
     }
 }
