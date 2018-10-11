@@ -10,6 +10,7 @@ ID | Problem               | Dificulty  | Topics
 539 | [ Minimum Time Difference ]( 0539-Minimum-Time-Difference ) | ☆☆ | `String` 
 520 | [ Detect Capital ]( 0520-Detect-Capital ) | ☆ | `String` 
 441 | [ Arranging Coins ]( 0441-Arranging-Coins ) | ☆ | `Math`, `Binary Search` 
+387 | [ First Unique Character in a String ]( 0387-First-Unique-Character-in-a-String ) | ☆ |  
 345 | [ Reverse Vowels of a String ]( 0345-Reverse-Vowels-of-a-String ) | ☆ | `Two Pointers`, `String` 
 344 | [ Reverse String ]( 0344-Reverse-String ) | ☆ | `Two Pointers`, `String` 
 231 | [ Power of Two ]( 0231-Power-of-Two ) | ☆ | `Math`, `Bit Manipulation` 
@@ -17,6 +18,8 @@ ID | Problem               | Dificulty  | Topics
 179 | [ Largest Number ]( 0179-Largest-Number ) | ☆☆ | `Sort` 
 83 | [ Remove Duplicates from Sorted List ]( 0083-Remove-Duplicates-from-Sorted-List ) | ☆ | `Linked List` 
 78 | [ Subsets ]( 0078-Subsets ) | ☆☆ | `Array`, `Backtracking`, `Bit Manipulation` 
+59 | [ Spiral Matrix II ]( 0059-Spiral-Matrix-II ) | ☆☆ | `Array` 
+54 | [ Spiral Matrix ]( 0054-Spiral-Matrix ) | ☆☆ | `Array` 
 34 | [ Find First and Last Position of Element in Sorted Array ]( 0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array ) | ☆☆ |  
 2 | [ Add Two Numbers ]( 0002-Add-Two-Numbers ) | ☆☆ | `Linked List` 
 
@@ -25,6 +28,14 @@ ID | Problem               | Dificulty  | Topics
 
 ID | Problem @ LeetCode    | Dificulty  | Topics
 ---|-----------------------|------------|--------
+920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists) | ☆☆☆  |  
+919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | ☆☆  |  
+918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | ☆☆  |  
+917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | ☆  |  
+916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | ☆☆  |  
+915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals) | ☆☆  |  
+914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | ☆  |  
+913 | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse) | ☆☆☆  |  
 911 | [Online Election](https://leetcode.com/problems/online-election) | ☆☆  |  
 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii) | ☆☆  |  
 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) | ☆☆  |  
@@ -440,7 +451,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 390 | [Elimination Game](https://leetcode.com/problems/elimination-game) | ☆☆  |  
 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | ☆  | `Hash Table`, `Bit Manipulation` 
 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) | ☆☆  |  
-387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | ☆  |  
 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | ☆☆  |  
 385 | [Mini Parser](https://leetcode.com/problems/mini-parser) | ☆☆  | `String`, `Stack` 
 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | ☆☆  |  
@@ -674,12 +684,10 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths) | ☆☆  | `Array`, `Dynamic Programming` 
 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | ☆☆  | `Linked List`, `Two Pointers` 
 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | ☆☆  | `Math`, `Backtracking` 
-59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | ☆☆  | `Array` 
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | ☆  | `String` 
 57 | [Insert Interval](https://leetcode.com/problems/insert-interval) | ☆☆☆  | `Array`, `Sort` 
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | ☆☆  | `Array`, `Sort` 
 55 | [Jump Game](https://leetcode.com/problems/jump-game) | ☆☆  | `Array`, `Greedy` 
-54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | ☆☆  | `Array` 
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | ☆  | `Array`, `Divide and Conquer`, `Dynamic Programming` 
 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | ☆☆☆  | `Backtracking` 
 51 | [N-Queens](https://leetcode.com/problems/n-queens) | ☆☆☆  | `Backtracking` 
