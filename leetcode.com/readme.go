@@ -36,13 +36,19 @@ func main() {
 	}
 
 	// List of Ready Exercises
-	var exercises []string
+	var exercises = make(map[string]string)
 
 	// Getting List of Exercises
-	files, _ := ioutil.ReadDir("./")
-	for _, f := range files {
-		if strings.Index(f.Name(), ".") < 0 {
-			exercises = append(exercises, f.Name())
+	tags, _ := ioutil.ReadDir("./")
+	for _, t := range tags {
+		if strings.Index(t.Name(), ".") < 0 {
+
+			files, _ := ioutil.ReadDir(fmt.Sprintf("./%s", t.Name()))
+			for _, f := range files {
+				if strings.Index(f.Name(), ".") < 0 {
+					exercises[f.Name()] = t.Name() + "/" + f.Name()
+				}
+			}
 		}
 	}
 
@@ -74,8 +80,7 @@ func main() {
 		ProblemsMap[i] = v
 	}
 
-	isReadyOrNot(ProblemsMap, exercises, true)
-	isReadyOrNot(ProblemsMap, exercises, false)
+	isReadyOrNot(ProblemsMap, exercises)
 
 	// Getting list of tasks already finished.
 	f, errReadmeFile := os.Create("readme.md")
@@ -93,28 +98,30 @@ func main() {
 	}
 	sort.Sort(tmp)
 
-	var total, solved int
 	solvedStat := map[string]int{"☆": 0, "☆☆": 0, "☆☆☆": 0, "All": 0}
+	totalStat := map[string]int{"☆": 0, "☆☆": 0, "☆☆☆": 0, "All": 0}
 	for _, p := range tmp {
 		if p.Ready {
-			solved++
+			solvedStat["All"]++
 			solvedStat[p.LevelStr]++
 		}
-		total++
-		solvedStat["All"]++
+		totalStat[p.LevelStr]++
+		totalStat["All"]++
 	}
 
-	solvedPercents := int(math.RoundToEven((float64(solved) / float64(total)) * float64(60)))
+	solvedPercents := int(math.RoundToEven((float64(solvedStat["All"]) / float64(totalStat["All"])) * float64(60)))
 
 	tpl := template.Must(template.ParseGlob("readme*"))
 	tpl.ExecuteTemplate(f, "readme.md.tpl", struct {
 		List     Problems
 		Progress string
 		Stat     map[string]int
+		Total    map[string]int
 	}{
 		tmp,
 		strings.Repeat("▰", solvedPercents) + strings.Repeat("▱", 60-solvedPercents),
 		solvedStat,
+		totalStat,
 	})
 }
 
@@ -133,29 +140,19 @@ func (p Problems) Less(i, j int) bool {
 	return p[i].ID > p[j].ID
 }
 
-func isReadyOrNot(p map[string]Problem, exercises []string, ready bool) {
+func isReadyOrNot(p map[string]Problem, exercises map[string]string) {
 
 	for i, v := range p {
 
-		var found bool
-
 		var fName = fmt.Sprintf("%.4d-%s", v.ID, strings.Replace(v.Title, " ", "-", -1))
 
-		for i := range exercises {
-			if exercises[i] == fName {
-				found = true
-				break
-			}
+		if location, ok := exercises[fName]; ok {
+			v.Ready = true
+			v.Slug = location
+		} else {
+			v.Ready = false
 		}
 
-		if found == ready {
-			v.Ready = ready
-
-			if ready == true {
-				v.Slug = fName
-			}
-
-			p[i] = v
-		}
+		p[i] = v
 	}
 }

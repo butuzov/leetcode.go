@@ -1,22 +1,24 @@
-# [LeetCode.com](https://leetcode.com)
+# [LeetCode.com](https://leetcode.com) (Free Exercises only)
+
+The purpose of LeetCode is to provide you hands-on training on real coding interview questions. The Online Judge gives you immediate feedback on the correctness and efficiency of your algorithm which facilitates a great learning experience. 
 
  * [Progress](#progress)
  * [Stats](#stats)
- * [Solved Problems](#solved-problems)
+ * [Solved Problems](#solved-problemsupcoming-problems)
  * [Upcoming Problems](#upcoming-problems)
 
-### Progress
+### Progress  
 
 {{ .Progress }}
 
-### Stats 
+### Stats
 
-Dificulty                            |Done
--------------------------------------|------------------------- 
-☆                                     | {{index .Stat "☆"}} 
-☆☆                                   | {{index .Stat "☆☆"}} 
-☆☆☆                                 | {{index .Stat "☆☆☆"}} 
-Total Questions Available             | {{index .Stat "All"}} 
+Dificulty                           | Total | Done
+-------------------------------------|-------|------------------ 
+☆                                   | {{index .Total "☆"}}   | {{index .Stat "☆"}} 
+☆☆                                 | {{index .Total "☆☆"}}  | {{index .Stat "☆☆"}} 
+☆☆☆                                | {{index .Total "☆☆☆"}}  | {{index .Stat "☆☆☆"}} 
+Total Questions Available            | {{index .Total "All"}}   | {{index .Stat "All"}} 
 
 
 ### Solved Problems
