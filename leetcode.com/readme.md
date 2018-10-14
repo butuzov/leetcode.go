@@ -1,24 +1,25 @@
 # [LeetCode.com](https://leetcode.com) (Free Exercises only)
 
-The purpose of LeetCode is to provide you hands-on training on real coding interview questions. The Online Judge gives you immediate feedback on the correctness and efficiency of your algorithm which facilitates a great learning experience. 
+The purpose of LeetCode is to provide you hands-on training on real coding interview questions. The Online Judge gives you immediate feedback on the correctness and efficiency of your algorithm which facilitates a great learning experience. Solutions to problem implemented in Go, as I am trying to have more practice in this language.
 
- * [Progress](#progress)
+ * [Progress](#progress)    
  * [Stats](#stats)
  * [Solved Problems](#solved-problemsupcoming-problems)
  * [Upcoming Problems](#upcoming-problems)
+ 
 
 ### Progress  
 
-▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ### Stats
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------ 
-☆                                   | 206   | 9 
-☆☆                                 | 343  | 8 
-☆☆☆                                | 150  | 0 
-Total Questions Available            | 699   | 17 
+☆                                   | 207   | 11 
+☆☆                                 | 345  | 11 
+☆☆☆                                | 151  | 0 
+Total Questions Available            | 703   | 22 
 
 
 ### Solved Problems
@@ -33,6 +34,9 @@ ID | Problem               | Dificulty  | Topics
 387 | [ First Unique Character in a String ]( Hash_Table/0387-First-Unique-Character-in-a-String ) | ☆ | `Hash Table`, `String` 
 345 | [ Reverse Vowels of a String ]( String/0345-Reverse-Vowels-of-a-String ) | ☆ | `Two Pointers`, `String` 
 344 | [ Reverse String ]( String/0344-Reverse-String ) | ☆ | `Two Pointers`, `String` 
+313 | [ Super Ugly Number ]( Math/0313-Super-Ugly-Number ) | ☆☆ | `Math`, `Heap` 
+264 | [ Ugly Number II ]( Math/0264-Ugly-Number-II ) | ☆☆ | `Math`, `Dynamic Programming`, `Heap` 
+263 | [ Ugly Number ]( Math/0263-Ugly-Number ) | ☆ | `Math` 
 231 | [ Power of Two ]( Bit_Manipulation/0231-Power-of-Two ) | ☆ | `Math`, `Bit Manipulation` 
 198 | [ House Robber ]( Dynamic_Programming/0198-House-Robber ) | ☆ | `Dynamic Programming` 
 179 | [ Largest Number ]( Sort/0179-Largest-Number ) | ☆☆ | `Sort` 
@@ -41,13 +45,19 @@ ID | Problem               | Dificulty  | Topics
 59 | [ Spiral Matrix II ]( Array/0059-Spiral-Matrix-II ) | ☆☆ | `Array` 
 54 | [ Spiral Matrix ]( Array/0054-Spiral-Matrix ) | ☆☆ | `Array` 
 34 | [ Find First and Last Position of Element in Sorted Array ]( Binary_Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array ) | ☆☆ | `Array`, `Binary Search` 
+12 | [ Integer to Roman ]( String/0012-Integer-to-Roman ) | ☆☆ | `Math`, `String` 
 2 | [ Add Two Numbers ]( Linked_List/0002-Add-Two-Numbers ) | ☆☆ | `Linked List`, `Math` 
+1 | [ Two Sum ]( Array/0001-Two-Sum ) | ☆ | `Array`, `Hash Table` 
 
 
 ### Upcoming Problems
 
 ID | Problem @ LeetCode    | Dificulty  | Topics
 ---|-----------------------|------------|--------
+924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread) | ☆☆☆  |  
+923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity) | ☆☆  |  
+922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | ☆  |  
+921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | ☆☆  |  
 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists) | ☆☆☆  |  
 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | ☆☆  |  
 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | ☆☆  |  
@@ -507,7 +517,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths) | ☆☆  | `Bit Manipulation` 
 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | ☆☆☆  | `Stack`, `Greedy` 
 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | ☆☆☆  | `Divide and Conquer`, `Binary Indexed Tree`, `Segment Tree`, `Binary Search Tree` 
-313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number) | ☆☆  | `Math`, `Heap` 
 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons) | ☆☆☆  | `Divide and Conquer`, `Dynamic Programming` 
 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | ☆☆  | `Breadth-first Search`, `Graph` 
 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | ☆☆  | `Dynamic Programming` 
@@ -530,8 +539,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 274 | [H-Index](https://leetcode.com/problems/h-index) | ☆☆  | `Hash Table`, `Sort` 
 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words) | ☆☆☆  | `Math`, `String` 
 268 | [Missing Number](https://leetcode.com/problems/missing-number) | ☆  | `Array`, `Math`, `Bit Manipulation` 
-264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii) | ☆☆  | `Math`, `Dynamic Programming`, `Heap` 
-263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | ☆  | `Math` 
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii) | ☆☆  | `Bit Manipulation` 
 258 | [Add Digits](https://leetcode.com/problems/add-digits) | ☆  | `Math` 
 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | ☆  | `Tree`, `Depth-first Search` 
@@ -719,7 +726,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 15 | [3Sum](https://leetcode.com/problems/3sum) | ☆☆  | `Array`, `Two Pointers` 
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | ☆  | `String` 
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | ☆  | `Math`, `String` 
-12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | ☆☆  | `Math`, `String` 
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | ☆☆  | `Array`, `Two Pointers` 
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | ☆☆☆  | `String`, `Dynamic Programming`, `Backtracking` 
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | ☆  | `Math` 
@@ -729,4 +735,3 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | ☆☆  | `String`, `Dynamic Programming` 
 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | ☆☆☆  | `Array`, `Binary Search`, `Divide and Conquer` 
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | ☆☆  | `Hash Table`, `Two Pointers`, `String` 
-1 | [Two Sum](https://leetcode.com/problems/two-sum) | ☆  | `Array`, `Hash Table` 

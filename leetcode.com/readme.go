@@ -109,7 +109,8 @@ func main() {
 		totalStat["All"]++
 	}
 
-	solvedPercents := int(math.RoundToEven((float64(solvedStat["All"]) / float64(totalStat["All"])) * float64(60)))
+	var progressLen = 61
+	solvedPercents := int(math.RoundToEven((float64(solvedStat["All"]) / float64(totalStat["All"])) * float64(progressLen)))
 
 	tpl := template.Must(template.ParseGlob("readme*"))
 	tpl.ExecuteTemplate(f, "readme.md.tpl", struct {
@@ -119,7 +120,7 @@ func main() {
 		Total    map[string]int
 	}{
 		tmp,
-		strings.Repeat("▰", solvedPercents) + strings.Repeat("▱", 60-solvedPercents),
+		strings.Repeat("▰", solvedPercents) + strings.Repeat("▱", progressLen-solvedPercents),
 		solvedStat,
 		totalStat,
 	})
