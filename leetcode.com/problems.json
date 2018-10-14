@@ -1,4 +1,32 @@
 {
+    "minimize-malware-spread": {
+        "Id": 924,
+        "Title": "Minimize Malware Spread",
+        "Slug": "minimize-malware-spread",
+        "Paid": false,
+        "Level": 3
+    },
+    "3sum-with-multiplicity": {
+        "Id": 923,
+        "Title": "3Sum With Multiplicity",
+        "Slug": "3sum-with-multiplicity",
+        "Paid": false,
+        "Level": 2
+    },
+    "sort-array-by-parity-ii": {
+        "Id": 922,
+        "Title": "Sort Array By Parity II",
+        "Slug": "sort-array-by-parity-ii",
+        "Paid": false,
+        "Level": 1
+    },
+    "minimum-add-to-make-parentheses-valid": {
+        "Id": 921,
+        "Title": "Minimum Add to Make Parentheses Valid",
+        "Slug": "minimum-add-to-make-parentheses-valid",
+        "Paid": false,
+        "Level": 2
+    },
     "number-of-music-playlists": {
         "Id": 920,
         "Title": "Number of Music Playlists",
