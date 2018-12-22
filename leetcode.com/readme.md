@@ -16,10 +16,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------ 
-☆                                   | 220   | 11 
-☆☆                                 | 367  | 11 
+☆                                   | 220   | 13 
+☆☆                                 | 367  | 12 
 ☆☆☆                                | 159  | 0 
-Total Questions Available            | 746   | 22 
+Total Questions Available            | 746   | 25 
 
 
 ### Solved Problems
@@ -38,6 +38,9 @@ ID | Problem               | Dificulty  | Topics
 264 | [ Ugly Number II ]( Math/0264-Ugly-Number-II ) | ☆☆ | `Math`, `Dynamic Programming`, `Heap` 
 263 | [ Ugly Number ]( Math/0263-Ugly-Number ) | ☆ | `Math` 
 231 | [ Power of Two ]( Bit_Manipulation/0231-Power-of-Two ) | ☆ | `Math`, `Bit Manipulation` 
+220 | [ Contains Duplicate III ]( Hash_Table/0220-Contains-Duplicate-III ) | ☆☆ | `Binary Search Tree` 
+219 | [ Contains Duplicate II ]( Hash_Table/0219-Contains-Duplicate-II ) | ☆ | `Array`, `Hash Table` 
+217 | [ Contains Duplicate ]( Hash_Table/0217-Contains-Duplicate ) | ☆ | `Array`, `Hash Table` 
 198 | [ House Robber ]( Dynamic_Programming/0198-House-Robber ) | ☆ | `Dynamic Programming` 
 179 | [ Largest Number ]( Sort/0179-Largest-Number ) | ☆☆ | `Sort` 
 83 | [ Remove Duplicates from Sorted List ]( Linked_List/0083-Remove-Duplicates-from-Sorted-List ) | ☆ | `Linked List` 
@@ -598,10 +601,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area) | ☆☆  | `Math` 
 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | ☆☆  | `Binary Search`, `Tree` 
 221 | [Maximal Square](https://leetcode.com/problems/maximal-square) | ☆☆  | `Dynamic Programming` 
-220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | ☆☆  | `Binary Search Tree` 
-219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | ☆  | `Array`, `Hash Table` 
 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | ☆☆☆  | `Divide and Conquer`, `Heap`, `Binary Indexed Tree`, `Segment Tree` 
-217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | ☆  | `Array`, `Hash Table` 
 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | ☆☆  | `Array`, `Backtracking` 
 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | ☆☆  | `Divide and Conquer`, `Heap` 
 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | ☆☆☆  | `String` 
