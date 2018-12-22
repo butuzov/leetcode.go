@@ -18,8 +18,8 @@ Dificulty                           | Total | Done
 -------------------------------------|-------|------------------ 
 ☆                                   | 220   | 13 
 ☆☆                                 | 367  | 12 
-☆☆☆                                | 159  | 0 
-Total Questions Available            | 746   | 25 
+☆☆☆                                | 159  | 1 
+Total Questions Available            | 746   | 26 
 
 
 ### Solved Problems
@@ -49,6 +49,7 @@ ID | Problem               | Dificulty  | Topics
 54 | [ Spiral Matrix ]( Array/0054-Spiral-Matrix ) | ☆☆ | `Array` 
 34 | [ Find First and Last Position of Element in Sorted Array ]( Binary_Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array ) | ☆☆ | `Array`, `Binary Search` 
 12 | [ Integer to Roman ]( String/0012-Integer-to-Roman ) | ☆☆ | `Math`, `String` 
+4 | [ Median of Two Sorted Arrays ]( Divide_and_Conquer/0004-Median-of-Two-Sorted-Arrays ) | ☆☆☆ | `Array`, `Binary Search`, `Divide and Conquer` 
 2 | [ Add Two Numbers ]( Linked_List/0002-Add-Two-Numbers ) | ☆☆ | `Linked List`, `Math` 
 1 | [ Two Sum ]( Array/0001-Two-Sum ) | ☆ | `Array`, `Hash Table` 
 
@@ -776,5 +777,4 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | ☆  | `Math` 
 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | ☆☆  | `String` 
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | ☆☆  | `String`, `Dynamic Programming` 
-4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | ☆☆☆  | `Array`, `Binary Search`, `Divide and Conquer` 
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | ☆☆  | `Hash Table`, `Two Pointers`, `String` 
