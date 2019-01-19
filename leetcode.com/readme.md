@@ -10,22 +10,23 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ### Progress  
 
-▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ### Stats
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------ 
-☆                                   | 220   | 13 
-☆☆                                 | 367  | 12 
-☆☆☆                                | 159  | 1 
-Total Questions Available            | 746   | 26 
+☆                                   | 227   | 16 
+☆☆                                 | 376  | 14 
+☆☆☆                                | 163  | 2 
+Total Questions Available            | 766   | 32 
 
 
 ### Solved Problems
 
 ID | Problem               | Dificulty  | Topics
 ---|-----------------------|------------|------------ 
+961 | [ N-Repeated Element in Size 2N Array ]( Hash_Table/0961-N-Repeated-Element-in-Size-2N-Array ) | ☆ | `Hash Table` 
 848 | [ Shifting Letters ]( String/0848-Shifting-Letters ) | ☆☆ | `String` 
 674 | [ Longest Continuous Increasing Subsequence ]( Array/0674-Longest-Continuous-Increasing-Subsequence ) | ☆ | `Array` 
 539 | [ Minimum Time Difference ]( String/0539-Minimum-Time-Difference ) | ☆☆ | `String` 
@@ -46,9 +47,14 @@ ID | Problem               | Dificulty  | Topics
 83 | [ Remove Duplicates from Sorted List ]( Linked_List/0083-Remove-Duplicates-from-Sorted-List ) | ☆ | `Linked List` 
 78 | [ Subsets ]( Array/0078-Subsets ) | ☆☆ | `Array`, `Backtracking`, `Bit Manipulation` 
 59 | [ Spiral Matrix II ]( Array/0059-Spiral-Matrix-II ) | ☆☆ | `Array` 
+57 | [ Insert Interval ]( Sort/0057-Insert-Interval ) | ☆☆☆ | `Array`, `Sort` 
+56 | [ Merge Intervals ]( Sort/0056-Merge-Intervals ) | ☆☆ | `Array`, `Sort` 
 54 | [ Spiral Matrix ]( Array/0054-Spiral-Matrix ) | ☆☆ | `Array` 
 34 | [ Find First and Last Position of Element in Sorted Array ]( Binary_Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array ) | ☆☆ | `Array`, `Binary Search` 
+26 | [ Remove Duplicates from Sorted Array ]( Array/0026-Remove-Duplicates-from-Sorted-Array ) | ☆ | `Array`, `Two Pointers` 
 12 | [ Integer to Roman ]( String/0012-Integer-to-Roman ) | ☆☆ | `Math`, `String` 
+11 | [ Container With Most Water ]( Array/0011-Container-With-Most-Water ) | ☆☆ | `Array`, `Two Pointers` 
+7 | [ Reverse Integer ]( Math/0007-Reverse-Integer ) | ☆ | `Math` 
 4 | [ Median of Two Sorted Arrays ]( Divide_and_Conquer/0004-Median-of-Two-Sorted-Arrays ) | ☆☆☆ | `Array`, `Binary Search`, `Divide and Conquer` 
 2 | [ Add Two Numbers ]( Linked_List/0002-Add-Two-Numbers ) | ☆☆ | `Linked List`, `Math` 
 1 | [ Two Sum ]( Array/0001-Two-Sum ) | ☆ | `Array`, `Hash Table` 
@@ -58,6 +64,21 @@ ID | Problem               | Dificulty  | Topics
 
 ID | Problem @ LeetCode    | Dificulty  | Topics
 ---|-----------------------|------------|--------
+976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | ☆  | `Array`, `Math` 
+975 | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump) | ☆☆☆  | `Dynamic Programming`, `Stack` 
+974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | ☆☆  | `Array` 
+973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | ☆  | `Math`, `Divide and Conquer`, `Sort` 
+972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers) | ☆☆☆  | `Math` 
+971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal) | ☆☆  | `Tree`, `Depth-first Search` 
+970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers) | ☆  | `Math` 
+969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting) | ☆☆  | `Array`, `Sort` 
+968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | ☆☆☆  | `Dynamic Programming`, `Tree`, `Depth-first Search` 
+967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences) | ☆☆  | `Dynamic Programming` 
+966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker) | ☆☆  | `Hash Table`, `String` 
+965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | ☆  | `Tree` 
+964 | [Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number) | ☆☆☆  | `Math`, `Dynamic Programming` 
+963 | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii) | ☆☆  | `Math`, `Geometry` 
+962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp) | ☆☆  | `Array` 
 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii) | ☆☆☆  | `Dynamic Programming` 
 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes) | ☆☆  | `Depth-first Search`, `Union Find`, `Graph` 
 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree) | ☆☆  | `Tree` 
@@ -415,6 +436,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | ☆☆  | `Tree`, `Depth-first Search`, `Breadth-first Search` 
 514 | [Freedom Trail](https://leetcode.com/problems/freedom-trail) | ☆☆☆  | `Divide and Conquer`, `Dynamic Programming`, `Depth-first Search` 
 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | ☆☆  | `Tree`, `Depth-first Search`, `Breadth-first Search` 
+509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | ☆  | `Array` 
 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | ☆☆  | `Hash Table`, `Tree` 
 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | ☆  | `Math` 
 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | ☆  |  
@@ -500,7 +522,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | ☆☆  | `Stack`, `Greedy` 
 401 | [Binary Watch](https://leetcode.com/problems/binary-watch) | ☆  | `Backtracking`, `Bit Manipulation` 
 400 | [Nth Digit](https://leetcode.com/problems/nth-digit) | ☆  | `Math` 
-399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | ☆☆  | `Graph` 
+399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | ☆☆  | `Union Find`, `Graph` 
 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index) | ☆☆  | `Reservoir Sampling` 
 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement) | ☆☆  | `Math`, `Bit Manipulation` 
 396 | [Rotate Function](https://leetcode.com/problems/rotate-function) | ☆☆  | `Math` 
@@ -512,6 +534,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 390 | [Elimination Game](https://leetcode.com/problems/elimination-game) | ☆☆  |  
 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | ☆  | `Hash Table`, `Bit Manipulation` 
 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) | ☆☆  |  
+386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | ☆☆  |  
 385 | [Mini Parser](https://leetcode.com/problems/mini-parser) | ☆☆  | `String`, `Stack` 
 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | ☆☆  |  
 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | ☆  | `String` 
@@ -587,6 +610,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | ☆☆  | `Binary Search`, `Divide and Conquer` 
 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | ☆☆☆  | `Heap` 
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | ☆☆  | `Array` 
+237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | ☆  | `Linked List` 
 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | ☆☆  | `Tree` 
 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | ☆  | `Tree` 
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | ☆  | `Linked List`, `Two Pointers` 
@@ -627,6 +651,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | ☆☆☆  | `Dynamic Programming` 
 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | ☆☆  | `Hash Table`, `Bit Manipulation` 
 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game) | ☆☆☆  | `Binary Search`, `Dynamic Programming` 
+173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | ☆☆  | `Stack`, `Tree`, `Design` 
 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | ☆  | `Math` 
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | ☆  | `Math` 
 169 | [Majority Element](https://leetcode.com/problems/majority-element) | ☆  | `Array`, `Divide and Conquer`, `Bit Manipulation` 
@@ -727,8 +752,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | ☆☆  | `Linked List`, `Two Pointers` 
 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | ☆☆  | `Math`, `Backtracking` 
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | ☆  | `String` 
-57 | [Insert Interval](https://leetcode.com/problems/insert-interval) | ☆☆☆  | `Array`, `Sort` 
-56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | ☆☆  | `Array`, `Sort` 
 55 | [Jump Game](https://leetcode.com/problems/jump-game) | ☆☆  | `Array`, `Greedy` 
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | ☆  | `Array`, `Divide and Conquer`, `Dynamic Programming` 
 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | ☆☆☆  | `Backtracking` 
@@ -756,7 +779,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | ☆☆  | `Math`, `Binary Search` 
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | ☆  | `Two Pointers`, `String` 
 27 | [Remove Element](https://leetcode.com/problems/remove-element) | ☆  | `Array`, `Two Pointers` 
-26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | ☆  | `Array`, `Two Pointers` 
 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | ☆☆☆  | `Linked List` 
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | ☆☆  | `Linked List` 
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | ☆☆☆  | `Linked List`, `Divide and Conquer`, `Heap` 
@@ -770,11 +792,9 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 15 | [3Sum](https://leetcode.com/problems/3sum) | ☆☆  | `Array`, `Two Pointers` 
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | ☆  | `String` 
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | ☆  | `Math`, `String` 
-11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | ☆☆  | `Array`, `Two Pointers` 
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | ☆☆☆  | `String`, `Dynamic Programming`, `Backtracking` 
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | ☆  | `Math` 
 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | ☆☆  | `Math`, `String` 
-7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | ☆  | `Math` 
 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | ☆☆  | `String` 
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | ☆☆  | `String`, `Dynamic Programming` 
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | ☆☆  | `Hash Table`, `Two Pointers`, `String` 
