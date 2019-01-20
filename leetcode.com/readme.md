@@ -16,21 +16,23 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------ 
-☆                                   | 227   | 16 
+☆                                   | 227   | 18 
 ☆☆                                 | 376  | 14 
 ☆☆☆                                | 163  | 2 
-Total Questions Available            | 766   | 32 
+Total Questions Available            | 766   | 34 
 
 
 ### Solved Problems
 
 ID | Problem               | Dificulty  | Topics
 ---|-----------------------|------------|------------ 
+973 | [ K Closest Points to Origin ]( Sort/0973-K-Closest-Points-to-Origin ) | ☆ | `Math`, `Divide and Conquer`, `Sort` 
 961 | [ N-Repeated Element in Size 2N Array ]( Hash_Table/0961-N-Repeated-Element-in-Size-2N-Array ) | ☆ | `Hash Table` 
 848 | [ Shifting Letters ]( String/0848-Shifting-Letters ) | ☆☆ | `String` 
 674 | [ Longest Continuous Increasing Subsequence ]( Array/0674-Longest-Continuous-Increasing-Subsequence ) | ☆ | `Array` 
 539 | [ Minimum Time Difference ]( String/0539-Minimum-Time-Difference ) | ☆☆ | `String` 
 520 | [ Detect Capital ]( String/0520-Detect-Capital ) | ☆ | `String` 
+507 | [ Perfect Number ]( Math/0507-Perfect-Number ) | ☆ | `Math` 
 441 | [ Arranging Coins ]( Math/0441-Arranging-Coins ) | ☆ | `Math`, `Binary Search` 
 387 | [ First Unique Character in a String ]( Hash_Table/0387-First-Unique-Character-in-a-String ) | ☆ | `Hash Table`, `String` 
 345 | [ Reverse Vowels of a String ]( String/0345-Reverse-Vowels-of-a-String ) | ☆ | `Two Pointers`, `String` 
@@ -67,7 +69,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | ☆  | `Array`, `Math` 
 975 | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump) | ☆☆☆  | `Dynamic Programming`, `Stack` 
 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | ☆☆  | `Array` 
-973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | ☆  | `Math`, `Divide and Conquer`, `Sort` 
 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers) | ☆☆☆  | `Math` 
 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal) | ☆☆  | `Tree`, `Depth-first Search` 
 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers) | ☆  | `Math` 
@@ -438,7 +439,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | ☆☆  | `Tree`, `Depth-first Search`, `Breadth-first Search` 
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | ☆  | `Array` 
 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | ☆☆  | `Hash Table`, `Tree` 
-507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | ☆  | `Math` 
 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | ☆  |  
 504 | [Base 7](https://leetcode.com/problems/base-7) | ☆  |  
 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | ☆☆  | `Stack` 
