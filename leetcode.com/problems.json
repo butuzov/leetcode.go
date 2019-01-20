@@ -1,4 +1,48 @@
 {
+    "unique-paths-iii": {
+        "Id": 980,
+        "Title": "Unique Paths III",
+        "Slug": "unique-paths-iii",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming",
+            "Backtracking"
+        ]
+    },
+    "distribute-coins-in-binary-tree": {
+        "Id": 979,
+        "Title": "Distribute Coins in Binary Tree",
+        "Slug": "distribute-coins-in-binary-tree",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
+    },
+    "longest-turbulent-subarray": {
+        "Id": 978,
+        "Title": "Longest Turbulent Subarray",
+        "Slug": "longest-turbulent-subarray",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "squares-of-a-sorted-array": {
+        "Id": 977,
+        "Title": "Squares of a Sorted Array",
+        "Slug": "squares-of-a-sorted-array",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Two Pointers",
+            "Sort"
+        ]
+    },
     "largest-perimeter-triangle": {
         "Id": 976,
         "Title": "Largest Perimeter Triangle",
@@ -4157,7 +4201,7 @@
         "Title": "Largest Palindrome Product",
         "Slug": "largest-palindrome-product",
         "Paid": false,
-        "Level": 1
+        "Level": 3
     },
     "total-hamming-distance": {
         "Id": 477,
