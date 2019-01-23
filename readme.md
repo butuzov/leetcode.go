@@ -16,10 +16,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------ 
-☆                                   | 227   | 18 
-☆☆                                 | 378  | 14 
-☆☆☆                                | 165  | 2 
-Total Questions Available            | 770   | 34 
+☆                                   | 227   | 21 
+☆☆                                 | 378  | 15 
+☆☆☆                                | 165  | 3 
+Total Questions Available            | 770   | 39 
 
 
 ### Solved Problems
@@ -37,6 +37,7 @@ ID | Problem               | Dificulty  | Topics
 387 | [ First Unique Character in a String ]( Hash_Table/0387-First-Unique-Character-in-a-String ) | ☆ | `Hash Table`, `String` 
 345 | [ Reverse Vowels of a String ]( String/0345-Reverse-Vowels-of-a-String ) | ☆ | `Two Pointers`, `String` 
 344 | [ Reverse String ]( String/0344-Reverse-String ) | ☆ | `Two Pointers`, `String` 
+338 | [ Counting Bits ]( Bit_Manipulation/0338-Counting-Bits ) | ☆☆ | `Dynamic Programming`, `Bit Manipulation` 
 313 | [ Super Ugly Number ]( Math/0313-Super-Ugly-Number ) | ☆☆ | `Math`, `Heap` 
 264 | [ Ugly Number II ]( Math/0264-Ugly-Number-II ) | ☆☆ | `Math`, `Dynamic Programming`, `Heap` 
 263 | [ Ugly Number ]( Math/0263-Ugly-Number ) | ☆ | `Math` 
@@ -45,6 +46,7 @@ ID | Problem               | Dificulty  | Topics
 219 | [ Contains Duplicate II ]( Hash_Table/0219-Contains-Duplicate-II ) | ☆ | `Array`, `Hash Table` 
 217 | [ Contains Duplicate ]( Hash_Table/0217-Contains-Duplicate ) | ☆ | `Array`, `Hash Table` 
 198 | [ House Robber ]( Dynamic_Programming/0198-House-Robber ) | ☆ | `Dynamic Programming` 
+191 | [ Number of 1 Bits ]( Bit_Manipulation/0191-Number-of-1-Bits ) | ☆ | `Bit Manipulation` 
 179 | [ Largest Number ]( Sort/0179-Largest-Number ) | ☆☆ | `Sort` 
 83 | [ Remove Duplicates from Sorted List ]( Linked_List/0083-Remove-Duplicates-from-Sorted-List ) | ☆ | `Linked List` 
 78 | [ Subsets ]( Array/0078-Subsets ) | ☆☆ | `Array`, `Backtracking`, `Bit Manipulation` 
@@ -54,6 +56,9 @@ ID | Problem               | Dificulty  | Topics
 54 | [ Spiral Matrix ]( Array/0054-Spiral-Matrix ) | ☆☆ | `Array` 
 34 | [ Find First and Last Position of Element in Sorted Array ]( Binary_Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array ) | ☆☆ | `Array`, `Binary Search` 
 26 | [ Remove Duplicates from Sorted Array ]( Array/0026-Remove-Duplicates-from-Sorted-Array ) | ☆ | `Array`, `Two Pointers` 
+23 | [ Merge k Sorted Lists ]( Linked_List/0023-Merge-k-Sorted-Lists ) | ☆☆☆ | `Linked List`, `Divide and Conquer`, `Heap` 
+21 | [ Merge Two Sorted Lists ]( Linked_List/0021-Merge-Two-Sorted-Lists ) | ☆ | `Linked List` 
+20 | [ Valid Parentheses ]( String/0020-Valid-Parentheses ) | ☆ | `String`, `Stack` 
 12 | [ Integer to Roman ]( String/0012-Integer-to-Roman ) | ☆☆ | `Math`, `String` 
 11 | [ Container With Most Water ]( Array/0011-Container-With-Most-Water ) | ☆☆ | `Array`, `Two Pointers` 
 7 | [ Reverse Integer ]( Math/0007-Reverse-Integer ) | ☆ | `Math` 
@@ -565,7 +570,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | ☆☆  | `Hash Table`, `Heap` 
 343 | [Integer Break](https://leetcode.com/problems/integer-break) | ☆☆  | `Math`, `Dynamic Programming` 
 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | ☆  | `Bit Manipulation` 
-338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | ☆☆  | `Dynamic Programming`, `Bit Manipulation` 
 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii) | ☆☆  | `Tree`, `Depth-first Search` 
 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) | ☆☆☆  | `Hash Table`, `String`, `Trie` 
 335 | [Self Crossing](https://leetcode.com/problems/self-crossing) | ☆☆☆  | `Math` 
@@ -649,7 +653,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | ☆☆  | `Bit Manipulation` 
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | ☆☆  | `Depth-first Search`, `Breadth-first Search`, `Union Find` 
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | ☆☆  | `Tree`, `Depth-first Search`, `Breadth-first Search` 
-191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | ☆  | `Bit Manipulation` 
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | ☆  | `Bit Manipulation` 
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | ☆  | `Array` 
 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | ☆☆☆  | `Dynamic Programming` 
@@ -785,10 +788,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 27 | [Remove Element](https://leetcode.com/problems/remove-element) | ☆  | `Array`, `Two Pointers` 
 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | ☆☆☆  | `Linked List` 
 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | ☆☆  | `Linked List` 
-23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | ☆☆☆  | `Linked List`, `Divide and Conquer`, `Heap` 
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | ☆☆  | `String`, `Backtracking` 
-21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | ☆  | `Linked List` 
-20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | ☆  | `String`, `Stack` 
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | ☆☆  | `Linked List`, `Two Pointers` 
 18 | [4Sum](https://leetcode.com/problems/4sum) | ☆☆  | `Array`, `Hash Table`, `Two Pointers` 
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | ☆☆  | `String`, `Backtracking` 

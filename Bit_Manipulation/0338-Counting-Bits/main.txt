@@ -1,0 +1,17 @@
+package mai1n
+
+import "fmt"
+
+func main() {
+
+	var n = 8
+
+	for {
+		fmt.Printf("%-6[1]d is %08[1]b\n", n)
+		n = n & (n - 1)
+		if n == 0 {
+			break
+		}
+	}
+
+}
