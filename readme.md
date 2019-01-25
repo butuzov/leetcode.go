@@ -16,10 +16,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------ 
-☆                                   | 227   | 21 
+☆                                   | 227   | 22 
 ☆☆                                 | 378  | 15 
-☆☆☆                                | 165  | 3 
-Total Questions Available            | 770   | 39 
+☆☆☆                                | 165  | 4 
+Total Questions Available            | 770   | 41 
 
 
 ### Solved Problems
@@ -33,6 +33,7 @@ ID | Problem               | Dificulty  | Topics
 539 | [ Minimum Time Difference ]( String/0539-Minimum-Time-Difference ) | ☆☆ | `String` 
 520 | [ Detect Capital ]( String/0520-Detect-Capital ) | ☆ | `String` 
 507 | [ Perfect Number ]( Math/0507-Perfect-Number ) | ☆ | `Math` 
+479 | [ Largest Palindrome Product ]( Math/0479-Largest-Palindrome-Product ) | ☆☆☆ |  
 441 | [ Arranging Coins ]( Math/0441-Arranging-Coins ) | ☆ | `Math`, `Binary Search` 
 387 | [ First Unique Character in a String ]( Hash_Table/0387-First-Unique-Character-in-a-String ) | ☆ | `Hash Table`, `String` 
 345 | [ Reverse Vowels of a String ]( String/0345-Reverse-Vowels-of-a-String ) | ☆ | `Two Pointers`, `String` 
@@ -61,6 +62,7 @@ ID | Problem               | Dificulty  | Topics
 20 | [ Valid Parentheses ]( String/0020-Valid-Parentheses ) | ☆ | `String`, `Stack` 
 12 | [ Integer to Roman ]( String/0012-Integer-to-Roman ) | ☆☆ | `Math`, `String` 
 11 | [ Container With Most Water ]( Array/0011-Container-With-Most-Water ) | ☆☆ | `Array`, `Two Pointers` 
+9 | [ Palindrome Number ]( Math/0009-Palindrome-Number ) | ☆ | `Math` 
 7 | [ Reverse Integer ]( Math/0007-Reverse-Integer ) | ☆ | `Math` 
 4 | [ Median of Two Sorted Arrays ]( Divide_and_Conquer/0004-Median-of-Two-Sorted-Arrays ) | ☆☆☆ | `Array`, `Binary Search`, `Divide and Conquer` 
 2 | [ Add Two Numbers ]( Linked_List/0002-Add-Two-Numbers ) | ☆☆ | `Linked List`, `Math` 
@@ -469,7 +471,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | ☆  |  
 481 | [Magical String](https://leetcode.com/problems/magical-string) | ☆☆  |  
 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median) | ☆☆☆  |  
-479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product) | ☆☆☆  |  
 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle) | ☆☆  | `Math`, `Random`, `Rejection Sampling` 
 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance) | ☆☆  | `Bit Manipulation` 
 476 | [Number Complement](https://leetcode.com/problems/number-complement) | ☆  | `Bit Manipulation` 
@@ -797,7 +798,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | ☆  | `String` 
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | ☆  | `Math`, `String` 
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | ☆☆☆  | `String`, `Dynamic Programming`, `Backtracking` 
-9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | ☆  | `Math` 
 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | ☆☆  | `Math`, `String` 
 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | ☆☆  | `String` 
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | ☆☆  | `String`, `Dynamic Programming` 
