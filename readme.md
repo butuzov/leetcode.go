@@ -10,16 +10,16 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ### Progress  
 
-▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ### Stats
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------ 
-☆                                   | 228   | 22 
-☆☆                                 | 380  | 15 
+☆                                   | 228   | 26 
+☆☆                                 | 380  | 17 
 ☆☆☆                                | 166  | 4 
-Total Questions Available            | 774   | 41 
+Total Questions Available            | 774   | 47 
 
 
 ### Solved Problems
@@ -30,15 +30,19 @@ ID | Problem               | Dificulty  | Topics
 961 | [ N-Repeated Element in Size 2N Array ]( Hash_Table/0961-N-Repeated-Element-in-Size-2N-Array ) | ☆ | `Hash Table` 
 848 | [ Shifting Letters ]( String/0848-Shifting-Letters ) | ☆☆ | `String` 
 674 | [ Longest Continuous Increasing Subsequence ]( Array/0674-Longest-Continuous-Increasing-Subsequence ) | ☆ | `Array` 
+670 | [ Maximum Swap ]( Array/0670-Maximum-Swap ) | ☆☆ | `Array`, `Math` 
 539 | [ Minimum Time Difference ]( String/0539-Minimum-Time-Difference ) | ☆☆ | `String` 
 520 | [ Detect Capital ]( String/0520-Detect-Capital ) | ☆ | `String` 
 507 | [ Perfect Number ]( Math/0507-Perfect-Number ) | ☆ | `Math` 
 479 | [ Largest Palindrome Product ]( Math/0479-Largest-Palindrome-Product ) | ☆☆☆ |  
+477 | [ Total Hamming Distance ]( Bit_Manipulation/0477-Total-Hamming-Distance ) | ☆☆ | `Bit Manipulation` 
+461 | [ Hamming Distance ]( Bit_Manipulation/0461-Hamming-Distance ) | ☆ | `Bit Manipulation` 
 441 | [ Arranging Coins ]( Math/0441-Arranging-Coins ) | ☆ | `Math`, `Binary Search` 
 387 | [ First Unique Character in a String ]( Hash_Table/0387-First-Unique-Character-in-a-String ) | ☆ | `Hash Table`, `String` 
 345 | [ Reverse Vowels of a String ]( String/0345-Reverse-Vowels-of-a-String ) | ☆ | `Two Pointers`, `String` 
 344 | [ Reverse String ]( String/0344-Reverse-String ) | ☆ | `Two Pointers`, `String` 
 338 | [ Counting Bits ]( Bit_Manipulation/0338-Counting-Bits ) | ☆☆ | `Dynamic Programming`, `Bit Manipulation` 
+326 | [ Power of Three ]( Math/0326-Power-of-Three ) | ☆ | `Math` 
 313 | [ Super Ugly Number ]( Math/0313-Super-Ugly-Number ) | ☆☆ | `Math`, `Heap` 
 264 | [ Ugly Number II ]( Math/0264-Ugly-Number-II ) | ☆☆ | `Math`, `Dynamic Programming`, `Heap` 
 263 | [ Ugly Number ]( Math/0263-Ugly-Number ) | ☆ | `Math` 
@@ -46,8 +50,10 @@ ID | Problem               | Dificulty  | Topics
 220 | [ Contains Duplicate III ]( Hash_Table/0220-Contains-Duplicate-III ) | ☆☆ | `Binary Search Tree` 
 219 | [ Contains Duplicate II ]( Hash_Table/0219-Contains-Duplicate-II ) | ☆ | `Array`, `Hash Table` 
 217 | [ Contains Duplicate ]( Hash_Table/0217-Contains-Duplicate ) | ☆ | `Array`, `Hash Table` 
+202 | [ Happy Number ]( Hash_Table/0202-Happy-Number ) | ☆ | `Hash Table`, `Math` 
 198 | [ House Robber ]( Dynamic_Programming/0198-House-Robber ) | ☆ | `Dynamic Programming` 
 191 | [ Number of 1 Bits ]( Bit_Manipulation/0191-Number-of-1-Bits ) | ☆ | `Bit Manipulation` 
+189 | [ Rotate Array ]( Array/0189-Rotate-Array ) | ☆ | `Array` 
 179 | [ Largest Number ]( Sort/0179-Largest-Number ) | ☆☆ | `Sort` 
 83 | [ Remove Duplicates from Sorted List ]( Linked_List/0083-Remove-Duplicates-from-Sorted-List ) | ☆ | `Linked List` 
 78 | [ Subsets ]( Array/0078-Subsets ) | ☆☆ | `Array`, `Backtracking`, `Bit Manipulation` 
@@ -359,7 +365,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence) | ☆☆  | `Dynamic Programming` 
 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii) | ☆☆  | `Math` 
 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) | ☆  | `Tree` 
-670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap) | ☆☆  | `Array`, `Math` 
 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree) | ☆  | `Tree` 
 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table) | ☆☆☆  | `Binary Search` 
 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii) | ☆☆  | `Array` 
@@ -476,7 +481,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 481 | [Magical String](https://leetcode.com/problems/magical-string) | ☆☆  |  
 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median) | ☆☆☆  |  
 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle) | ☆☆  | `Math`, `Random`, `Rejection Sampling` 
-477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance) | ☆☆  | `Bit Manipulation` 
 476 | [Number Complement](https://leetcode.com/problems/number-complement) | ☆  | `Bit Manipulation` 
 475 | [Heaters](https://leetcode.com/problems/heaters) | ☆  | `Binary Search` 
 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes) | ☆☆  | `Dynamic Programming` 
@@ -489,7 +493,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 464 | [Can I Win](https://leetcode.com/problems/can-i-win) | ☆☆  | `Dynamic Programming`, `Minimax` 
 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | ☆  | `Hash Table` 
 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | ☆☆  | `Math` 
-461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | ☆  | `Bit Manipulation` 
 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache) | ☆☆☆  | `Design` 
 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | ☆  | `String` 
 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs) | ☆  |  
@@ -585,7 +588,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | ☆☆☆  | `Depth-first Search`, `Topological Sort`, `Memoization` 
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | ☆☆  | `Linked List` 
 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) | ☆☆☆  | `Divide and Conquer`, `Binary Search Tree` 
-326 | [Power of Three](https://leetcode.com/problems/power-of-three) | ☆  | `Math` 
 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | ☆☆  | `Sort` 
 322 | [Coin Change](https://leetcode.com/problems/coin-change) | ☆☆  | `Dynamic Programming` 
 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | ☆☆☆  | `Dynamic Programming`, `Greedy` 
@@ -654,12 +656,10 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | ☆  | `Hash Table` 
 204 | [Count Primes](https://leetcode.com/problems/count-primes) | ☆  | `Hash Table`, `Math` 
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | ☆  | `Linked List` 
-202 | [Happy Number](https://leetcode.com/problems/happy-number) | ☆  | `Hash Table`, `Math` 
 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | ☆☆  | `Bit Manipulation` 
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | ☆☆  | `Depth-first Search`, `Breadth-first Search`, `Union Find` 
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | ☆☆  | `Tree`, `Depth-first Search`, `Breadth-first Search` 
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | ☆  | `Bit Manipulation` 
-189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | ☆  | `Array` 
 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | ☆☆☆  | `Dynamic Programming` 
 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | ☆☆  | `Hash Table`, `Bit Manipulation` 
 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game) | ☆☆☆  | `Binary Search`, `Dynamic Programming` 
