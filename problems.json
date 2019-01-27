@@ -1,4 +1,45 @@
 {
+    "string-without-aaa-or-bbb": {
+        "Id": 984,
+        "Title": "String Without AAA or BBB",
+        "Slug": "string-without-aaa-or-bbb",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Greedy"
+        ]
+    },
+    "minimum-cost-for-tickets": {
+        "Id": 983,
+        "Title": "Minimum Cost For Tickets",
+        "Slug": "minimum-cost-for-tickets",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "triples-with-bitwise-and-equal-to-zero": {
+        "Id": 982,
+        "Title": "Triples with Bitwise AND Equal To Zero",
+        "Slug": "triples-with-bitwise-and-equal-to-zero",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "time-based-key-value-store": {
+        "Id": 981,
+        "Title": "Time Based Key-Value Store",
+        "Slug": "time-based-key-value-store",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Binary Search"
+        ]
+    },
     "unique-paths-iii": {
         "Id": 980,
         "Title": "Unique Paths III",

@@ -16,10 +16,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------ 
-☆                                   | 227   | 22 
-☆☆                                 | 378  | 15 
-☆☆☆                                | 165  | 4 
-Total Questions Available            | 770   | 41 
+☆                                   | 228   | 22 
+☆☆                                 | 380  | 15 
+☆☆☆                                | 166  | 4 
+Total Questions Available            | 774   | 41 
 
 
 ### Solved Problems
@@ -73,6 +73,10 @@ ID | Problem               | Dificulty  | Topics
 
 ID | Problem @ LeetCode    | Dificulty  | Topics
 ---|-----------------------|------------|--------
+984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb) | ☆  | `Greedy` 
+983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets) | ☆☆  | `Dynamic Programming` 
+982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero) | ☆☆☆  | `Dynamic Programming` 
+981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | ☆☆  | `Hash Table`, `Binary Search` 
 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii) | ☆☆☆  | `Dynamic Programming`, `Backtracking` 
 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree) | ☆☆  | `Tree`, `Depth-first Search` 
 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray) | ☆☆  | `Array` 
