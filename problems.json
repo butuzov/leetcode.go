@@ -1,10 +1,346 @@
 {
+    "binary-string-with-substrings-representing-1-to-n": {
+        "Id": 1023,
+        "Title": "Binary String With Substrings Representing 1 To N",
+        "Slug": "binary-string-with-substrings-representing-1-to-n",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
+    },
+    "smallest-integer-divisible-by-k": {
+        "Id": 1022,
+        "Title": "Smallest Integer Divisible by K",
+        "Slug": "smallest-integer-divisible-by-k",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "best-sightseeing-pair": {
+        "Id": 1021,
+        "Title": "Best Sightseeing Pair",
+        "Slug": "best-sightseeing-pair",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "partition-array-into-three-parts-with-equal-sum": {
+        "Id": 1020,
+        "Title": "Partition Array Into Three Parts With Equal Sum",
+        "Slug": "partition-array-into-three-parts-with-equal-sum",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "numbers-with-repeated-digits": {
+        "Id": 1015,
+        "Title": "Numbers With Repeated Digits",
+        "Slug": "numbers-with-repeated-digits",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Math",
+            "Dynamic Programming"
+        ]
+    },
+    "capacity-to-ship-packages-within-d-days": {
+        "Id": 1014,
+        "Title": "Capacity To Ship Packages Within D Days",
+        "Slug": "capacity-to-ship-packages-within-d-days",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
+    },
+    "pairs-of-songs-with-total-durations-divisible-by-60": {
+        "Id": 1013,
+        "Title": "Pairs of Songs With Total Durations Divisible by 60",
+        "Slug": "pairs-of-songs-with-total-durations-divisible-by-60",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "complement-of-base-10-integer": {
+        "Id": 1012,
+        "Title": "Complement of Base 10 Integer",
+        "Slug": "complement-of-base-10-integer",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "construct-binary-search-tree-from-preorder-traversal": {
+        "Id": 1008,
+        "Title": "Construct Binary Search Tree from Preorder Traversal",
+        "Slug": "construct-binary-search-tree-from-preorder-traversal",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Tree"
+        ]
+    },
+    "minimum-domino-rotations-for-equal-row": {
+        "Id": 1007,
+        "Title": "Minimum Domino Rotations For Equal Row",
+        "Slug": "minimum-domino-rotations-for-equal-row",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Greedy"
+        ]
+    },
+    "clumsy-factorial": {
+        "Id": 1006,
+        "Title": "Clumsy Factorial",
+        "Slug": "clumsy-factorial",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "maximize-sum-of-array-after-k-negations": {
+        "Id": 1005,
+        "Title": "Maximize Sum Of Array After K Negations",
+        "Slug": "maximize-sum-of-array-after-k-negations",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Greedy"
+        ]
+    },
+    "max-consecutive-ones-iii": {
+        "Id": 1004,
+        "Title": "Max Consecutive Ones III",
+        "Slug": "max-consecutive-ones-iii",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Two Pointers",
+            "Sliding Window"
+        ]
+    },
+    "check-if-word-is-valid-after-substitutions": {
+        "Id": 1003,
+        "Title": "Check If Word Is Valid After Substitutions",
+        "Slug": "check-if-word-is-valid-after-substitutions",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Stack"
+        ]
+    },
+    "find-common-characters": {
+        "Id": 1002,
+        "Title": "Find Common Characters",
+        "Slug": "find-common-characters",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Hash Table"
+        ]
+    },
+    "grid-illumination": {
+        "Id": 1001,
+        "Title": "Grid Illumination",
+        "Slug": "grid-illumination",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Hash Table"
+        ]
+    },
+    "minimum-cost-to-merge-stones": {
+        "Id": 1000,
+        "Title": "Minimum Cost to Merge Stones",
+        "Slug": "minimum-cost-to-merge-stones",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "available-captures-for-rook": {
+        "Id": 999,
+        "Title": "Available Captures for Rook",
+        "Slug": "available-captures-for-rook",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "maximum-binary-tree-ii": {
+        "Id": 998,
+        "Title": "Maximum Binary Tree II",
+        "Slug": "maximum-binary-tree-ii",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Tree"
+        ]
+    },
+    "find-the-town-judge": {
+        "Id": 997,
+        "Title": "Find the Town Judge",
+        "Slug": "find-the-town-judge",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Graph"
+        ]
+    },
+    "number-of-squareful-arrays": {
+        "Id": 996,
+        "Title": "Number of Squareful Arrays",
+        "Slug": "number-of-squareful-arrays",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Math",
+            "Backtracking",
+            "Graph"
+        ]
+    },
+    "minimum-number-of-k-consecutive-bit-flips": {
+        "Id": 995,
+        "Title": "Minimum Number of K Consecutive Bit Flips",
+        "Slug": "minimum-number-of-k-consecutive-bit-flips",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Greedy",
+            "Sliding Window"
+        ]
+    },
+    "rotting-oranges": {
+        "Id": 994,
+        "Title": "Rotting Oranges",
+        "Slug": "rotting-oranges",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Breadth-first Search"
+        ]
+    },
+    "cousins-in-binary-tree": {
+        "Id": 993,
+        "Title": "Cousins in Binary Tree",
+        "Slug": "cousins-in-binary-tree",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Tree",
+            "Breadth-first Search"
+        ]
+    },
+    "subarrays-with-k-different-integers": {
+        "Id": 992,
+        "Title": "Subarrays with K Different Integers",
+        "Slug": "subarrays-with-k-different-integers",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Hash Table",
+            "Two Pointers",
+            "Sliding Window"
+        ]
+    },
+    "broken-calculator": {
+        "Id": 991,
+        "Title": "Broken Calculator",
+        "Slug": "broken-calculator",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Greedy"
+        ]
+    },
+    "satisfiability-of-equality-equations": {
+        "Id": 990,
+        "Title": "Satisfiability of Equality Equations",
+        "Slug": "satisfiability-of-equality-equations",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Union Find",
+            "Graph"
+        ]
+    },
+    "add-to-array-form-of-integer": {
+        "Id": 989,
+        "Title": "Add to Array-Form of Integer",
+        "Slug": "add-to-array-form-of-integer",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "smallest-string-starting-from-leaf": {
+        "Id": 988,
+        "Title": "Smallest String Starting From Leaf",
+        "Slug": "smallest-string-starting-from-leaf",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
+    },
+    "vertical-order-traversal-of-a-binary-tree": {
+        "Id": 987,
+        "Title": "Vertical Order Traversal of a Binary Tree",
+        "Slug": "vertical-order-traversal-of-a-binary-tree",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Tree"
+        ]
+    },
+    "interval-list-intersections": {
+        "Id": 986,
+        "Title": "Interval List Intersections",
+        "Slug": "interval-list-intersections",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Two Pointers"
+        ]
+    },
+    "sum-of-even-numbers-after-queries": {
+        "Id": 985,
+        "Title": "Sum of Even Numbers After Queries",
+        "Slug": "sum-of-even-numbers-after-queries",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
     "string-without-aaa-or-bbb": {
         "Id": 984,
         "Title": "String Without AAA or BBB",
         "Slug": "string-without-aaa-or-bbb",
         "Paid": false,
-        "Level": 1,
+        "Level": 2,
         "Topics": [
             "Greedy"
         ]
@@ -47,8 +383,8 @@
         "Paid": false,
         "Level": 3,
         "Topics": [
-            "Dynamic Programming",
-            "Backtracking"
+            "Backtracking",
+            "Depth-first Search"
         ]
     },
     "distribute-coins-in-binary-tree": {
@@ -69,7 +405,9 @@
         "Paid": false,
         "Level": 2,
         "Topics": [
-            "Array"
+            "Array",
+            "Dynamic Programming",
+            "Sliding Window"
         ]
     },
     "squares-of-a-sorted-array": {
@@ -80,8 +418,7 @@
         "Level": 1,
         "Topics": [
             "Array",
-            "Two Pointers",
-            "Sort"
+            "Two Pointers"
         ]
     },
     "largest-perimeter-triangle": {
@@ -91,8 +428,8 @@
         "Paid": false,
         "Level": 1,
         "Topics": [
-            "Array",
-            "Math"
+            "Math",
+            "Sort"
         ]
     },
     "odd-even-jump": {
@@ -103,7 +440,8 @@
         "Level": 3,
         "Topics": [
             "Dynamic Programming",
-            "Stack"
+            "Stack",
+            "Binary Search Tree"
         ]
     },
     "subarray-sums-divisible-by-k": {
@@ -113,7 +451,8 @@
         "Paid": false,
         "Level": 2,
         "Topics": [
-            "Array"
+            "Array",
+            "Hash Table"
         ]
     },
     "k-closest-points-to-origin": {
@@ -121,10 +460,10 @@
         "Title": "K Closest Points to Origin",
         "Slug": "k-closest-points-to-origin",
         "Paid": false,
-        "Level": 1,
+        "Level": 2,
         "Topics": [
-            "Math",
             "Divide and Conquer",
+            "Heap",
             "Sort"
         ]
     },
@@ -166,6 +505,7 @@
         "Paid": false,
         "Level": 1,
         "Topics": [
+            "Hash Table",
             "Math"
         ]
     },
@@ -1170,7 +1510,8 @@
         "Level": 2,
         "Topics": [
             "Math",
-            "Dynamic Programming"
+            "Dynamic Programming",
+            "Minimax"
         ]
     },
     "middle-of-the-linked-list": {
@@ -2553,7 +2894,7 @@
         "Title": "Network Delay Time",
         "Slug": "network-delay-time",
         "Paid": false,
-        "Level": 1,
+        "Level": 2,
         "Topics": [
             "Heap",
             "Depth-first Search",
@@ -4235,7 +4576,10 @@
         "Title": "Sliding Window Median",
         "Slug": "sliding-window-median",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Sliding Window"
+        ]
     },
     "largest-palindrome-product": {
         "Id": 479,
@@ -4402,14 +4746,21 @@
         "Title": "Poor Pigs",
         "Slug": "poor-pigs",
         "Paid": false,
-        "Level": 1
+        "Level": 3,
+        "Topics": [
+            "Math"
+        ]
     },
     "circular-array-loop": {
         "Id": 457,
         "Title": "Circular Array Loop",
         "Slug": "circular-array-loop",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Two Pointers"
+        ]
     },
     "132-pattern": {
         "Id": 456,
@@ -4633,7 +4984,11 @@
         "Title": "Longest Repeating Character Replacement",
         "Slug": "longest-repeating-character-replacement",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Two Pointers",
+            "Sliding Window"
+        ]
     },
     "reconstruct-original-digits-from-english": {
         "Id": 423,
@@ -4698,7 +5053,7 @@
         "Paid": false,
         "Level": 1,
         "Topics": [
-            "Math"
+            "String"
         ]
     },
     "third-maximum-number": {
@@ -5604,7 +5959,8 @@
         "Paid": false,
         "Level": 1,
         "Topics": [
-            "Brainteaser"
+            "Brainteaser",
+            "Minimax"
         ]
     },
     "word-pattern": {
@@ -5808,7 +6164,8 @@
         "Paid": false,
         "Level": 3,
         "Topics": [
-            "Heap"
+            "Heap",
+            "Sliding Window"
         ]
     },
     "product-of-array-except-self": {
@@ -6485,6 +6842,16 @@
         "Topics": [
             "Array",
             "Dynamic Programming"
+        ]
+    },
+    "reverse-words-in-a-string": {
+        "Id": 151,
+        "Title": "Reverse Words in a String",
+        "Slug": "reverse-words-in-a-string",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String"
         ]
     },
     "evaluate-reverse-polish-notation": {
@@ -7261,7 +7628,8 @@
         "Topics": [
             "Hash Table",
             "Two Pointers",
-            "String"
+            "String",
+            "Sliding Window"
         ]
     },
     "sort-colors": {
@@ -7368,8 +7736,7 @@
         "Paid": false,
         "Level": 1,
         "Topics": [
-            "Array",
-            "Math"
+            "Array"
         ]
     },
     "valid-number": {
@@ -8053,7 +8420,8 @@
         "Topics": [
             "Hash Table",
             "Two Pointers",
-            "String"
+            "String",
+            "Sliding Window"
         ]
     },
     "add-two-numbers": {
