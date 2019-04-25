@@ -16,10 +16,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------
-☆                                   | 235   | 25
-☆☆                                 | 399  | 19
-☆☆☆                                | 173  | 4
-Total Questions Available            | 807   | 48
+☆                                   | 241   | 25
+☆☆                                 | 408  | 19
+☆☆☆                                | 175  | 4
+Total Questions Available            | 824   | 48
 
 
 ### Solved Problems
@@ -80,14 +80,30 @@ ID | Problem               | Dificulty  | Topics
 
 ID | Problem @ LeetCode    | Dificulty  | Topics
 ---|-----------------------|------------|--------
-1023 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n) | ☆☆  | `String`
-1022 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | ☆☆  | `Math`
-1021 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | ☆☆  | `Array`
-1020 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | ☆  | `Array`
-1015 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits) | ☆☆☆  | `Math`, `Dynamic Programming`
-1014 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | ☆☆  | `Array`, `Binary Search`
-1013 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | ☆  | `Array`
-1012 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | ☆  | `Math`
+1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters) | ☆☆☆  | `Trie`
+1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays) | ☆☆  | `Array`
+1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | ☆  | `Sort`
+1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling) | ☆  | `Greedy`
+1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal) | ☆☆☆  | `Tree`, `Depth-first Search`
+1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence) | ☆☆  | `Dynamic Programming`
+1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) | ☆☆  | `Tree`, `Depth-first Search`
+1025 | [Divisor Game](https://leetcode.com/problems/divisor-game) | ☆  | `Math`, `Dynamic Programming`
+1024 | [Video Stitching](https://leetcode.com/problems/video-stitching) | ☆☆  | `Dynamic Programming`
+1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching) | ☆☆  | `String`, `Trie`
+1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | ☆  | `Tree`
+1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | ☆  | `Stack`
+1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves) | ☆☆  | `Depth-first Search`
+1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list) | ☆☆  | `Linked List`, `Stack`
+1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5) | ☆  | `Array`
+1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2) | ☆☆  | `Math`
+1016 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n) | ☆☆  | `String`
+1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | ☆☆  | `Math`
+1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | ☆☆  | `Array`
+1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | ☆  | `Array`
+1012 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits) | ☆☆☆  | `Math`, `Dynamic Programming`
+1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | ☆☆  | `Array`, `Binary Search`
+1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | ☆  | `Array`
+1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | ☆  | `Math`
 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | ☆☆  | `Tree`
 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | ☆☆  | `Array`, `Greedy`
 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial) | ☆☆  | `Math`
@@ -182,6 +198,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals) | ☆☆  | `Array`
  914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | ☆  | `Array`, `Math`
  913 | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse) | ☆☆☆  | `Breadth-first Search`, `Minimax`
+ 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | ☆☆  | 
  911 | [Online Election](https://leetcode.com/problems/online-election) | ☆☆  | `Binary Search`
  910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii) | ☆☆  | `Math`, `Greedy`
  909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) | ☆☆  | `Breadth-first Search`
@@ -452,7 +469,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths) | ☆☆  | `Dynamic Programming`, `Depth-first Search`
  575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | ☆  | `Hash Table`
  572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | ☆  | `Tree`
- 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | ☆☆  | `Two Pointers`
+ 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | ☆☆  | `Two Pointers`, `Sliding Window`
  566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | ☆  | `Array`
  565 | [Array Nesting](https://leetcode.com/problems/array-nesting) | ☆☆  | `Array`
  564 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome) | ☆☆☆  | `String`
