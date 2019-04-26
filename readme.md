@@ -16,16 +16,17 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------
-☆                                   | 241   | 25
+☆                                   | 241   | 27
 ☆☆                                 | 408  | 19
 ☆☆☆                                | 175  | 4
-Total Questions Available            | 824   | 48
+Total Questions Available            | 824   | 50
 
 
 ### Solved Problems
 
 ID | Problem               | Dificulty  | Topics
 ---|-----------------------|------------|------------
+1030 | [ Matrix Cells in Distance Order ]( Sort/1030-Matrix-Cells-in-Distance-Order ) | ☆ | `Sort`
  973 | [ K Closest Points to Origin ]( Sort/0973-K-Closest-Points-to-Origin ) | ☆☆ | `Divide and Conquer`, `Heap`, `Sort`
  961 | [ N-Repeated Element in Size 2N Array ]( Hash_Table/0961-N-Repeated-Element-in-Size-2N-Array ) | ☆ | `Hash Table`
  848 | [ Shifting Letters ]( String/0848-Shifting-Letters ) | ☆☆ | `String`
@@ -50,6 +51,7 @@ ID | Problem               | Dificulty  | Topics
  220 | [ Contains Duplicate III ]( Hash_Table/0220-Contains-Duplicate-III ) | ☆☆ | `Binary Search Tree`
  219 | [ Contains Duplicate II ]( Hash_Table/0219-Contains-Duplicate-II ) | ☆ | `Array`, `Hash Table`
  217 | [ Contains Duplicate ]( Hash_Table/0217-Contains-Duplicate ) | ☆ | `Array`, `Hash Table`
+ 204 | [ Count Primes ]( Hash_Table/0204-Count-Primes ) | ☆ | `Hash Table`, `Math`
  202 | [ Happy Number ]( Hash_Table/0202-Happy-Number ) | ☆ | `Hash Table`, `Math`
  198 | [ House Robber ]( Dynamic_Programming/0198-House-Robber ) | ☆ | `Dynamic Programming`
  191 | [ Number of 1 Bits ]( Bit_Manipulation/0191-Number-of-1-Bits ) | ☆ | `Bit Manipulation`
@@ -82,7 +84,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
 ---|-----------------------|------------|--------
 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters) | ☆☆☆  | `Trie`
 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays) | ☆☆  | `Array`
-1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | ☆  | `Sort`
 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling) | ☆  | `Greedy`
 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal) | ☆☆☆  | `Tree`, `Depth-first Search`
 1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence) | ☆☆  | `Dynamic Programming`
@@ -704,7 +705,6 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | ☆☆  | `Depth-first Search`, `Breadth-first Search`, `Graph`, `Topological Sort`
  206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | ☆  | `Linked List`
  205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | ☆  | `Hash Table`
- 204 | [Count Primes](https://leetcode.com/problems/count-primes) | ☆  | `Hash Table`, `Math`
  203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | ☆  | `Linked List`
  201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | ☆☆  | `Bit Manipulation`
  200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | ☆☆  | `Depth-first Search`, `Breadth-first Search`, `Union Find`
