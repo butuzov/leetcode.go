@@ -16,10 +16,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------
-☆                                   | 241   | 27
-☆☆                                 | 408  | 19
-☆☆☆                                | 175  | 4
-Total Questions Available            | 824   | 50
+☆                                   | 244   | 27
+☆☆                                 | 412  | 19
+☆☆☆                                | 176  | 4
+Total Questions Available            | 832   | 50
 
 
 ### Solved Problems
@@ -48,7 +48,7 @@ ID | Problem               | Dificulty  | Topics
  264 | [ Ugly Number II ]( Math/0264-Ugly-Number-II ) | ☆☆ | `Math`, `Dynamic Programming`, `Heap`
  263 | [ Ugly Number ]( Math/0263-Ugly-Number ) | ☆ | `Math`
  231 | [ Power of Two ]( Bit_Manipulation/0231-Power-of-Two ) | ☆ | `Math`, `Bit Manipulation`
- 220 | [ Contains Duplicate III ]( Hash_Table/0220-Contains-Duplicate-III ) | ☆☆ | `Binary Search Tree`
+ 220 | [ Contains Duplicate III ]( Hash_Table/0220-Contains-Duplicate-III ) | ☆☆ | `Sort`, `Ordered Map`
  219 | [ Contains Duplicate II ]( Hash_Table/0219-Contains-Duplicate-II ) | ☆ | `Array`, `Hash Table`
  217 | [ Contains Duplicate ]( Hash_Table/0217-Contains-Duplicate ) | ☆ | `Array`, `Hash Table`
  204 | [ Count Primes ]( Hash_Table/0204-Count-Primes ) | ☆ | `Hash Table`, `Math`
@@ -82,6 +82,14 @@ ID | Problem               | Dificulty  | Topics
 
 ID | Problem @ LeetCode    | Dificulty  | Topics
 ---|-----------------------|------------|--------
+1040 | [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii) | ☆☆  | `Array`, `Sliding Window`
+1039 | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon) | ☆☆  | `Dynamic Programming`
+1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | ☆☆  | `Binary Search Tree`
+1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang) | ☆  | `Math`
+1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze) | ☆☆☆  | `Breadth-first Search`
+1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines) | ☆☆  | `Array`
+1034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border) | ☆☆  | `Depth-first Search`
+1033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive) | ☆  | `Brainteaser`
 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters) | ☆☆☆  | `Trie`
 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays) | ☆☆  | `Array`
 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling) | ☆  | `Greedy`
@@ -138,7 +146,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray) | ☆☆  | `Array`, `Dynamic Programming`, `Sliding Window`
  977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | ☆  | `Array`, `Two Pointers`
  976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | ☆  | `Math`, `Sort`
- 975 | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump) | ☆☆☆  | `Dynamic Programming`, `Stack`, `Binary Search Tree`
+ 975 | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump) | ☆☆☆  | `Dynamic Programming`, `Stack`, `Ordered Map`
  974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | ☆☆  | `Array`, `Hash Table`
  972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers) | ☆☆☆  | `Math`
  971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal) | ☆☆  | `Tree`, `Depth-first Search`
@@ -173,7 +181,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | ☆  | `Array`
  940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii) | ☆☆☆  | `Dynamic Programming`
  939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle) | ☆☆  | `Hash Table`
- 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | ☆☆  | `Binary Search Tree`
+ 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | ☆  | `Tree`, `Recursion`
  937 | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files) | ☆  | `String`
  936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence) | ☆☆☆  | `String`, `Greedy`
  935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer) | ☆☆  | `Dynamic Programming`
@@ -256,15 +264,15 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection) | ☆☆  | `Math`
  857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers) | ☆☆☆  | `Heap`
  856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | ☆☆  | `String`, `Stack`
- 855 | [Exam Room](https://leetcode.com/problems/exam-room) | ☆☆  | `Map`
+ 855 | [Exam Room](https://leetcode.com/problems/exam-room) | ☆☆  | `Ordered Map`
  854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings) | ☆☆☆  | `Breadth-first Search`, `Graph`
  853 | [Car Fleet](https://leetcode.com/problems/car-fleet) | ☆☆  | `Stack`
  852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | ☆  | `Binary Search`
  851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich) | ☆☆  | `Depth-first Search`
- 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii) | ☆☆☆  | `Segment Tree`
+ 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii) | ☆☆☆  | `Segment Tree`, `Line Sweep`
  849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person) | ☆  | `Array`
  847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes) | ☆☆☆  | `Dynamic Programming`, `Breadth-first Search`
- 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) | ☆☆  | `Map`
+ 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) | ☆☆  | `Ordered Map`
  845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) | ☆☆  | `Two Pointers`
  844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | ☆  | `Two Pointers`, `Stack`
  843 | [Guess the Word](https://leetcode.com/problems/guess-the-word) | ☆☆☆  | `Minimax`
@@ -326,7 +334,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction) | ☆☆☆  | `Binary Search`, `Heap`
  785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | ☆☆  | `Depth-first Search`, `Breadth-first Search`, `Graph`
  784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation) | ☆  | `Backtracking`, `Bit Manipulation`
- 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | ☆  | `Binary Search Tree`
+ 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | ☆  | `Tree`, `Recursion`
  782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard) | ☆☆☆  | `Array`, `Math`
  781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest) | ☆☆  | `Hash Table`, `Math`
  780 | [Reaching Points](https://leetcode.com/problems/reaching-points) | ☆☆☆  | `Math`
@@ -365,8 +373,8 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  736 | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression) | ☆☆☆  | `String`
  735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | ☆☆  | `Stack`
  733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | ☆  | `Depth-first Search`
- 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii) | ☆☆☆  | `Segment Tree`, `Binary Search Tree`
- 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii) | ☆☆  | `Array`, `Binary Search Tree`
+ 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii) | ☆☆☆  | `Segment Tree`, `Ordered Map`
+ 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii) | ☆☆  | `Ordered Map`
  730 | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences) | ☆☆☆  | `String`, `Dynamic Programming`
  729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i) | ☆☆  | `Array`
  728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | ☆  | `Math`
@@ -379,7 +387,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance) | ☆☆☆  | `Array`, `Binary Search`, `Heap`
  718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | ☆☆  | `Array`, `Hash Table`, `Binary Search`, `Dynamic Programming`
  717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) | ☆  | `Array`
- 715 | [Range Module](https://leetcode.com/problems/range-module) | ☆☆☆  | `Array`, `Segment Tree`, `Binary Search Tree`
+ 715 | [Range Module](https://leetcode.com/problems/range-module) | ☆☆☆  | `Segment Tree`, `Ordered Map`
  714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | ☆☆  | `Array`, `Dynamic Programming`, `Greedy`
  713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) | ☆☆  | `Array`, `Two Pointers`
  712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | ☆☆  | `Dynamic Programming`
@@ -392,7 +400,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | ☆  | `Heap`
  701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | ☆☆  | `Tree`
  700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | ☆  | `Tree`
- 699 | [Falling Squares](https://leetcode.com/problems/falling-squares) | ☆☆☆  | `Segment Tree`, `Binary Search Tree`
+ 699 | [Falling Squares](https://leetcode.com/problems/falling-squares) | ☆☆☆  | `Segment Tree`, `Ordered Map`
  698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) | ☆☆  | `Dynamic Programming`, `Recursion`
  697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | ☆  | `Array`
  696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | ☆  | `String`
@@ -492,7 +500,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | ☆  | `Tree`
  537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | ☆☆  | `Math`, `String`
  532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | ☆  | `Array`, `Two Pointers`
- 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | ☆  | `Binary Search Tree`
+ 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | ☆  | `Tree`
  529 | [Minesweeper](https://leetcode.com/problems/minesweeper) | ☆☆  | `Depth-first Search`, `Breadth-first Search`
  528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) | ☆☆  | `Binary Search`, `Random`
  526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement) | ☆☆  | `Backtracking`
@@ -521,7 +529,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | ☆  | `Stack`
  495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | ☆☆  | `Array`
  494 | [Target Sum](https://leetcode.com/problems/target-sum) | ☆☆  | `Dynamic Programming`, `Depth-first Search`
- 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs) | ☆☆☆  | `Divide and Conquer`, `Binary Indexed Tree`, `Segment Tree`, `Binary Search Tree`
+ 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs) | ☆☆☆  | `Binary Search`, `Divide and Conquer`, `Sort`, `Binary Indexed Tree`, `Segment Tree`
  492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | ☆  | 
  491 | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences) | ☆☆  | `Depth-first Search`
  488 | [Zuma Game](https://leetcode.com/problems/zuma-game) | ☆☆☆  | `Depth-first Search`
@@ -598,7 +606,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  394 | [Decode String](https://leetcode.com/problems/decode-string) | ☆☆  | `Stack`, `Depth-first Search`
  393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) | ☆☆  | `Bit Manipulation`
  392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | ☆☆  | `Binary Search`, `Dynamic Programming`, `Greedy`
- 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle) | ☆☆☆  | 
+ 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle) | ☆☆☆  | `Line Sweep`
  390 | [Elimination Game](https://leetcode.com/problems/elimination-game) | ☆☆  | 
  389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | ☆  | `Hash Table`, `Bit Manipulation`
  388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) | ☆☆  | 
@@ -623,7 +631,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits) | ☆☆  | `Math`, `Dynamic Programming`, `Backtracking`
  355 | [Design Twitter](https://leetcode.com/problems/design-twitter) | ☆☆  | `Hash Table`, `Heap`, `Design`
  354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes) | ☆☆☆  | `Binary Search`, `Dynamic Programming`
- 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals) | ☆☆☆  | `Binary Search Tree`
+ 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals) | ☆☆☆  | `Binary Search`, `Ordered Map`
  350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | ☆  | `Hash Table`, `Two Pointers`, `Binary Search`, `Sort`
  349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | ☆  | `Hash Table`, `Two Pointers`, `Binary Search`, `Sort`
  347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | ☆☆  | `Hash Table`, `Heap`
@@ -638,14 +646,14 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  330 | [Patching Array](https://leetcode.com/problems/patching-array) | ☆☆☆  | `Greedy`
  329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | ☆☆☆  | `Depth-first Search`, `Topological Sort`, `Memoization`
  328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | ☆☆  | `Linked List`
- 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) | ☆☆☆  | `Divide and Conquer`, `Binary Search Tree`
+ 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) | ☆☆☆  | `Binary Search`, `Divide and Conquer`, `Sort`, `Binary Indexed Tree`, `Segment Tree`
  324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | ☆☆  | `Sort`
  322 | [Coin Change](https://leetcode.com/problems/coin-change) | ☆☆  | `Dynamic Programming`
  321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | ☆☆☆  | `Dynamic Programming`, `Greedy`
  319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | ☆☆  | `Math`, `Brainteaser`
  318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths) | ☆☆  | `Bit Manipulation`
  316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | ☆☆☆  | `Stack`, `Greedy`
- 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | ☆☆☆  | `Divide and Conquer`, `Binary Indexed Tree`, `Segment Tree`, `Binary Search Tree`
+ 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | ☆☆☆  | `Binary Search`, `Divide and Conquer`, `Sort`, `Binary Indexed Tree`, `Segment Tree`
  312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons) | ☆☆☆  | `Divide and Conquer`, `Dynamic Programming`
  310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | ☆☆  | `Breadth-first Search`, `Graph`
  309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | ☆☆  | `Dynamic Programming`
@@ -692,7 +700,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area) | ☆☆  | `Math`
  222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | ☆☆  | `Binary Search`, `Tree`
  221 | [Maximal Square](https://leetcode.com/problems/maximal-square) | ☆☆  | `Dynamic Programming`
- 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | ☆☆☆  | `Divide and Conquer`, `Heap`, `Binary Indexed Tree`, `Segment Tree`
+ 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | ☆☆☆  | `Divide and Conquer`, `Heap`, `Binary Indexed Tree`, `Segment Tree`, `Line Sweep`
  216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | ☆☆  | `Array`, `Backtracking`
  215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | ☆☆  | `Divide and Conquer`, `Heap`
  214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | ☆☆☆  | `String`

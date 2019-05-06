@@ -1,4 +1,85 @@
 {
+    "valid-boomerang": {
+        "Id": 1037,
+        "Title": "Valid Boomerang",
+        "Slug": "valid-boomerang",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "binary-search-tree-to-greater-sum-tree": {
+        "Id": 1038,
+        "Title": "Binary Search Tree to Greater Sum Tree",
+        "Slug": "binary-search-tree-to-greater-sum-tree",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Binary Search Tree"
+        ]
+    },
+    "moving-stones-until-consecutive-ii": {
+        "Id": 1040,
+        "Title": "Moving Stones Until Consecutive II",
+        "Slug": "moving-stones-until-consecutive-ii",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Sliding Window"
+        ]
+    },
+    "minimum-score-triangulation-of-polygon": {
+        "Id": 1039,
+        "Title": "Minimum Score Triangulation of Polygon",
+        "Slug": "minimum-score-triangulation-of-polygon",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "escape-a-large-maze": {
+        "Id": 1036,
+        "Title": "Escape a Large Maze",
+        "Slug": "escape-a-large-maze",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Breadth-first Search"
+        ]
+    },
+    "uncrossed-lines": {
+        "Id": 1035,
+        "Title": "Uncrossed Lines",
+        "Slug": "uncrossed-lines",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "coloring-a-border": {
+        "Id": 1034,
+        "Title": "Coloring A Border",
+        "Slug": "coloring-a-border",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search"
+        ]
+    },
+    "moving-stones-until-consecutive": {
+        "Id": 1033,
+        "Title": "Moving Stones Until Consecutive",
+        "Slug": "moving-stones-until-consecutive",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Brainteaser"
+        ]
+    },
     "stream-of-characters": {
         "Id": 1032,
         "Title": "Stream of Characters",
@@ -606,7 +687,7 @@
         "Topics": [
             "Dynamic Programming",
             "Stack",
-            "Binary Search Tree"
+            "Ordered Map"
         ]
     },
     "subarray-sums-divisible-by-k": {
@@ -1000,9 +1081,10 @@
         "Title": "Range Sum of BST",
         "Slug": "range-sum-of-bst",
         "Paid": false,
-        "Level": 2,
+        "Level": 1,
         "Topics": [
-            "Binary Search Tree"
+            "Tree",
+            "Recursion"
         ]
     },
     "reorder-log-files": {
@@ -1936,7 +2018,7 @@
         "Paid": false,
         "Level": 2,
         "Topics": [
-            "Map"
+            "Ordered Map"
         ]
     },
     "k-similar-strings": {
@@ -1987,7 +2069,8 @@
         "Paid": false,
         "Level": 3,
         "Topics": [
-            "Segment Tree"
+            "Segment Tree",
+            "Line Sweep"
         ]
     },
     "maximize-distance-to-closest-person": {
@@ -2028,7 +2111,7 @@
         "Paid": false,
         "Level": 2,
         "Topics": [
-            "Map"
+            "Ordered Map"
         ]
     },
     "longest-mountain-in-array": {
@@ -2690,7 +2773,8 @@
         "Paid": false,
         "Level": 1,
         "Topics": [
-            "Binary Search Tree"
+            "Tree",
+            "Recursion"
         ]
     },
     "transform-to-chessboard": {
@@ -3163,7 +3247,7 @@
         "Level": 3,
         "Topics": [
             "Segment Tree",
-            "Binary Search Tree"
+            "Ordered Map"
         ]
     },
     "my-calendar-ii": {
@@ -3173,8 +3257,7 @@
         "Paid": false,
         "Level": 2,
         "Topics": [
-            "Array",
-            "Binary Search Tree"
+            "Ordered Map"
         ]
     },
     "count-different-palindromic-subsequences": {
@@ -3314,9 +3397,8 @@
         "Paid": false,
         "Level": 3,
         "Topics": [
-            "Array",
             "Segment Tree",
-            "Binary Search Tree"
+            "Ordered Map"
         ]
     },
     "best-time-to-buy-and-sell-stock-with-transaction-fee": {
@@ -3360,7 +3442,7 @@
         "Level": 3,
         "Topics": [
             "Segment Tree",
-            "Binary Search Tree"
+            "Ordered Map"
         ]
     },
     "partition-to-k-equal-sum-subsets": {
@@ -4394,7 +4476,7 @@
         "Paid": false,
         "Level": 1,
         "Topics": [
-            "Binary Search Tree"
+            "Tree"
         ]
     },
     "minesweeper": {
@@ -4665,10 +4747,11 @@
         "Paid": false,
         "Level": 3,
         "Topics": [
+            "Binary Search",
             "Divide and Conquer",
+            "Sort",
             "Binary Indexed Tree",
-            "Segment Tree",
-            "Binary Search Tree"
+            "Segment Tree"
         ]
     },
     "construct-the-rectangle": {
@@ -5448,7 +5531,10 @@
         "Title": "Perfect Rectangle",
         "Slug": "perfect-rectangle",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Line Sweep"
+        ]
     },
     "elimination-game": {
         "Id": 390,
@@ -5714,7 +5800,8 @@
         "Paid": false,
         "Level": 3,
         "Topics": [
-            "Binary Search Tree"
+            "Binary Search",
+            "Ordered Map"
         ]
     },
     "intersection-of-two-arrays-ii": {
@@ -5908,8 +5995,11 @@
         "Paid": false,
         "Level": 3,
         "Topics": [
+            "Binary Search",
             "Divide and Conquer",
-            "Binary Search Tree"
+            "Sort",
+            "Binary Indexed Tree",
+            "Segment Tree"
         ]
     },
     "power-of-three": {
@@ -5992,10 +6082,11 @@
         "Paid": false,
         "Level": 3,
         "Topics": [
+            "Binary Search",
             "Divide and Conquer",
+            "Sort",
             "Binary Indexed Tree",
-            "Segment Tree",
-            "Binary Search Tree"
+            "Segment Tree"
         ]
     },
     "super-ugly-number": {
@@ -6535,7 +6626,8 @@
         "Paid": false,
         "Level": 2,
         "Topics": [
-            "Binary Search Tree"
+            "Sort",
+            "Ordered Map"
         ]
     },
     "contains-duplicate-ii": {
@@ -6559,7 +6651,8 @@
             "Divide and Conquer",
             "Heap",
             "Binary Indexed Tree",
-            "Segment Tree"
+            "Segment Tree",
+            "Line Sweep"
         ]
     },
     "contains-duplicate": {
