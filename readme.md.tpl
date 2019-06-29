@@ -24,8 +24,8 @@ Total Questions Available            | {{index .Total "All"}}   | {{index .Stat 
 
 ### Solved Problems
 
-ID | Problem               | Dificulty  | Topics
----|-----------------------|------------|------------
+ ID  | Problem               | Dificulty  | Topics
+-----|-----------------------|------------|------------
 {{ range .List }}
 {{- if .Ready -}} {{ .ID | printf "%4d" }} | [ {{ .Title }} ]( {{ .Slug }} ) | {{ .LevelStr }} | {{ .Topic }}
 {{end}}
@@ -33,8 +33,8 @@ ID | Problem               | Dificulty  | Topics
 
 ### Upcoming Problems
 
-ID | Problem @ LeetCode    | Dificulty  | Topics
----|-----------------------|------------|--------
+ ID  | Problem @ LeetCode    | Dificulty  | Topics
+-----|-----------------------|------------|--------
 {{ range .List }}
 {{- if not .Ready -}} {{ .ID | printf "%4d" }} | [{{ .Title }}](https://leetcode.com/problems/{{- .Slug -}}) | {{ .LevelStr }}  | {{ .Topic }}
 {{end}}

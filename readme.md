@@ -16,16 +16,16 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 -------------------------------------|-------|------------------
-☆                                   | 244   | 27
-☆☆                                 | 412  | 19
-☆☆☆                                | 176  | 4
-Total Questions Available            | 832   | 50
+☆                                   | 252   | 27
+☆☆                                 | 428  | 19
+☆☆☆                                | 180  | 4
+Total Questions Available            | 860   | 50
 
 
 ### Solved Problems
 
-ID | Problem               | Dificulty  | Topics
----|-----------------------|------------|------------
+ ID  | Problem               | Dificulty  | Topics
+-----|-----------------------|------------|------------
 1030 | [ Matrix Cells in Distance Order ]( Sort/1030-Matrix-Cells-in-Distance-Order ) | ☆ | `Sort`
  973 | [ K Closest Points to Origin ]( Sort/0973-K-Closest-Points-to-Origin ) | ☆☆ | `Divide and Conquer`, `Heap`, `Sort`
  961 | [ N-Repeated Element in Size 2N Array ]( Hash_Table/0961-N-Repeated-Element-in-Size-2N-Array ) | ☆ | `Hash Table`
@@ -80,8 +80,36 @@ ID | Problem               | Dificulty  | Topics
 
 ### Upcoming Problems
 
-ID | Problem @ LeetCode    | Dificulty  | Topics
----|-----------------------|------------|--------
+ ID  | Problem @ LeetCode    | Dificulty  | Topics
+-----|-----------------------|------------|--------
+1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | ☆☆☆  | `String`
+1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | ☆☆☆  | `Binary Search`
+1094 | [Car Pooling](https://leetcode.com/problems/car-pooling) | ☆☆  | `Greedy`
+1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample) | ☆☆  | `Math`, `Two Pointers`
+1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence) | ☆☆☆  | `Dynamic Programming`
+1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | ☆☆  | `Breadth-first Search`
+1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels) | ☆☆  | `Hash Table`, `Greedy`
+1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | ☆  | `Array`
+1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | ☆☆  | `String`
+1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths) | ☆☆  | `Depth-first Search`
+1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | ☆☆  | `Backtracking`
+1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram) | ☆  | `Hash Table`
+1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | ☆☆☆  | `Array`, `Dynamic Programming`, `Sliding Window`
+1073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers) | ☆☆  | `Math`
+1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows) | ☆☆  | `Hash Table`
+1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | ☆  | `String`
+1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes) | ☆☆  | `Heap`, `Sort`
+1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap) | ☆☆  | `Array`, `Greedy`
+1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner) | ☆☆  | `Array`, `Sliding Window`
+1051 | [Height Checker](https://leetcode.com/problems/height-checker) | ☆  | `Array`
+1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii) | ☆☆  | `Dynamic Programming`
+1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | ☆☆  | `Hash Table`, `Dynamic Programming`
+1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | ☆  | `Stack`
+1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | ☆  | `Heap`, `Greedy`
+1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring) | ☆☆☆  | `Hash Table`, `Binary Search`
+1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum) | ☆☆  | `Graph`
+1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent) | ☆  | `Graph`
+1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle) | ☆  | `Math`
 1040 | [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii) | ☆☆  | `Array`, `Sliding Window`
 1039 | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon) | ☆☆  | `Dynamic Programming`
 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | ☆☆  | `Binary Search Tree`
@@ -135,7 +163,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | ☆  | `Array`
  988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf) | ☆☆  | `Tree`, `Depth-first Search`
  987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | ☆☆  | `Hash Table`, `Tree`
- 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) | ☆☆  | `Two Pointers`
+ 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections) | ☆☆  | 
  985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries) | ☆  | `Array`
  984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb) | ☆☆  | `Greedy`
  983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets) | ☆☆  | `Dynamic Programming`
@@ -196,7 +224,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) | ☆☆  | `Array`
  925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | ☆  | `Two Pointers`, `String`
  924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread) | ☆☆☆  | `Depth-first Search`, `Union Find`
- 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity) | ☆☆  | `Two Pointers`
+ 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity) | ☆☆  | 
  922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | ☆  | `Array`, `Sort`
  921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | ☆☆  | `Stack`, `Greedy`
  920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists) | ☆☆☆  | `Dynamic Programming`
@@ -215,7 +243,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | ☆☆  | `Array`, `Stack`
  906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes) | ☆☆☆  | `Math`
  905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | ☆  | `Array`
- 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | ☆☆  | `Two Pointers`
+ 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | ☆☆  | 
  903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence) | ☆☆☆  | `Divide and Conquer`, `Dynamic Programming`
  902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set) | ☆☆☆  | `Math`, `Dynamic Programming`
  901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | ☆☆  | `Stack`
@@ -266,14 +294,14 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | ☆☆  | `String`, `Stack`
  855 | [Exam Room](https://leetcode.com/problems/exam-room) | ☆☆  | `Ordered Map`
  854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings) | ☆☆☆  | `Breadth-first Search`, `Graph`
- 853 | [Car Fleet](https://leetcode.com/problems/car-fleet) | ☆☆  | `Stack`
+ 853 | [Car Fleet](https://leetcode.com/problems/car-fleet) | ☆☆  | `Sort`
  852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | ☆  | `Binary Search`
  851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich) | ☆☆  | `Depth-first Search`
  850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii) | ☆☆☆  | `Segment Tree`, `Line Sweep`
  849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person) | ☆  | `Array`
  847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes) | ☆☆☆  | `Dynamic Programming`, `Breadth-first Search`
  846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) | ☆☆  | `Ordered Map`
- 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) | ☆☆  | `Two Pointers`
+ 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) | ☆☆  | 
  844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | ☆  | `Two Pointers`, `Stack`
  843 | [Guess the Word](https://leetcode.com/problems/guess-the-word) | ☆☆☆  | `Minimax`
  842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence) | ☆☆  | `String`, `Backtracking`, `Greedy`
@@ -290,9 +318,9 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  831 | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information) | ☆☆  | `String`
  830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | ☆  | `Array`
  829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum) | ☆☆☆  | `Math`
- 828 | [Unique Letter String](https://leetcode.com/problems/unique-letter-string) | ☆☆☆  | `Two Pointers`
+ 828 | [Unique Letter String](https://leetcode.com/problems/unique-letter-string) | ☆☆☆  | 
  827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | ☆☆☆  | `Depth-first Search`
- 826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work) | ☆☆  | `Two Pointers`
+ 826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work) | ☆☆  | 
  825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages) | ☆☆  | `Array`
  824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | ☆  | `String`
  823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors) | ☆☆  | 
@@ -741,7 +769,7 @@ ID | Problem @ LeetCode    | Dificulty  | Topics
  149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | ☆☆☆  | `Hash Table`, `Math`
  148 | [Sort List](https://leetcode.com/problems/sort-list) | ☆☆  | `Linked List`, `Sort`
  147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | ☆☆  | `Linked List`, `Sort`
- 146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | ☆☆☆  | `Design`
+ 146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | ☆☆  | `Design`
  145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | ☆☆☆  | `Stack`, `Tree`
  144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | ☆☆  | `Stack`, `Tree`
  143 | [Reorder List](https://leetcode.com/problems/reorder-list) | ☆☆  | `Linked List`
