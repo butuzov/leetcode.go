@@ -5,13 +5,9 @@ import (
 )
 
 /*******************************************************************************
-  Problem Solution
-*******************************************************************************/
-
-/*******************************************************************************
   Tests
 *******************************************************************************/
-func TestProblem(t *testing.T) {
+func TestDeleteDuplicates(t *testing.T) {
 	for _, test := range TestCases {
 		actual := deleteDuplicates(test.input)
 		for {
@@ -37,7 +33,7 @@ func TestProblem(t *testing.T) {
 	}
 }
 
-func BenchmarkProblem(b *testing.B) {
+func BenchmarkDeleteDuplicates(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		for _, test := range TestCases {
 			deleteDuplicates(test.input)

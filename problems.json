@@ -856,7 +856,10 @@
         "Title": "Interval List Intersections",
         "Slug": "interval-list-intersections",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Two Pointers"
+        ]
     },
     "sum-of-even-numbers-after-queries": {
         "Id": 985,
@@ -1528,7 +1531,10 @@
         "Title": "3Sum With Multiplicity",
         "Slug": "3sum-with-multiplicity",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Two Pointers"
+        ]
     },
     "sort-array-by-parity-ii": {
         "Id": 922,
@@ -1718,7 +1724,10 @@
         "Title": "Fruit Into Baskets",
         "Slug": "fruit-into-baskets",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Two Pointers"
+        ]
     },
     "valid-permutations-for-di-sequence": {
         "Id": 903,
@@ -2400,7 +2409,10 @@
         "Title": "Longest Mountain in Array",
         "Slug": "longest-mountain-in-array",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Two Pointers"
+        ]
     },
     "backspace-string-compare": {
         "Id": 844,
@@ -2597,7 +2609,10 @@
         "Title": "Unique Letter String",
         "Slug": "unique-letter-string",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Two Pointers"
+        ]
     },
     "making-a-large-island": {
         "Id": 827,
@@ -2614,7 +2629,10 @@
         "Title": "Most Profit Assigning Work",
         "Slug": "most-profit-assigning-work",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Two Pointers"
+        ]
     },
     "friends-of-appropriate-ages": {
         "Id": 825,
@@ -3238,16 +3256,6 @@
         "Level": 1,
         "Topics": [
             "Array"
-        ]
-    },
-    "n-ary-tree-postorder-traversal": {
-        "Id": 590,
-        "Title": "N-ary Tree Postorder Traversal",
-        "Slug": "n-ary-tree-postorder-traversal",
-        "Paid": false,
-        "Level": 1,
-        "Topics": [
-            "Tree"
         ]
     },
     "couples-holding-hands": {

@@ -4,34 +4,56 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
  * [Progress](#progress)
  * [Stats](#stats)
- * [Solved Problems](#solved-problemsupcoming-problems)
- * [Upcoming Problems](#upcoming-problems)
+ * [Solved Hard Problems](#solved---hard-problems)
+ * [Solved Normal Problems](#solved--normal-problems)
+ * [Solved Easy Problems](#solved--easy-problems)
+ * [Upcoming Problems](#solved-problems)
 
 
-### Progress
+## Progress
 
 {{ .Progress }}
 
-### Stats
+## Stats
 
 Dificulty                           | Total | Done
--------------------------------------|-------|------------------
-☆                                   | {{index .Total "☆"}}   | {{index .Stat "☆"}}
-☆☆                                 | {{index .Total "☆☆"}}  | {{index .Stat "☆☆"}}
-☆☆☆                                | {{index .Total "☆☆☆"}}  | {{index .Stat "☆☆☆"}}
-Total Questions Available            | {{index .Total "All"}}   | {{index .Stat "All"}}
+------------------------------------|-------|------
+Easy                                | {{index .Total "Easy"}}   | {{index .Stat "Easy"}}
+Normal                              | {{index .Total "Normal"}}   | {{index .Stat "Normal"}}
+Hard                                | {{index .Total "Hard"}}   | {{index .Stat "Hard"}}
+Total Questions Available           | {{index .Total "All"}}   | {{index .Stat "All"}}
 
+ 
+ 
 
-### Solved Problems
+## Solved  ☆☆☆ Hard Problems
 
- ID  | Problem               | Dificulty  | Topics
------|-----------------------|------------|------------
+ ID  | Problem               |  Topics
+-----|-----------------------|-------------
 {{ range .List }}
-{{- if .Ready -}} {{ .ID | printf "%4d" }} | [ {{ .Title }} ]( {{ .Slug }} ) | {{ .LevelStr }} | {{ .Topic }}
+{{- if .Hard -}} {{ .ID | printf "%4d" }} | [{{ .Title }}]({{ .Slug }}) | {{ .Topic }}
 {{end}}
 {{- end}}
 
-### Upcoming Problems
+### Solved ☆☆ Normal Problems
+
+ ID  | Problem               |  Topics
+-----|-----------------------|-------------
+{{ range .List }}
+{{- if .Normal -}} {{ .ID | printf "%4d" }} | [{{ .Title }}]({{ .Slug }}) | {{ .Topic }}
+{{end}}
+{{- end}}
+
+## Solved ☆ Easy Problems
+
+ ID  | Problem               | Topics
+-----|-----------------------|-------------
+{{ range .List }}
+{{- if .Easy -}} {{ .ID | printf "%4d" }} | [{{ .Title }}]({{ .Slug }}) | {{ .Topic }}
+{{end}}
+{{- end}}
+
+## Upsolved Problems
 
  ID  | Problem @ LeetCode    | Dificulty  | Topics
 -----|-----------------------|------------|--------

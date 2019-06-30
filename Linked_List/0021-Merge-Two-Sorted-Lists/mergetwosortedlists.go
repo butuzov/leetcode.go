@@ -1,16 +1,8 @@
 package mergetwosortedlists
 
 import (
-	"fmt"
 	"sort"
-	"strconv"
 )
-
-// ListNode is Linked List Node
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
 
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 
@@ -71,29 +63,3 @@ type Lists []*ListNode
 func (l Lists) Len() int           { return len(l) }
 func (l Lists) Swap(i, j int)      { l[i], l[j] = l[j], l[i] }
 func (l Lists) Less(i, j int) bool { return l[i].Val < l[j].Val }
-
-// For a testing and development reasons we need to siplify
-// Linked list creation.
-func makeList(nums ...int) *ListNode {
-	if len(nums) > 1 {
-		return &ListNode{
-			Val:  nums[0],
-			Next: makeList(nums[1:]...),
-		}
-	}
-	return &ListNode{Val: nums[0]}
-}
-
-// Stringer interface implementation for a nice linkedlist
-// representation as string.
-func (ln *ListNode) String() string {
-	if ln.Next == nil {
-		return strconv.Itoa(ln.Val)
-	}
-	return strconv.Itoa(ln.Val) + "->" + ln.Next.String()
-}
-
-func ExampleMakeLInkedList() {
-	fmt.Println(makeList([]int{1, 2, 2, 3, 3, 3, 1, 1, 12, 3}...))
-	// Output: 1->2->2->3->3->3->1->1->12->3
-}

@@ -1,0 +1,18 @@
+// package main
+
+// import (
+// 	"fmt"
+// 	"math"
+// )
+
+// // Binet's Formula for quick calculation of fibonachi
+// func fibBinetFormula(N int) int {
+// 	p1 := 1 / math.Pow(5, .5)
+// 	p2 := math.Pow((1+math.Pow(5, .5))/2, float64(N))
+// 	p3 := math.Pow((1-math.Pow(5, .5))/2, float64(N))
+// 	return int(p1 * (p2 - p3))
+// }
+
+// func main() {
+// 	fmt.Println(fibBinetFormula(2))
+// }

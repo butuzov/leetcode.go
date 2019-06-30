@@ -21,7 +21,10 @@ type Problem struct {
 	Topics   []string `json:"topics"`
 	Topic    string
 
-	Ready bool
+	Hard   bool
+	Easy   bool
+	Normal bool
+	Ready  bool
 }
 
 type Problems []Problem
@@ -67,13 +70,13 @@ func main() {
 
 		switch v.Level {
 		case 1:
-			v.LevelStr = "☆"
+			v.LevelStr = "Easy"
 			break
 		case 2:
-			v.LevelStr = "☆☆"
+			v.LevelStr = "Normal"
 			break
 		case 3:
-			v.LevelStr = "☆☆☆"
+			v.LevelStr = "Hard"
 			break
 		}
 
@@ -98,12 +101,23 @@ func main() {
 	}
 	sort.Sort(tmp)
 
-	solvedStat := map[string]int{"☆": 0, "☆☆": 0, "☆☆☆": 0, "All": 0}
-	totalStat := map[string]int{"☆": 0, "☆☆": 0, "☆☆☆": 0, "All": 0}
-	for _, p := range tmp {
+	solvedStat := map[string]int{"Easy": 0, "Normal": 0, "Hard": 0, "All": 0}
+	totalStat := map[string]int{"Easy": 0, "Normal": 0, "Hard": 0, "All": 0}
+	for i, p := range tmp {
+
 		if p.Ready {
 			solvedStat["All"]++
 			solvedStat[p.LevelStr]++
+
+			switch p.LevelStr {
+			case "Easy":
+				tmp[i].Easy = true
+			case "Normal":
+				tmp[i].Normal = true
+			case "Hard":
+				tmp[i].Hard = true
+			}
+
 		}
 		totalStat[p.LevelStr]++
 		totalStat["All"]++

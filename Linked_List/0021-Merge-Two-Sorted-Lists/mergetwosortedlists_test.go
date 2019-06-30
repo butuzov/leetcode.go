@@ -5,11 +5,6 @@ import (
 )
 
 /*******************************************************************************
-  Problem Solution
-*******************************************************************************/
-// see mergetwosortedlists.go
-
-/*******************************************************************************
   TestTable
 *******************************************************************************/
 
@@ -31,7 +26,7 @@ var TestCases = []struct {
 /*******************************************************************************
   Tests
 *******************************************************************************/
-func TestProblem(t *testing.T) {
+func TestMergeTwoLists(t *testing.T) {
 	for _, test := range TestCases {
 		actual := mergeTwoLists(test.input1, test.input2)
 		var preservedActal = actual
@@ -58,7 +53,7 @@ func TestProblem(t *testing.T) {
 	}
 }
 
-func BenchmarkProblem(b *testing.B) {
+func BenchmarkMergeTwoLists(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		for _, test := range TestCases {
 			mergeTwoLists(test.input1, test.input2)
