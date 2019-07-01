@@ -20,8 +20,8 @@ Dificulty                           | Total | Done
 ------------------------------------|-------|------
 Easy                                | 251   | 30
 Normal                              | 428   | 22
-Hard                                | 180   | 4
-Total Questions Available           | 859   | 56
+Hard                                | 180   | 5
+Total Questions Available           | 859   | 57
 
  
  
@@ -30,6 +30,7 @@ Total Questions Available           | 859   | 56
 
  ID  | Problem               |  Topics
 -----|-----------------------|-------------
+ 780 | [Reaching Points](Math/0780-Reaching-Points) | `Math`
  479 | [Largest Palindrome Product](Math/0479-Largest-Palindrome-Product) | 
   57 | [Insert Interval](Sort/0057-Insert-Interval) | `Array`, `Sort`
   23 | [Merge k Sorted Lists](Linked_List/0023-Merge-k-Sorted-Lists) | `Linked List`, `Divide and Conquer`, `Heap`
@@ -385,7 +386,6 @@ Total Questions Available           | 859   | 56
  783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | Easy  | `Tree`, `Recursion`
  782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard) | Hard  | `Array`, `Math`
  781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest) | Normal  | `Hash Table`, `Math`
- 780 | [Reaching Points](https://leetcode.com/problems/reaching-points) | Hard  | `Math`
  779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | Normal  | `Recursion`
  778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water) | Hard  | `Binary Search`, `Heap`, `Depth-first Search`, `Union Find`
  777 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string) | Normal  | `Brainteaser`
