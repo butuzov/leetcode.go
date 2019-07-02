@@ -1,4 +1,45 @@
 {
+    "parsing-a-boolean-expression": {
+        "Id": 1106,
+        "Title": "Parsing A Boolean Expression",
+        "Slug": "parsing-a-boolean-expression",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "String"
+        ]
+    },
+    "filling-bookcase-shelves": {
+        "Id": 1105,
+        "Title": "Filling Bookcase Shelves",
+        "Slug": "filling-bookcase-shelves",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "distribute-candies-to-people": {
+        "Id": 1103,
+        "Title": "Distribute Candies to People",
+        "Slug": "distribute-candies-to-people",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "path-in-zigzag-labelled-binary-tree": {
+        "Id": 1104,
+        "Title": "Path In Zigzag Labelled Binary Tree",
+        "Slug": "path-in-zigzag-labelled-binary-tree",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Math",
+            "Tree"
+        ]
+    },
     "brace-expansion-ii": {
         "Id": 1096,
         "Title": "Brace Expansion II",
@@ -7194,17 +7235,6 @@
         "Level": 3,
         "Topics": [
             "Dynamic Programming"
-        ]
-    },
-    "repeated-dna-sequences": {
-        "Id": 187,
-        "Title": "Repeated DNA Sequences",
-        "Slug": "repeated-dna-sequences",
-        "Paid": false,
-        "Level": 2,
-        "Topics": [
-            "Hash Table",
-            "Bit Manipulation"
         ]
     },
     "largest-number": {

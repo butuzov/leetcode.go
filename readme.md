@@ -18,10 +18,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 ------------------------------------|-------|------
-Easy                                | 251   | 30
-Normal                              | 428   | 22
-Hard                                | 180   | 5
-Total Questions Available           | 859   | 57
+Easy                                | 253   | 30
+Normal                              | 428   | 24
+Hard                                | 181   | 5
+Total Questions Available           | 862   | 59
 
  
  
@@ -50,6 +50,7 @@ Total Questions Available           | 859   | 57
  477 | [Total Hamming Distance](Bit_Manipulation/0477-Total-Hamming-Distance) | `Bit Manipulation`
  338 | [Counting Bits](Bit_Manipulation/0338-Counting-Bits) | `Dynamic Programming`, `Bit Manipulation`
  313 | [Super Ugly Number](Math/0313-Super-Ugly-Number) | `Math`, `Heap`
+ 275 | [H-Index II](Binary_Search/0275-H-Index-II) | `Binary Search`
  264 | [Ugly Number II](Math/0264-Ugly-Number-II) | `Math`, `Dynamic Programming`, `Heap`
  220 | [Contains Duplicate III](Hash_Table/0220-Contains-Duplicate-III) | `Sort`, `Ordered Map`
  179 | [Largest Number](Sort/0179-Largest-Number) | `Sort`
@@ -58,6 +59,7 @@ Total Questions Available           | 859   | 57
   59 | [Spiral Matrix II](Array/0059-Spiral-Matrix-II) | `Array`
   56 | [Merge Intervals](Sort/0056-Merge-Intervals) | `Array`, `Sort`
   54 | [Spiral Matrix](Array/0054-Spiral-Matrix) | `Array`
+  50 | [Pow(x, n)](Divide_and_Conquer/0050-Pow(x,-n)) | `Math`, `Binary Search`
   34 | [Find First and Last Position of Element in Sorted Array](Binary_Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | `Array`, `Binary Search`
   15 | [3Sum](Array/0015-3Sum) | `Array`, `Two Pointers`
   12 | [Integer to Roman](String/0012-Integer-to-Roman) | `Math`, `String`
@@ -105,6 +107,10 @@ Total Questions Available           | 859   | 57
 
  ID  | Problem @ LeetCode    | Dificulty  | Topics
 -----|-----------------------|------------|--------
+1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | Hard  | `String`
+1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves) | Normal  | `Dynamic Programming`
+1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree) | Easy  | `Math`, `Tree`
+1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | Easy  | `Math`
 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | Hard  | `String`
 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | Hard  | `Binary Search`
 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence) | Hard  | `Dynamic Programming`
@@ -716,7 +722,6 @@ Total Questions Available           | 859   | 57
  283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy  | `Array`, `Two Pointers`
  282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | Hard  | `Divide and Conquer`
  279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares) | Normal  | `Math`, `Dynamic Programming`, `Breadth-first Search`
- 275 | [H-Index II](https://leetcode.com/problems/h-index-ii) | Normal  | `Binary Search`
  274 | [H-Index](https://leetcode.com/problems/h-index) | Normal  | `Hash Table`, `Sort`
  273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words) | Hard  | `Math`, `String`
  268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy  | `Array`, `Math`, `Bit Manipulation`
@@ -763,7 +768,6 @@ Total Questions Available           | 859   | 57
  199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Normal  | `Tree`, `Depth-first Search`, `Breadth-first Search`
  190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy  | `Bit Manipulation`
  188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | Hard  | `Dynamic Programming`
- 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | Normal  | `Hash Table`, `Bit Manipulation`
  174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game) | Hard  | `Binary Search`, `Dynamic Programming`
  173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Normal  | `Stack`, `Tree`, `Design`
  172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Easy  | `Math`
@@ -870,7 +874,6 @@ Total Questions Available           | 859   | 57
   53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy  | `Array`, `Divide and Conquer`, `Dynamic Programming`
   52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | Hard  | `Backtracking`
   51 | [N-Queens](https://leetcode.com/problems/n-queens) | Hard  | `Backtracking`
-  50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Normal  | `Math`, `Binary Search`
   49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Normal  | `Hash Table`, `String`
   48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Normal  | `Array`
   47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Normal  | `Backtracking`
