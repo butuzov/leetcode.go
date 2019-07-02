@@ -7237,6 +7237,17 @@
             "Dynamic Programming"
         ]
     },
+    "repeated-dna-sequences": {
+        "Id": 187,
+        "Title": "Repeated DNA Sequences",
+        "Slug": "repeated-dna-sequences",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Bit Manipulation"
+        ]
+    },
     "largest-number": {
         "Id": 179,
         "Title": "Largest Number",
