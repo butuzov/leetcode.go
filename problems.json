@@ -34,7 +34,7 @@
         "Title": "Path In Zigzag Labelled Binary Tree",
         "Slug": "path-in-zigzag-labelled-binary-tree",
         "Paid": false,
-        "Level": 1,
+        "Level": 2,
         "Topics": [
             "Math",
             "Tree"
@@ -2471,10 +2471,7 @@
         "Title": "Guess the Word",
         "Slug": "guess-the-word",
         "Paid": false,
-        "Level": 3,
-        "Topics": [
-            "Minimax"
-        ]
+        "Level": 3
     },
     "split-array-into-fibonacci-sequence": {
         "Id": 842,

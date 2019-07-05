@@ -18,10 +18,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 ------------------------------------|-------|------
-Easy                                | 253   | 30
-Normal                              | 428   | 24
-Hard                                | 181   | 5
-Total Questions Available           | 862   | 59
+Easy                                | 252   | 31
+Normal                              | 430   | 25
+Hard                                | 181   | 6
+Total Questions Available           | 863   | 62
 
  
  
@@ -32,6 +32,7 @@ Total Questions Available           | 862   | 59
 -----|-----------------------|-------------
  780 | [Reaching Points](Math/0780-Reaching-Points) | `Math`
  479 | [Largest Palindrome Product](Math/0479-Largest-Palindrome-Product) | 
+  97 | [Interleaving String](Dynamic_Programming/0097-Interleaving-String) | `String`, `Dynamic Programming`
   57 | [Insert Interval](Sort/0057-Insert-Interval) | `Array`, `Sort`
   23 | [Merge k Sorted Lists](Linked_List/0023-Merge-k-Sorted-Lists) | `Linked List`, `Divide and Conquer`, `Heap`
    4 | [Median of Two Sorted Arrays](Divide_and_Conquer/0004-Median-of-Two-Sorted-Arrays) | `Array`, `Binary Search`, `Divide and Conquer`
@@ -43,6 +44,7 @@ Total Questions Available           | 862   | 59
 -----|-----------------------|-------------
 1094 | [Car Pooling](Greedy/1094-Car-Pooling) | `Greedy`
 1093 | [Statistics from a Large Sample](Math/1093-Statistics-from-a-Large-Sample) | `Math`, `Two Pointers`
+1014 | [Best Sightseeing Pair](Array/1014-Best-Sightseeing-Pair) | `Array`
  973 | [K Closest Points to Origin](Sort/0973-K-Closest-Points-to-Origin) | `Divide and Conquer`, `Heap`, `Sort`
  848 | [Shifting Letters](String/0848-Shifting-Letters) | `String`
  670 | [Maximum Swap](Array/0670-Maximum-Swap) | `Array`, `Math`
@@ -79,6 +81,7 @@ Total Questions Available           | 862   | 59
  507 | [Perfect Number](Math/0507-Perfect-Number) | `Math`
  461 | [Hamming Distance](Bit_Manipulation/0461-Hamming-Distance) | `Bit Manipulation`
  441 | [Arranging Coins](Math/0441-Arranging-Coins) | `Math`, `Binary Search`
+ 412 | [Fizz Buzz](Unsorted/0412-Fizz-Buzz) | 
  387 | [First Unique Character in a String](Hash_Table/0387-First-Unique-Character-in-a-String) | `Hash Table`, `String`
  367 | [Valid Perfect Square](Math/0367-Valid-Perfect-Square) | `Math`, `Binary Search`
  345 | [Reverse Vowels of a String](String/0345-Reverse-Vowels-of-a-String) | `Two Pointers`, `String`
@@ -109,7 +112,7 @@ Total Questions Available           | 862   | 59
 -----|-----------------------|------------|--------
 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | Hard  | `String`
 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves) | Normal  | `Dynamic Programming`
-1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree) | Easy  | `Math`, `Tree`
+1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree) | Normal  | `Math`, `Tree`
 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | Easy  | `Math`
 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii) | Hard  | `String`
 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | Hard  | `Binary Search`
@@ -162,7 +165,6 @@ Total Questions Available           | 862   | 59
 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2) | Normal  | `Math`
 1016 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n) | Normal  | `String`
 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | Normal  | `Math`
-1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | Normal  | `Array`
 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | Easy  | `Array`
 1012 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits) | Hard  | `Math`, `Dynamic Programming`
 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Normal  | `Array`, `Binary Search`
@@ -330,7 +332,7 @@ Total Questions Available           | 862   | 59
  846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) | Normal  | `Ordered Map`
  845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) | Normal  | `Two Pointers`
  844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy  | `Two Pointers`, `Stack`
- 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word) | Hard  | `Minimax`
+ 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word) | Hard  | 
  842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence) | Normal  | `String`, `Backtracking`, `Greedy`
  841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | Normal  | `Depth-first Search`, `Graph`
  840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | Easy  | `Array`
@@ -639,7 +641,6 @@ Total Questions Available           | 862   | 59
  415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy  | `String`
  414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Easy  | `Array`
  413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) | Normal  | `Math`, `Dynamic Programming`
- 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy  | 
  410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | Hard  | `Binary Search`, `Dynamic Programming`
  409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy  | `Hash Table`
  407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) | Hard  | `Heap`, `Breadth-first Search`
@@ -768,6 +769,7 @@ Total Questions Available           | 862   | 59
  199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Normal  | `Tree`, `Depth-first Search`, `Breadth-first Search`
  190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy  | `Bit Manipulation`
  188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | Hard  | `Dynamic Programming`
+ 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | Normal  | `Hash Table`, `Bit Manipulation`
  174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game) | Hard  | `Binary Search`, `Dynamic Programming`
  173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Normal  | `Stack`, `Tree`, `Design`
  172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Easy  | `Math`
@@ -834,7 +836,6 @@ Total Questions Available           | 862   | 59
  100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy  | `Tree`, `Depth-first Search`
   99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | Hard  | `Tree`, `Depth-first Search`
   98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Normal  | `Tree`, `Depth-first Search`
-  97 | [Interleaving String](https://leetcode.com/problems/interleaving-string) | Hard  | `String`, `Dynamic Programming`
   96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | Normal  | `Dynamic Programming`, `Tree`
   95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | Normal  | `Dynamic Programming`, `Tree`
   94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Normal  | `Hash Table`, `Stack`, `Tree`
