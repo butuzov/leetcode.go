@@ -1,5 +1,4 @@
-package rotatelist
-
+package main
 var MessageError = "Fail: Input(k(%d), list(%+v)): Expected(%+v) vs Returend(%+v)"
 var MessageOk = "OK: Input(k(%d), list(%+v)) as Expected(%+v)"
 

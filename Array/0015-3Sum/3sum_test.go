@@ -1,5 +1,4 @@
-package trisum
-
+package main
 import (
 	"reflect"
 	"sort"

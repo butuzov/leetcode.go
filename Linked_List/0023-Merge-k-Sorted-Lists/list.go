@@ -1,5 +1,4 @@
-package mergeksortedlists
-
+package main
 import (
 	"fmt"
 	"strconv"

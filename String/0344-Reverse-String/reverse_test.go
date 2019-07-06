@@ -1,5 +1,4 @@
-package reverse
-
+package main
 import (
 	"testing"
 )

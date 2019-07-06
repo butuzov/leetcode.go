@@ -1,5 +1,4 @@
-package palindromenumber
-
+package main
 import (
 	"strconv"
 	"testing"

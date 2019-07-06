@@ -1,5 +1,4 @@
-package perfectnumber
-
+package main
 import (
 	"math"
 	"testing"

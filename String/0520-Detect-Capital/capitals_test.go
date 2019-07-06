@@ -1,5 +1,4 @@
-package capitals
-
+package main
 import (
 	"testing"
 )

@@ -1,4 +1,4 @@
-package mergeintervals
+package main
 
 import (
 	"sort"

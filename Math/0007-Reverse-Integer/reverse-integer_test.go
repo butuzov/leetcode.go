@@ -1,5 +1,4 @@
-package reverseinteger
-
+package main
 import (
 	"math"
 	"testing"

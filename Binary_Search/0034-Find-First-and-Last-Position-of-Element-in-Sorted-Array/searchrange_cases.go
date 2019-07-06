@@ -1,5 +1,4 @@
-package searchrange
-
+package main
 var MessageError = "Fail: Input(%+v) Key(%d) : Expected(%+v) vs Returend(%+v)"
 var MessageOk = "OK: Input(%+v) Key(%d)  as Expected(%+v)"
 

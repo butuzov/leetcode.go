@@ -1,5 +1,4 @@
-package largestnumber
-
+package main
 import (
 	"math"
 	"sort"

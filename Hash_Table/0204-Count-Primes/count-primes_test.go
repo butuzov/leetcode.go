@@ -1,5 +1,4 @@
-package countprimes
-
+package main
 import (
 	"math"
 	"testing"

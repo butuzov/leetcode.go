@@ -1,5 +1,4 @@
-package carpooling
-
+package main
 import (
 	"sort"
 	"testing"

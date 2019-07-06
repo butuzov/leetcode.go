@@ -1,5 +1,4 @@
-package maximumswap
-
+package main
 import (
 	"math"
 	"strconv"

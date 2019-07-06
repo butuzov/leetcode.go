@@ -1,5 +1,4 @@
-package insertinterval
-
+package main
 import (
 	"reflect"
 	"testing"

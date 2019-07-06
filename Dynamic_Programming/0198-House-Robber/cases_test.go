@@ -1,5 +1,4 @@
-package rob
-
+package main
 var MessageError = "Fail: In(%+v) - Expected(%v) vs Returend(%v)"
 var MessageOk = "OK: In(%+v) - Return as Expected(%v)"
 

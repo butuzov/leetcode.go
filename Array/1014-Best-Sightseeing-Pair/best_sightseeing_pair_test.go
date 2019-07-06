@@ -1,5 +1,4 @@
-package bestsightseeingpair
-
+package main
 import (
 	"fmt"
 	"testing"

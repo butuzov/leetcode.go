@@ -1,5 +1,4 @@
-package findmindifference
-
+package main
 import (
 	"math"
 	"sort"

@@ -1,5 +1,4 @@
-package rotatelist
-
+package main
 import (
 	"fmt"
 	"strconv"

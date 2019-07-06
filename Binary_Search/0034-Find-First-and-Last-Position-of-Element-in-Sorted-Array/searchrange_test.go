@@ -1,5 +1,4 @@
-package searchrange
-
+package main
 import (
 	"reflect"
 	"testing"

@@ -1,5 +1,4 @@
-package containerwithmostwater
-
+package main
 import (
 	"testing"
 )

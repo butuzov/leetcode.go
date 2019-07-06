@@ -1,5 +1,4 @@
-package largestpalindromeproduct
-
+package main
 import (
 	"fmt"
 	"math"

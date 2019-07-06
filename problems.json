@@ -2471,7 +2471,10 @@
         "Title": "Guess the Word",
         "Slug": "guess-the-word",
         "Paid": false,
-        "Level": 3
+        "Level": 3,
+        "Topics": [
+            "Minimax"
+        ]
     },
     "split-array-into-fibonacci-sequence": {
         "Id": 842,

@@ -1,5 +1,4 @@
-package superuglynumber
-
+package main
 import (
 	"testing"
 )

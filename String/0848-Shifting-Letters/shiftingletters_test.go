@@ -1,5 +1,4 @@
-package shiftingletters
-
+package main
 import (
 	"bytes"
 	"testing"

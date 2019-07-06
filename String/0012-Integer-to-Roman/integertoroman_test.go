@@ -1,5 +1,4 @@
-package romantointeger
-
+package main
 import (
 	"bufio"
 	"bytes"

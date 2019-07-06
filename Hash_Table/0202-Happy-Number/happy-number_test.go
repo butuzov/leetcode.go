@@ -1,5 +1,4 @@
-package happynumber
-
+package main
 import (
 	"testing"
 )

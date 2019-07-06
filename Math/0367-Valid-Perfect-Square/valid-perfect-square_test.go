@@ -1,5 +1,4 @@
-package validperfectsquare
-
+package main
 import (
 	"testing"
 )

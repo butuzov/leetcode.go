@@ -1,5 +1,4 @@
-package medianoftwosortedarrays
-
+package main
 import "sort"
 
 // Naive implementations (just for testing)

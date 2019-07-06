@@ -1,5 +1,4 @@
-package powxn
-
+package main
 import (
 	"fmt"
 	"testing"

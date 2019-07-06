@@ -332,7 +332,7 @@ Total Questions Available           | 863   | 62
  846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) | Normal  | `Ordered Map`
  845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) | Normal  | `Two Pointers`
  844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy  | `Two Pointers`, `Stack`
- 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word) | Hard  | 
+ 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word) | Hard  | `Minimax`
  842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence) | Normal  | `String`, `Backtracking`, `Greedy`
  841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | Normal  | `Depth-first Search`, `Graph`
  840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) | Easy  | `Array`

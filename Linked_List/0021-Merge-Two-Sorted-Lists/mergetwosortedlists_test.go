@@ -1,5 +1,4 @@
-package mergetwosortedlists
-
+package main
 import (
 	"testing"
 )

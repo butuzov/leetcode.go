@@ -1,5 +1,4 @@
-package vovels
-
+package main
 var MessageError = "Fail: Input(%+v) : Expected(%+v) vs Returend(%+v)"
 var MessageOk = "OK: Input(%+v) as Expected(%+v)"
 

@@ -1,5 +1,4 @@
-package addtwonumbers
-
+package main
 var MessageError = "Fail: A(%+v) + B(%+v) is Expected(%+v) vs Returend(%+v)"
 var MessageOk = "OK: A(%+v) + B(%+v) as Expected(%+v)"
 

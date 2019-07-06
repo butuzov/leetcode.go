@@ -1,5 +1,4 @@
-package hindexii
-
+package main
 import (
 	"fmt"
 	"testing"

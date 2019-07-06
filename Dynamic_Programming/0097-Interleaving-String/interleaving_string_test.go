@@ -1,5 +1,4 @@
-package interleavingstring
-
+package main
 import (
 	"fmt"
 	"testing"

@@ -1,5 +1,4 @@
-package rotatelist
-
+package main
 func rotateRight(list *ListNode, k int) *ListNode {
 	if list == nil {
 		return nil

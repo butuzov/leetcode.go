@@ -1,5 +1,4 @@
-package findLengthOfLCIS
-
+package main
 import (
 	"testing"
 )

@@ -1,5 +1,4 @@
-package totalhammingdistance
-
+package main
 import (
 	"testing"
 )

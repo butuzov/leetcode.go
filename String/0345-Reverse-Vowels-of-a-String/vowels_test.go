@@ -1,5 +1,4 @@
-package vowels
-
+package main
 import (
 	"testing"
 )

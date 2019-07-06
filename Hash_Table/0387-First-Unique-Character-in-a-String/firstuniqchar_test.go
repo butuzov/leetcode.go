@@ -1,5 +1,4 @@
-package firstuniqchar
-
+package main
 import (
 	"testing"
 )

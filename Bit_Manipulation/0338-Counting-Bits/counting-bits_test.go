@@ -1,5 +1,4 @@
-package countingbits
-
+package main
 import (
 	"reflect"
 	"testing"

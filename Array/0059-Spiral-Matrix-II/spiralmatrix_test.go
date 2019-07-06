@@ -1,5 +1,4 @@
-package spiralmatrixii
-
+package main
 import (
 	"reflect"
 	"testing"

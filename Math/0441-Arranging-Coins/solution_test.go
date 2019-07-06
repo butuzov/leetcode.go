@@ -1,5 +1,4 @@
-package arrangecoins
-
+package main
 import (
 	"testing"
 )

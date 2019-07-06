@@ -1,5 +1,4 @@
-package kclosestptoorigin
-
+package main
 import (
 	"container/heap"
 	"reflect"

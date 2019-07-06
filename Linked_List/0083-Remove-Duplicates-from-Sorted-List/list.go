@@ -1,5 +1,4 @@
-package duplicates
-
+package main
 import (
 	"fmt"
 	"strconv"

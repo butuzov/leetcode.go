@@ -1,5 +1,4 @@
-package fib
-
+package main
 import (
 	"fmt"
 	"testing"

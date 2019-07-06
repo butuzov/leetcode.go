@@ -1,5 +1,4 @@
-package containsduplicateiii
-
+package main
 import (
 	"math"
 	"testing"

@@ -1,5 +1,4 @@
-package trisum
-
+package main
 var TestCases = []struct {
 	input    []int
 	expected [][]int

@@ -1,5 +1,4 @@
-package nrepeatedelementinsize2narray
-
+package main
 import (
 	"testing"
 )

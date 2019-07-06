@@ -1,5 +1,4 @@
-package powerofthree
-
+package main
 import (
 	"testing"
 )

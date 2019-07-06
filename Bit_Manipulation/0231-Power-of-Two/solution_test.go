@@ -1,5 +1,4 @@
-package poweroftwo
-
+package main
 import (
 	"testing"
 )

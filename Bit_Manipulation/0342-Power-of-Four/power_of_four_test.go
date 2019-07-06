@@ -1,5 +1,4 @@
-package poweroffour
-
+package main
 import (
 	"fmt"
 	"testing"

@@ -1,5 +1,4 @@
-package rotatearray
-
+package main
 import (
 	"testing"
 )

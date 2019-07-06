@@ -1,5 +1,4 @@
-package numberof1bits
-
+package main
 import (
 	"testing"
 )

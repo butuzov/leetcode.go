@@ -1,5 +1,4 @@
-package addtwonumbers
-
+package main
 import (
 	"fmt"
 	"strconv"

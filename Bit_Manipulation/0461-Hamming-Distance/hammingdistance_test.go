@@ -1,5 +1,4 @@
-package hammingdistance
-
+package main
 import (
 	"math"
 	"testing"
