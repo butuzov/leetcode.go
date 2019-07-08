@@ -12,16 +12,16 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Progress
 
-▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ## Stats
 
 Dificulty                           | Total | Done
 ------------------------------------|-------|------
-Easy                                | 252   | 31
-Normal                              | 430   | 25
-Hard                                | 181   | 6
-Total Questions Available           | 863   | 62
+Easy                                | 253   | 31
+Normal                              | 433   | 29
+Hard                                | 181   | 7
+Total Questions Available           | 867   | 67
 
  
  
@@ -32,6 +32,7 @@ Total Questions Available           | 863   | 62
 -----|-----------------------|-------------
  780 | [Reaching Points](Math/0780-Reaching-Points) | `Math`
  479 | [Largest Palindrome Product](Math/0479-Largest-Palindrome-Product) | 
+ 145 | [Binary Tree Postorder Traversal](Tree/0145-Binary-Tree-Postorder-Traversal) | `Stack`, `Tree`
   97 | [Interleaving String](Dynamic_Programming/0097-Interleaving-String) | `String`, `Dynamic Programming`
   57 | [Insert Interval](Sort/0057-Insert-Interval) | `Array`, `Sort`
   23 | [Merge k Sorted Lists](Linked_List/0023-Merge-k-Sorted-Lists) | `Linked List`, `Divide and Conquer`, `Heap`
@@ -45,6 +46,7 @@ Total Questions Available           | 863   | 62
 1094 | [Car Pooling](Greedy/1094-Car-Pooling) | `Greedy`
 1093 | [Statistics from a Large Sample](Math/1093-Statistics-from-a-Large-Sample) | `Math`, `Two Pointers`
 1014 | [Best Sightseeing Pair](Array/1014-Best-Sightseeing-Pair) | `Array`
+ 990 | [Satisfiability of Equality Equations](Union_Find/0990-Satisfiability-of-Equality-Equations) | `Union Find`, `Graph`
  973 | [K Closest Points to Origin](Sort/0973-K-Closest-Points-to-Origin) | `Divide and Conquer`, `Heap`, `Sort`
  848 | [Shifting Letters](String/0848-Shifting-Letters) | `String`
  670 | [Maximum Swap](Array/0670-Maximum-Swap) | `Array`, `Math`
@@ -56,6 +58,9 @@ Total Questions Available           | 863   | 62
  264 | [Ugly Number II](Math/0264-Ugly-Number-II) | `Math`, `Dynamic Programming`, `Heap`
  220 | [Contains Duplicate III](Hash_Table/0220-Contains-Duplicate-III) | `Sort`, `Ordered Map`
  179 | [Largest Number](Sort/0179-Largest-Number) | `Sort`
+ 144 | [Binary Tree Preorder Traversal](Tree/0144-Binary-Tree-Preorder-Traversal) | `Stack`, `Tree`
+ 114 | [Flatten Binary Tree to Linked List](Tree/0114-Flatten-Binary-Tree-to-Linked-List) | `Tree`, `Depth-first Search`
+  94 | [Binary Tree Inorder Traversal](Tree/0094-Binary-Tree-Inorder-Traversal) | `Hash Table`, `Stack`, `Tree`
   78 | [Subsets](Array/0078-Subsets) | `Array`, `Backtracking`, `Bit Manipulation`
   61 | [Rotate List](Linked_List/0061-Rotate-List) | `Linked List`, `Two Pointers`
   59 | [Spiral Matrix II](Array/0059-Spiral-Matrix-II) | `Array`
@@ -110,6 +115,10 @@ Total Questions Available           | 863   | 62
 
  ID  | Problem @ LeetCode    | Dificulty  | Topics
 -----|-----------------------|------------|--------
+1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | Normal  | 
+1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) | Normal  | 
+1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings) | Normal  | 
+1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy  | 
 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | Hard  | `String`
 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves) | Normal  | `Dynamic Programming`
 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree) | Normal  | `Math`, `Tree`
@@ -188,7 +197,6 @@ Total Questions Available           | 863   | 62
  993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree) | Easy  | `Tree`, `Breadth-first Search`
  992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | Hard  | `Hash Table`, `Two Pointers`, `Sliding Window`
  991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator) | Normal  | `Math`, `Greedy`
- 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations) | Normal  | `Union Find`, `Graph`
  989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy  | `Array`
  988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf) | Normal  | `Tree`, `Depth-first Search`
  987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | Normal  | `Hash Table`, `Tree`
@@ -792,8 +800,6 @@ Total Questions Available           | 863   | 62
  148 | [Sort List](https://leetcode.com/problems/sort-list) | Normal  | `Linked List`, `Sort`
  147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | Normal  | `Linked List`, `Sort`
  146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Normal  | `Design`
- 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Hard  | `Stack`, `Tree`
- 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Normal  | `Stack`, `Tree`
  143 | [Reorder List](https://leetcode.com/problems/reorder-list) | Normal  | `Linked List`
  142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Normal  | `Linked List`, `Two Pointers`
  141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy  | `Linked List`, `Two Pointers`
@@ -819,7 +825,6 @@ Total Questions Available           | 863   | 62
  119 | [Pascal&#39;s Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy  | `Array`
  118 | [Pascal&#39;s Triangle](https://leetcode.com/problems/pascals-triangle) | Easy  | `Array`
  115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) | Hard  | `String`, `Dynamic Programming`
- 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | Normal  | `Tree`, `Depth-first Search`
  113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | Normal  | `Tree`, `Depth-first Search`
  112 | [Path Sum](https://leetcode.com/problems/path-sum) | Easy  | `Tree`, `Depth-first Search`
  111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy  | `Tree`, `Depth-first Search`, `Breadth-first Search`
@@ -838,7 +843,6 @@ Total Questions Available           | 863   | 62
   98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Normal  | `Tree`, `Depth-first Search`
   96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | Normal  | `Dynamic Programming`, `Tree`
   95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | Normal  | `Dynamic Programming`, `Tree`
-  94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Normal  | `Hash Table`, `Stack`, `Tree`
   93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | Normal  | `String`, `Backtracking`
   92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | Normal  | `Linked List`
   91 | [Decode Ways](https://leetcode.com/problems/decode-ways) | Normal  | `String`, `Dynamic Programming`

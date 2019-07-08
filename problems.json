@@ -1,4 +1,32 @@
 {
+    "maximum-nesting-depth-of-two-valid-parentheses-strings": {
+        "Id": 1111,
+        "Title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+        "Slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+        "Paid": false,
+        "Level": 2
+    },
+    "delete-nodes-and-return-forest": {
+        "Id": 1110,
+        "Title": "Delete Nodes And Return Forest",
+        "Slug": "delete-nodes-and-return-forest",
+        "Paid": false,
+        "Level": 2
+    },
+    "corporate-flight-bookings": {
+        "Id": 1109,
+        "Title": "Corporate Flight Bookings",
+        "Slug": "corporate-flight-bookings",
+        "Paid": false,
+        "Level": 2
+    },
+    "defanging-an-ip-address": {
+        "Id": 1108,
+        "Title": "Defanging an IP Address",
+        "Slug": "defanging-an-ip-address",
+        "Paid": false,
+        "Level": 1
+    },
     "parsing-a-boolean-expression": {
         "Id": 1106,
         "Title": "Parsing A Boolean Expression",
