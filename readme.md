@@ -18,10 +18,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 ------------------------------------|-------|------
-Easy                                | 253   | 31
-Normal                              | 433   | 29
-Hard                                | 181   | 7
-Total Questions Available           | 867   | 67
+Easy                                | 253   | 35
+Normal                              | 433   | 32
+Hard                                | 181   | 8
+Total Questions Available           | 867   | 75
 
  
  
@@ -35,6 +35,7 @@ Total Questions Available           | 867   | 67
  145 | [Binary Tree Postorder Traversal](Tree/0145-Binary-Tree-Postorder-Traversal) | `Stack`, `Tree`
   97 | [Interleaving String](Dynamic_Programming/0097-Interleaving-String) | `String`, `Dynamic Programming`
   57 | [Insert Interval](Sort/0057-Insert-Interval) | `Array`, `Sort`
+  51 | [N-Queens](Backtracking/0051-N-Queens) | `Backtracking`
   23 | [Merge k Sorted Lists](Linked_List/0023-Merge-k-Sorted-Lists) | `Linked List`, `Divide and Conquer`, `Heap`
    4 | [Median of Two Sorted Arrays](Divide_and_Conquer/0004-Median-of-Two-Sorted-Arrays) | `Array`, `Binary Search`, `Divide and Conquer`
 
@@ -58,8 +59,10 @@ Total Questions Available           | 867   | 67
  264 | [Ugly Number II](Math/0264-Ugly-Number-II) | `Math`, `Dynamic Programming`, `Heap`
  220 | [Contains Duplicate III](Hash_Table/0220-Contains-Duplicate-III) | `Sort`, `Ordered Map`
  179 | [Largest Number](Sort/0179-Largest-Number) | `Sort`
+ 165 | [Compare Version Numbers](String/0165-Compare-Version-Numbers) | `String`
  144 | [Binary Tree Preorder Traversal](Tree/0144-Binary-Tree-Preorder-Traversal) | `Stack`, `Tree`
  114 | [Flatten Binary Tree to Linked List](Tree/0114-Flatten-Binary-Tree-to-Linked-List) | `Tree`, `Depth-first Search`
+  98 | [Validate Binary Search Tree](Tree/0098-Validate-Binary-Search-Tree) | `Tree`, `Depth-first Search`
   94 | [Binary Tree Inorder Traversal](Tree/0094-Binary-Tree-Inorder-Traversal) | `Hash Table`, `Stack`, `Tree`
   78 | [Subsets](Array/0078-Subsets) | `Array`, `Backtracking`, `Bit Manipulation`
   61 | [Rotate List](Linked_List/0061-Rotate-List) | `Linked List`, `Two Pointers`
@@ -71,6 +74,7 @@ Total Questions Available           | 867   | 67
   15 | [3Sum](Array/0015-3Sum) | `Array`, `Two Pointers`
   12 | [Integer to Roman](String/0012-Integer-to-Roman) | `Math`, `String`
   11 | [Container With Most Water](Array/0011-Container-With-Most-Water) | `Array`, `Two Pointers`
+   8 | [String to Integer (atoi)](Math/0008-String-to-Integer-(atoi)) | `Math`, `String`
    2 | [Add Two Numbers](Linked_List/0002-Add-Two-Numbers) | `Linked List`, `Math`
 
 
@@ -78,6 +82,7 @@ Total Questions Available           | 867   | 67
 
  ID  | Problem               | Topics
 -----|-----------------------|-------------
+1108 | [Defanging an IP Address](String/1108-Defanging-an-IP-Address) | `String`
 1030 | [Matrix Cells in Distance Order](Sort/1030-Matrix-Cells-in-Distance-Order) | `Sort`
  961 | [N-Repeated Element in Size 2N Array](Hash_Table/0961-N-Repeated-Element-in-Size-2N-Array) | `Hash Table`
  674 | [Longest Continuous Increasing Subsequence](Array/0674-Longest-Continuous-Increasing-Subsequence) | `Array`
@@ -102,7 +107,10 @@ Total Questions Available           | 867   | 67
  198 | [House Robber](Dynamic_Programming/0198-House-Robber) | `Dynamic Programming`
  191 | [Number of 1 Bits](Bit_Manipulation/0191-Number-of-1-Bits) | `Bit Manipulation`
  189 | [Rotate Array](Array/0189-Rotate-Array) | `Array`
+ 171 | [Excel Sheet Column Number](Math/0171-Excel-Sheet-Column-Number) | `Math`
+ 168 | [Excel Sheet Column Title](Math/0168-Excel-Sheet-Column-Title) | `Math`
   83 | [Remove Duplicates from Sorted List](Linked_List/0083-Remove-Duplicates-from-Sorted-List) | `Linked List`
+  69 | [Sqrt(x)](Binary_Search/0069-Sqrt(x)) | `Math`, `Binary Search`
   26 | [Remove Duplicates from Sorted Array](Array/0026-Remove-Duplicates-from-Sorted-Array) | `Array`, `Two Pointers`
   21 | [Merge Two Sorted Lists](Linked_List/0021-Merge-Two-Sorted-Lists) | `Linked List`
   20 | [Valid Parentheses](String/0020-Valid-Parentheses) | `String`, `Stack`
@@ -115,10 +123,9 @@ Total Questions Available           | 867   | 67
 
  ID  | Problem @ LeetCode    | Dificulty  | Topics
 -----|-----------------------|------------|--------
-1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | Normal  | 
-1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) | Normal  | 
-1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings) | Normal  | 
-1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy  | 
+1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | Normal  | `Binary Search`, `Greedy`
+1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest) | Normal  | `Tree`, `Depth-first Search`
+1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings) | Normal  | `Array`, `Math`
 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression) | Hard  | `String`
 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves) | Normal  | `Dynamic Programming`
 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree) | Normal  | `Math`, `Tree`
@@ -781,12 +788,9 @@ Total Questions Available           | 867   | 67
  174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game) | Hard  | `Binary Search`, `Dynamic Programming`
  173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Normal  | `Stack`, `Tree`, `Design`
  172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Easy  | `Math`
- 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy  | `Math`
  169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy  | `Array`, `Divide and Conquer`, `Bit Manipulation`
- 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy  | `Math`
  167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Easy  | `Array`, `Two Pointers`, `Binary Search`
  166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | Normal  | `Hash Table`, `Math`
- 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) | Normal  | `String`
  164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap) | Hard  | `Sort`
  162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | Normal  | `Array`, `Binary Search`
  160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy  | `Linked List`
@@ -840,7 +844,6 @@ Total Questions Available           | 867   | 67
  101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy  | `Tree`, `Depth-first Search`, `Breadth-first Search`
  100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy  | `Tree`, `Depth-first Search`
   99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | Hard  | `Tree`, `Depth-first Search`
-  98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Normal  | `Tree`, `Depth-first Search`
   96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | Normal  | `Dynamic Programming`, `Tree`
   95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | Normal  | `Dynamic Programming`, `Tree`
   93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | Normal  | `String`, `Backtracking`
@@ -865,7 +868,6 @@ Total Questions Available           | 867   | 67
   72 | [Edit Distance](https://leetcode.com/problems/edit-distance) | Hard  | `String`, `Dynamic Programming`
   71 | [Simplify Path](https://leetcode.com/problems/simplify-path) | Normal  | `String`, `Stack`
   70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy  | `Dynamic Programming`
-  69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy  | `Math`, `Binary Search`
   68 | [Text Justification](https://leetcode.com/problems/text-justification) | Hard  | `String`
   67 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy  | `Math`, `String`
   66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy  | `Array`
@@ -878,7 +880,6 @@ Total Questions Available           | 867   | 67
   55 | [Jump Game](https://leetcode.com/problems/jump-game) | Normal  | `Array`, `Greedy`
   53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy  | `Array`, `Divide and Conquer`, `Dynamic Programming`
   52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | Hard  | `Backtracking`
-  51 | [N-Queens](https://leetcode.com/problems/n-queens) | Hard  | `Backtracking`
   49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Normal  | `Hash Table`, `String`
   48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Normal  | `Array`
   47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Normal  | `Backtracking`
@@ -911,7 +912,6 @@ Total Questions Available           | 867   | 67
   14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy  | `String`
   13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy  | `Math`, `String`
   10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | Hard  | `String`, `Dynamic Programming`, `Backtracking`
-   8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Normal  | `Math`, `String`
    6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | Normal  | `String`
    5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Normal  | `String`, `Dynamic Programming`
    3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Normal  | `Hash Table`, `Two Pointers`, `String`, `Sliding Window`
