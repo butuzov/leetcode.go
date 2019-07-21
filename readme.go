@@ -123,7 +123,7 @@ func main() {
 		totalStat["All"]++
 	}
 
-	var progressLen = 61
+	var progressLen = 62
 	solvedPercents := int(math.RoundToEven((float64(solvedStat["All"]) / float64(totalStat["All"])) * float64(progressLen)))
 
 	tpl := template.Must(template.ParseGlob("readme*"))
