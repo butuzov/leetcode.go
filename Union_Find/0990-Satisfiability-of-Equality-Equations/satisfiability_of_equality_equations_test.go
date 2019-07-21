@@ -16,15 +16,19 @@ func TestEquationsPossible(t *testing.T) {
 	}
 }
 
+var result bool
+
 func BenchmarkEquationsPossible(b *testing.B) {
 	b.StopTimer()
 	b.ReportAllocs()
 	b.StartTimer()
 	b.RunParallel(func(pb *testing.PB) {
 		for pb.Next() {
+			var r bool
 			for _, test := range TestCases {
-				equationsPossible(test.equations)
+				r = equationsPossible(test.equations)
 			}
+			result = r
 		}
 	})
 }

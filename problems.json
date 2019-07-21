@@ -1,4 +1,75 @@
 {
+    "maximum-of-absolute-value-expression": {
+        "Id": 1131,
+        "Title": "Maximum of Absolute Value Expression",
+        "Slug": "maximum-of-absolute-value-expression",
+        "Paid": false,
+        "Level": 2
+    },
+    "shortest-path-with-alternating-colors": {
+        "Id": 1129,
+        "Title": "Shortest Path with Alternating Colors",
+        "Slug": "shortest-path-with-alternating-colors",
+        "Paid": false,
+        "Level": 2
+    },
+    "minimum-cost-tree-from-leaf-values": {
+        "Id": 1130,
+        "Title": "Minimum Cost Tree From Leaf Values",
+        "Slug": "minimum-cost-tree-from-leaf-values",
+        "Paid": false,
+        "Level": 2
+    },
+    "number-of-equivalent-domino-pairs": {
+        "Id": 1128,
+        "Title": "Number of Equivalent Domino Pairs",
+        "Slug": "number-of-equivalent-domino-pairs",
+        "Paid": false,
+        "Level": 1
+    },
+    "smallest-sufficient-team": {
+        "Id": 1125,
+        "Title": "Smallest Sufficient Team",
+        "Slug": "smallest-sufficient-team",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming",
+            "Bit Manipulation"
+        ]
+    },
+    "longest-well-performing-interval": {
+        "Id": 1124,
+        "Title": "Longest Well-Performing Interval",
+        "Slug": "longest-well-performing-interval",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Stack"
+        ]
+    },
+    "lowest-common-ancestor-of-deepest-leaves": {
+        "Id": 1123,
+        "Title": "Lowest Common Ancestor of Deepest Leaves",
+        "Slug": "lowest-common-ancestor-of-deepest-leaves",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
+    },
+    "relative-sort-array": {
+        "Id": 1122,
+        "Title": "Relative Sort Array",
+        "Slug": "relative-sort-array",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Sort"
+        ]
+    },
     "maximum-nesting-depth-of-two-valid-parentheses-strings": {
         "Id": 1111,
         "Title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
