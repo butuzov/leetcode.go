@@ -4,28 +4,44 @@
         "Title": "Maximum of Absolute Value Expression",
         "Slug": "maximum-of-absolute-value-expression",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Bit Manipulation"
+        ]
     },
     "shortest-path-with-alternating-colors": {
         "Id": 1129,
         "Title": "Shortest Path with Alternating Colors",
         "Slug": "shortest-path-with-alternating-colors",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Breadth-first Search",
+            "Graph"
+        ]
     },
     "minimum-cost-tree-from-leaf-values": {
         "Id": 1130,
         "Title": "Minimum Cost Tree From Leaf Values",
         "Slug": "minimum-cost-tree-from-leaf-values",
         "Paid": false,
-        "Level": 2
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Stack",
+            "Tree"
+        ]
     },
     "number-of-equivalent-domino-pairs": {
         "Id": 1128,
         "Title": "Number of Equivalent Domino Pairs",
         "Slug": "number-of-equivalent-domino-pairs",
         "Paid": false,
-        "Level": 1
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
     },
     "smallest-sufficient-team": {
         "Id": 1125,
@@ -5608,7 +5624,7 @@
         "Title": "Find All Anagrams in a String",
         "Slug": "find-all-anagrams-in-a-string",
         "Paid": false,
-        "Level": 1,
+        "Level": 2,
         "Topics": [
             "Hash Table"
         ]

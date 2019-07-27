@@ -18,10 +18,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 ------------------------------------|-------|------
-Easy                                | 255   | 38
-Normal                              | 438   | 37
+Easy                                | 254   | 39
+Normal                              | 439   | 40
 Hard                                | 182   | 8
-Total Questions Available           | 875   | 83
+Total Questions Available           | 875   | 87
 
  
  
@@ -50,12 +50,15 @@ Total Questions Available           | 875   | 83
 1014 | [Best Sightseeing Pair](Array/1014-Best-Sightseeing-Pair) | `Array`
  990 | [Satisfiability of Equality Equations](Union_Find/0990-Satisfiability-of-Equality-Equations) | `Union Find`, `Graph`
  973 | [K Closest Points to Origin](Sort/0973-K-Closest-Points-to-Origin) | `Divide and Conquer`, `Heap`, `Sort`
+ 957 | [Prison Cells After N Days](Hash_Table/0957-Prison-Cells-After-N-Days) | `Hash Table`
+ 916 | [Word Subsets](String/0916-Word-Subsets) | `String`
  848 | [Shifting Letters](String/0848-Shifting-Letters) | `String`
  670 | [Maximum Swap](Array/0670-Maximum-Swap) | `Array`, `Math`
  539 | [Minimum Time Difference](String/0539-Minimum-Time-Difference) | `String`
  537 | [Complex Number Multiplication](Math/0537-Complex-Number-Multiplication) | `Math`, `String`
  477 | [Total Hamming Distance](Bit_Manipulation/0477-Total-Hamming-Distance) | `Bit Manipulation`
  442 | [Find All Duplicates in an Array](Array/0442-Find-All-Duplicates-in-an-Array) | `Array`
+ 386 | [Lexicographical Numbers](Unsorted/0386-Lexicographical-Numbers) | 
  338 | [Counting Bits](Bit_Manipulation/0338-Counting-Bits) | `Dynamic Programming`, `Bit Manipulation`
  313 | [Super Ugly Number](Math/0313-Super-Ugly-Number) | `Math`, `Heap`
  275 | [H-Index II](Binary_Search/0275-H-Index-II) | `Binary Search`
@@ -92,6 +95,7 @@ Total Questions Available           | 875   | 83
 1030 | [Matrix Cells in Distance Order](Sort/1030-Matrix-Cells-in-Distance-Order) | `Sort`
 1009 | [Complement of Base 10 Integer](Math/1009-Complement-of-Base-10-Integer) | `Math`
  961 | [N-Repeated Element in Size 2N Array](Hash_Table/0961-N-Repeated-Element-in-Size-2N-Array) | `Hash Table`
+ 917 | [Reverse Only Letters](String/0917-Reverse-Only-Letters) | `String`
  674 | [Longest Continuous Increasing Subsequence](Array/0674-Longest-Continuous-Increasing-Subsequence) | `Array`
  520 | [Detect Capital](String/0520-Detect-Capital) | `String`
  509 | [Fibonacci Number](Math/0509-Fibonacci-Number) | `Array`
@@ -131,10 +135,10 @@ Total Questions Available           | 875   | 83
 
  ID  | Problem @ LeetCode    | Dificulty  | Topics
 -----|-----------------------|------------|--------
-1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression) | Normal  | 
-1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values) | Normal  | 
-1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors) | Normal  | 
-1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | Easy  | 
+1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression) | Normal  | `Math`, `Bit Manipulation`
+1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values) | Normal  | `Dynamic Programming`, `Stack`, `Tree`
+1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors) | Normal  | `Breadth-first Search`, `Graph`
+1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | Easy  | `Array`
 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team) | Hard  | `Dynamic Programming`, `Bit Manipulation`
 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval) | Normal  | `Stack`
 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | Normal  | `Tree`, `Depth-first Search`
@@ -247,7 +251,6 @@ Total Questions Available           | 875   | 83
  960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii) | Hard  | `Dynamic Programming`
  959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes) | Normal  | `Depth-first Search`, `Union Find`, `Graph`
  958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree) | Normal  | `Tree`
- 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days) | Normal  | `Hash Table`
  956 | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard) | Hard  | `Dynamic Programming`
  955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii) | Normal  | `Greedy`
  954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs) | Normal  | `Array`, `Hash Table`
@@ -287,8 +290,6 @@ Total Questions Available           | 875   | 83
  920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists) | Hard  | `Dynamic Programming`
  919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | Normal  | `Tree`
  918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | Normal  | `Array`
- 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy  | `String`
- 916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | Normal  | `String`
  915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals) | Normal  | `Array`
  914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | Easy  | `Array`, `Math`
  913 | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse) | Hard  | `Breadth-first Search`, `Minimax`
@@ -649,7 +650,7 @@ Total Questions Available           | 875   | 83
  445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | Normal  | `Linked List`
  443 | [String Compression](https://leetcode.com/problems/string-compression) | Easy  | `String`
  440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order) | Hard  | 
- 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Easy  | `Hash Table`
+ 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Normal  | `Hash Table`
  437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | Easy  | `Tree`
  436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval) | Normal  | `Binary Search`
  435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Normal  | `Greedy`
@@ -688,7 +689,6 @@ Total Questions Available           | 875   | 83
  390 | [Elimination Game](https://leetcode.com/problems/elimination-game) | Normal  | 
  389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy  | `Hash Table`, `Bit Manipulation`
  388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) | Normal  | 
- 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | Normal  | 
  385 | [Mini Parser](https://leetcode.com/problems/mini-parser) | Normal  | `String`, `Stack`
  384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | Normal  | 
  383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy  | `String`
