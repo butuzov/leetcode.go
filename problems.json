@@ -1,4 +1,380 @@
 {
+    "maximum-equal-frequency": {
+        "Id": 1224,
+        "Title": "Maximum Equal Frequency",
+        "Slug": "maximum-equal-frequency",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Hash Table"
+        ]
+    },
+    "dice-roll-simulation": {
+        "Id": 1223,
+        "Title": "Dice Roll Simulation",
+        "Slug": "dice-roll-simulation",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "queens-that-can-attack-the-king": {
+        "Id": 1222,
+        "Title": "Queens That Can Attack the King",
+        "Slug": "queens-that-can-attack-the-king",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "split-a-string-in-balanced-strings": {
+        "Id": 1221,
+        "Title": "Split a String in Balanced Strings",
+        "Slug": "split-a-string-in-balanced-strings",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "String",
+            "Greedy"
+        ]
+    },
+    "design-skiplist": {
+        "Id": 1206,
+        "Title": "Design Skiplist",
+        "Slug": "design-skiplist",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Design"
+        ]
+    },
+    "count-vowels-permutation": {
+        "Id": 1220,
+        "Title": "Count Vowels Permutation",
+        "Slug": "count-vowels-permutation",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "path-with-maximum-gold": {
+        "Id": 1219,
+        "Title": "Path with Maximum Gold",
+        "Slug": "path-with-maximum-gold",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Backtracking"
+        ]
+    },
+    "longest-arithmetic-subsequence-of-given-difference": {
+        "Id": 1218,
+        "Title": "Longest Arithmetic Subsequence of Given Difference",
+        "Slug": "longest-arithmetic-subsequence-of-given-difference",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Dynamic Programming"
+        ]
+    },
+    "play-with-chips": {
+        "Id": 1217,
+        "Title": "Play with Chips",
+        "Slug": "play-with-chips",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Math",
+            "Greedy"
+        ]
+    },
+    "minimum-moves-to-reach-target-with-rotations": {
+        "Id": 1210,
+        "Title": "Minimum Moves to Reach Target with Rotations",
+        "Slug": "minimum-moves-to-reach-target-with-rotations",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Breadth-first Search"
+        ]
+    },
+    "get-equal-substrings-within-budget": {
+        "Id": 1208,
+        "Title": "Get Equal Substrings Within Budget",
+        "Slug": "get-equal-substrings-within-budget",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Sliding Window"
+        ]
+    },
+    "remove-all-adjacent-duplicates-in-string-ii": {
+        "Id": 1209,
+        "Title": "Remove All Adjacent Duplicates in String II",
+        "Slug": "remove-all-adjacent-duplicates-in-string-ii",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Stack"
+        ]
+    },
+    "unique-number-of-occurrences": {
+        "Id": 1207,
+        "Title": "Unique Number of Occurrences",
+        "Slug": "unique-number-of-occurrences",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Hash Table"
+        ]
+    },
+    "sort-items-by-groups-respecting-dependencies": {
+        "Id": 1203,
+        "Title": "Sort Items by Groups Respecting Dependencies",
+        "Slug": "sort-items-by-groups-respecting-dependencies",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Depth-first Search",
+            "Graph",
+            "Topological Sort"
+        ]
+    },
+    "smallest-string-with-swaps": {
+        "Id": 1202,
+        "Title": "Smallest String With Swaps",
+        "Slug": "smallest-string-with-swaps",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Union Find"
+        ]
+    },
+    "ugly-number-iii": {
+        "Id": 1201,
+        "Title": "Ugly Number III",
+        "Slug": "ugly-number-iii",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Binary Search"
+        ]
+    },
+    "minimum-absolute-difference": {
+        "Id": 1200,
+        "Title": "Minimum Absolute Difference",
+        "Slug": "minimum-absolute-difference",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "critical-connections-in-a-network": {
+        "Id": 1192,
+        "Title": "Critical Connections in a Network",
+        "Slug": "critical-connections-in-a-network",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Depth-first Search"
+        ]
+    },
+    "k-concatenation-maximum-sum": {
+        "Id": 1191,
+        "Title": "K-Concatenation Maximum Sum",
+        "Slug": "k-concatenation-maximum-sum",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "reverse-substrings-between-each-pair-of-parentheses": {
+        "Id": 1190,
+        "Title": "Reverse Substrings Between Each Pair of Parentheses",
+        "Slug": "reverse-substrings-between-each-pair-of-parentheses",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Stack"
+        ]
+    },
+    "maximum-number-of-balloons": {
+        "Id": 1189,
+        "Title": "Maximum Number of Balloons",
+        "Slug": "maximum-number-of-balloons",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Hash Table",
+            "String"
+        ]
+    },
+    "make-array-strictly-increasing": {
+        "Id": 1187,
+        "Title": "Make Array Strictly Increasing",
+        "Slug": "make-array-strictly-increasing",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "day-of-the-week": {
+        "Id": 1185,
+        "Title": "Day of the Week",
+        "Slug": "day-of-the-week",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "maximum-subarray-sum-with-one-deletion": {
+        "Id": 1186,
+        "Title": "Maximum Subarray Sum with One Deletion",
+        "Slug": "maximum-subarray-sum-with-one-deletion",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "distance-between-bus-stops": {
+        "Id": 1184,
+        "Title": "Distance Between Bus Stops",
+        "Slug": "distance-between-bus-stops",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "number-of-valid-words-for-each-puzzle": {
+        "Id": 1178,
+        "Title": "Number of Valid Words for Each Puzzle",
+        "Slug": "number-of-valid-words-for-each-puzzle",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Hash Table",
+            "Bit Manipulation"
+        ]
+    },
+    "can-make-palindrome-from-substring": {
+        "Id": 1177,
+        "Title": "Can Make Palindrome from Substring",
+        "Slug": "can-make-palindrome-from-substring",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "String"
+        ]
+    },
+    "prime-arrangements": {
+        "Id": 1175,
+        "Title": "Prime Arrangements",
+        "Slug": "prime-arrangements",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "compare-strings-by-frequency-of-the-smallest-character": {
+        "Id": 1170,
+        "Title": "Compare Strings by Frequency of the Smallest Character",
+        "Slug": "compare-strings-by-frequency-of-the-smallest-character",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "String"
+        ]
+    },
+    "invalid-transactions": {
+        "Id": 1169,
+        "Title": "Invalid Transactions",
+        "Slug": "invalid-transactions",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "String"
+        ]
+    },
+    "dinner-plate-stacks": {
+        "Id": 1172,
+        "Title": "Dinner Plate Stacks",
+        "Slug": "dinner-plate-stacks",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Design"
+        ]
+    },
+    "remove-zero-sum-consecutive-nodes-from-linked-list": {
+        "Id": 1171,
+        "Title": "Remove Zero Sum Consecutive Nodes from Linked List",
+        "Slug": "remove-zero-sum-consecutive-nodes-from-linked-list",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Linked List"
+        ]
+    },
+    "number-of-dice-rolls-with-target-sum": {
+        "Id": 1155,
+        "Title": "Number of Dice Rolls With Target Sum",
+        "Slug": "number-of-dice-rolls-with-target-sum",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "online-majority-element-in-subarray": {
+        "Id": 1157,
+        "Title": "Online Majority Element In Subarray",
+        "Slug": "online-majority-element-in-subarray",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Binary Search",
+            "Segment Tree"
+        ]
+    },
+    "swap-for-longest-repeated-character-substring": {
+        "Id": 1156,
+        "Title": "Swap For Longest Repeated Character Substring",
+        "Slug": "swap-for-longest-repeated-character-substring",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
+    },
+    "day-of-the-year": {
+        "Id": 1154,
+        "Title": "Day of the Year",
+        "Slug": "day-of-the-year",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
+    },
     "longest-chunked-palindrome-decomposition": {
         "Id": 1147,
         "Title": "Longest Chunked Palindrome Decomposition",
@@ -6,7 +382,8 @@
         "Paid": false,
         "Level": 3,
         "Topics": [
-            "Dynamic Programming"
+            "Dynamic Programming",
+            "Rolling Hash"
         ]
     },
     "longest-common-subsequence": {
@@ -45,7 +422,7 @@
         "Title": "Decrease Elements To Make Array Zigzag",
         "Slug": "decrease-elements-to-make-array-zigzag",
         "Paid": false,
-        "Level": 1,
+        "Level": 2,
         "Topics": [
             "Array"
         ]
@@ -469,6 +846,17 @@
             "Array"
         ]
     },
+    "last-substring-in-lexicographical-order": {
+        "Id": 1163,
+        "Title": "Last Substring in Lexicographical Order",
+        "Slug": "last-substring-in-lexicographical-order",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "String",
+            "Suffix Array"
+        ]
+    },
     "last-stone-weight-ii": {
         "Id": 1049,
         "Title": "Last Stone Weight II",
@@ -552,6 +940,27 @@
             "Math"
         ]
     },
+    "as-far-from-land-as-possible": {
+        "Id": 1162,
+        "Title": "As Far from Land as Possible",
+        "Slug": "as-far-from-land-as-possible",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Breadth-first Search",
+            "Graph"
+        ]
+    },
+    "maximum-level-sum-of-a-binary-tree": {
+        "Id": 1161,
+        "Title": "Maximum Level Sum of a Binary Tree",
+        "Slug": "maximum-level-sum-of-a-binary-tree",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Graph"
+        ]
+    },
     "valid-boomerang": {
         "Id": 1037,
         "Title": "Valid Boomerang",
@@ -581,6 +990,17 @@
         "Topics": [
             "Array",
             "Sliding Window"
+        ]
+    },
+    "find-words-that-can-be-formed-by-characters": {
+        "Id": 1160,
+        "Title": "Find Words That Can Be Formed by Characters",
+        "Slug": "find-words-that-can-be-formed-by-characters",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Hash Table"
         ]
     },
     "minimum-score-triangulation-of-polygon": {
@@ -1640,10 +2060,10 @@
             "Recursion"
         ]
     },
-    "reorder-log-files": {
+    "reorder-data-in-log-files": {
         "Id": 937,
-        "Title": "Reorder Log Files",
-        "Slug": "reorder-log-files",
+        "Title": "Reorder Data in Log Files",
+        "Slug": "reorder-data-in-log-files",
         "Paid": false,
         "Level": 1,
         "Topics": [
@@ -4528,10 +4948,10 @@
             "Math"
         ]
     },
-    "smallest-range": {
+    "smallest-range-covering-elements-from-k-lists": {
         "Id": 632,
-        "Title": "Smallest Range",
-        "Slug": "smallest-range",
+        "Title": "Smallest Range Covering Elements from K Lists",
+        "Slug": "smallest-range-covering-elements-from-k-lists",
         "Paid": false,
         "Level": 3,
         "Topics": [
@@ -5982,7 +6402,7 @@
         "Title": "Nth Digit",
         "Slug": "nth-digit",
         "Paid": false,
-        "Level": 1,
+        "Level": 2,
         "Topics": [
             "Math"
         ]
@@ -6062,7 +6482,7 @@
         "Title": "Is Subsequence",
         "Slug": "is-subsequence",
         "Paid": false,
-        "Level": 2,
+        "Level": 1,
         "Topics": [
             "Binary Search",
             "Dynamic Programming",

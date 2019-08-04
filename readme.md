@@ -12,16 +12,16 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Progress
 
-▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ## Stats
 
 Dificulty                           | Total | Done
 ------------------------------------|-------|------
-Easy                                | 256   | 40
-Normal                              | 445   | 44
-Hard                                | 183   | 9
-Total Questions Available           | 884   | 93
+Easy                                | 266   | 41
+Normal                              | 464   | 45
+Hard                                | 194   | 9
+Total Questions Available           | 924   | 95
 
  
  
@@ -45,6 +45,7 @@ Total Questions Available           | 884   | 93
 
  ID  | Problem               |  Topics
 -----|-----------------------|-------------
+1146 | [Snapshot Array](Array/1146-Snapshot-Array) | `Array`
 1109 | [Corporate Flight Bookings](Array/1109-Corporate-Flight-Bookings) | `Array`, `Math`
 1094 | [Car Pooling](Greedy/1094-Car-Pooling) | `Greedy`
 1093 | [Statistics from a Large Sample](Math/1093-Statistics-from-a-Large-Sample) | `Math`, `Two Pointers`
@@ -102,6 +103,7 @@ Total Questions Available           | 884   | 93
 1009 | [Complement of Base 10 Integer](Math/1009-Complement-of-Base-10-Integer) | `Math`
  961 | [N-Repeated Element in Size 2N Array](Hash_Table/0961-N-Repeated-Element-in-Size-2N-Array) | `Hash Table`
  917 | [Reverse Only Letters](String/0917-Reverse-Only-Letters) | `String`
+ 905 | [Sort Array By Parity](Array/0905-Sort-Array-By-Parity) | `Array`
  674 | [Longest Continuous Increasing Subsequence](Array/0674-Longest-Continuous-Increasing-Subsequence) | `Array`
  520 | [Detect Capital](String/0520-Detect-Capital) | `String`
  509 | [Fibonacci Number](Math/0509-Fibonacci-Number) | `Array`
@@ -141,10 +143,49 @@ Total Questions Available           | 884   | 93
 
  ID  | Problem @ LeetCode    | Dificulty  | Topics
 -----|-----------------------|------------|--------
-1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition) | Hard  | `Dynamic Programming`
-1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array) | Normal  | `Array`
+1224 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency) | Hard  | `Hash Table`
+1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation) | Normal  | `Dynamic Programming`
+1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king) | Normal  | `Array`
+1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy  | `String`, `Greedy`
+1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation) | Hard  | `Dynamic Programming`
+1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) | Normal  | `Backtracking`
+1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference) | Normal  | `Math`, `Dynamic Programming`
+1217 | [Play with Chips](https://leetcode.com/problems/play-with-chips) | Easy  | `Array`, `Math`, `Greedy`
+1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations) | Hard  | `Breadth-first Search`
+1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii) | Normal  | `Stack`
+1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | Normal  | `Array`, `Sliding Window`
+1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy  | `Hash Table`
+1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist) | Hard  | `Design`
+1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies) | Hard  | `Depth-first Search`, `Graph`, `Topological Sort`
+1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps) | Normal  | `Array`, `Union Find`
+1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | Normal  | `Math`, `Binary Search`
+1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy  | `Array`
+1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) | Hard  | `Depth-first Search`
+1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum) | Normal  | `Dynamic Programming`
+1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses) | Normal  | `Stack`
+1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy  | `Hash Table`, `String`
+1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing) | Hard  | `Dynamic Programming`
+1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion) | Normal  | `Dynamic Programming`
+1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week) | Easy  | `Array`
+1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops) | Easy  | `Array`
+1178 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle) | Hard  | `Hash Table`, `Bit Manipulation`
+1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring) | Normal  | `Array`, `String`
+1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | Easy  | `Math`
+1172 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks) | Hard  | `Design`
+1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | Normal  | `Linked List`
+1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character) | Easy  | `Array`, `String`
+1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions) | Normal  | `Array`, `String`
+1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order) | Hard  | `String`, `Suffix Array`
+1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible) | Normal  | `Breadth-first Search`, `Graph`
+1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | Normal  | `Graph`
+1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | Easy  | `Array`, `Hash Table`
+1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray) | Hard  | `Array`, `Binary Search`, `Segment Tree`
+1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring) | Normal  | `String`
+1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) | Normal  | `Dynamic Programming`
+1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy  | `Math`
+1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition) | Hard  | `Dynamic Programming`, `Rolling Hash`
 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game) | Normal  | `Tree`, `Depth-first Search`
-1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag) | Easy  | `Array`
+1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag) | Normal  | `Array`
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Normal  | `Dynamic Programming`
 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii) | Normal  | `Dynamic Programming`
 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square) | Normal  | `Dynamic Programming`
@@ -284,7 +325,7 @@ Total Questions Available           | 884   | 93
  940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii) | Hard  | `Dynamic Programming`
  939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle) | Normal  | `Hash Table`
  938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy  | `Tree`, `Recursion`
- 937 | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files) | Easy  | `String`
+ 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files) | Easy  | `String`
  936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence) | Hard  | `String`, `Greedy`
  935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer) | Normal  | `Dynamic Programming`
  934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) | Normal  | `Depth-first Search`, `Breadth-first Search`
@@ -314,7 +355,6 @@ Total Questions Available           | 884   | 93
  908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy  | `Math`
  907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | Normal  | `Array`, `Stack`
  906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes) | Hard  | `Math`
- 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy  | `Array`
  904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | Normal  | `Two Pointers`
  903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence) | Hard  | `Divide and Conquer`, `Dynamic Programming`
  902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set) | Hard  | `Math`, `Dynamic Programming`
@@ -551,7 +591,7 @@ Total Questions Available           | 884   | 93
  637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Easy  | `Tree`
  636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) | Normal  | `Stack`
  633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) | Easy  | `Math`
- 632 | [Smallest Range](https://leetcode.com/problems/smallest-range) | Hard  | `Hash Table`, `Two Pointers`, `String`
+ 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists) | Hard  | `Hash Table`, `Two Pointers`, `String`
  630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii) | Hard  | `Greedy`
  629 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array) | Hard  | `Dynamic Programming`
  628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy  | `Array`, `Math`
@@ -690,7 +730,7 @@ Total Questions Available           | 884   | 93
  403 | [Frog Jump](https://leetcode.com/problems/frog-jump) | Hard  | `Dynamic Programming`
  402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | Normal  | `Stack`, `Greedy`
  401 | [Binary Watch](https://leetcode.com/problems/binary-watch) | Easy  | `Backtracking`, `Bit Manipulation`
- 400 | [Nth Digit](https://leetcode.com/problems/nth-digit) | Easy  | `Math`
+ 400 | [Nth Digit](https://leetcode.com/problems/nth-digit) | Normal  | `Math`
  399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | Normal  | `Union Find`, `Graph`
  398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index) | Normal  | `Reservoir Sampling`
  397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement) | Normal  | `Math`, `Bit Manipulation`
@@ -698,7 +738,7 @@ Total Questions Available           | 884   | 93
  395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters) | Normal  | 
  394 | [Decode String](https://leetcode.com/problems/decode-string) | Normal  | `Stack`, `Depth-first Search`
  393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) | Normal  | `Bit Manipulation`
- 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Normal  | `Binary Search`, `Dynamic Programming`, `Greedy`
+ 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy  | `Binary Search`, `Dynamic Programming`, `Greedy`
  391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle) | Hard  | `Line Sweep`
  390 | [Elimination Game](https://leetcode.com/problems/elimination-game) | Normal  | 
  389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy  | `Hash Table`, `Bit Manipulation`
