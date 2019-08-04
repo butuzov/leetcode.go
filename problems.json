@@ -1,4 +1,96 @@
 {
+    "longest-chunked-palindrome-decomposition": {
+        "Id": 1147,
+        "Title": "Longest Chunked Palindrome Decomposition",
+        "Slug": "longest-chunked-palindrome-decomposition",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "longest-common-subsequence": {
+        "Id": 1143,
+        "Title": "Longest Common Subsequence",
+        "Slug": "longest-common-subsequence",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "snapshot-array": {
+        "Id": 1146,
+        "Title": "Snapshot Array",
+        "Slug": "snapshot-array",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "binary-tree-coloring-game": {
+        "Id": 1145,
+        "Title": "Binary Tree Coloring Game",
+        "Slug": "binary-tree-coloring-game",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
+    },
+    "decrease-elements-to-make-array-zigzag": {
+        "Id": 1144,
+        "Title": "Decrease Elements To Make Array Zigzag",
+        "Slug": "decrease-elements-to-make-array-zigzag",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "stone-game-ii": {
+        "Id": 1140,
+        "Title": "Stone Game II",
+        "Slug": "stone-game-ii",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "largest-1-bordered-square": {
+        "Id": 1139,
+        "Title": "Largest 1-Bordered Square",
+        "Slug": "largest-1-bordered-square",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "alphabet-board-path": {
+        "Id": 1138,
+        "Title": "Alphabet Board Path",
+        "Slug": "alphabet-board-path",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "String"
+        ]
+    },
+    "n-th-tribonacci-number": {
+        "Id": 1137,
+        "Title": "N-th Tribonacci Number",
+        "Slug": "n-th-tribonacci-number",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Recursion"
+        ]
+    },
     "maximum-of-absolute-value-expression": {
         "Id": 1131,
         "Title": "Maximum of Absolute Value Expression",
@@ -223,7 +315,7 @@
     },
     "shortest-common-supersequence": {
         "Id": 1092,
-        "Title": "Shortest Common Supersequence",
+        "Title": "Shortest Common Supersequence ",
         "Slug": "shortest-common-supersequence",
         "Paid": false,
         "Level": 3,
@@ -455,7 +547,7 @@
         "Title": "Robot Bounded In Circle",
         "Slug": "robot-bounded-in-circle",
         "Paid": false,
-        "Level": 1,
+        "Level": 2,
         "Topics": [
             "Math"
         ]
@@ -6651,7 +6743,7 @@
         "Title": "Bulls and Cows",
         "Slug": "bulls-and-cows",
         "Paid": false,
-        "Level": 2,
+        "Level": 1,
         "Topics": [
             "Hash Table"
         ]
