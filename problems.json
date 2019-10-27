@@ -1,4 +1,94 @@
 {
+    "airplane-seat-assignment-probability": {
+        "Id": 1227,
+        "Title": "Airplane Seat Assignment Probability",
+        "Slug": "airplane-seat-assignment-probability",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Dynamic Programming",
+            "Brainteaser"
+        ]
+    },
+    "tiling-a-rectangle-with-the-fewest-squares": {
+        "Id": 1240,
+        "Title": "Tiling a Rectangle with the Fewest Squares",
+        "Slug": "tiling-a-rectangle-with-the-fewest-squares",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming",
+            "Backtracking"
+        ]
+    },
+    "maximum-length-of-a-concatenated-string-with-unique-characters": {
+        "Id": 1239,
+        "Title": "Maximum Length of a Concatenated String with Unique Characters",
+        "Slug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Backtracking",
+            "Bit Manipulation"
+        ]
+    },
+    "circular-permutation-in-binary-representation": {
+        "Id": 1238,
+        "Title": "Circular Permutation in Binary Representation",
+        "Slug": "circular-permutation-in-binary-representation",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "maximum-profit-in-job-scheduling": {
+        "Id": 1235,
+        "Title": "Maximum Profit in Job Scheduling",
+        "Slug": "maximum-profit-in-job-scheduling",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Binary Search",
+            "Dynamic Programming",
+            "Sort"
+        ]
+    },
+    "replace-the-substring-for-balanced-string": {
+        "Id": 1234,
+        "Title": "Replace the Substring for Balanced String",
+        "Slug": "replace-the-substring-for-balanced-string",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Two Pointers",
+            "String"
+        ]
+    },
+    "remove-sub-folders-from-the-filesystem": {
+        "Id": 1233,
+        "Title": "Remove Sub-Folders from the Filesystem",
+        "Slug": "remove-sub-folders-from-the-filesystem",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "String"
+        ]
+    },
+    "check-if-it-is-a-straight-line": {
+        "Id": 1232,
+        "Title": "Check If It Is a Straight Line",
+        "Slug": "check-if-it-is-a-straight-line",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Math",
+            "Geometry"
+        ]
+    },
     "maximum-equal-frequency": {
         "Id": 1224,
         "Title": "Maximum Equal Frequency",
@@ -3370,7 +3460,7 @@
         "Title": "Design Linked List",
         "Slug": "design-linked-list",
         "Paid": false,
-        "Level": 1,
+        "Level": 2,
         "Topics": [
             "Linked List",
             "Design"

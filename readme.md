@@ -12,16 +12,16 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Progress
 
-▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ## Stats
 
 Dificulty                           | Total | Done
 ------------------------------------|-------|------
-Easy                                | 266   | 41
-Normal                              | 464   | 45
-Hard                                | 194   | 9
-Total Questions Available           | 924   | 95
+Easy                                | 266   | 43
+Normal                              | 470   | 47
+Hard                                | 196   | 9
+Total Questions Available           | 932   | 99
 
  
  
@@ -45,7 +45,9 @@ Total Questions Available           | 924   | 95
 
  ID  | Problem               |  Topics
 -----|-----------------------|-------------
+1209 | [Remove All Adjacent Duplicates in String II](Stack/1209-Remove-All-Adjacent-Duplicates-in-String-II) | `Stack`
 1146 | [Snapshot Array](Array/1146-Snapshot-Array) | `Array`
+1131 | [Maximum of Absolute Value Expression](Math/1131-Maximum-of-Absolute-Value-Expression) | `Math`, `Bit Manipulation`
 1109 | [Corporate Flight Bookings](Array/1109-Corporate-Flight-Bookings) | `Array`, `Math`
 1094 | [Car Pooling](Greedy/1094-Car-Pooling) | `Greedy`
 1093 | [Statistics from a Large Sample](Math/1093-Statistics-from-a-Large-Sample) | `Math`, `Two Pointers`
@@ -96,9 +98,11 @@ Total Questions Available           | 924   | 95
 
  ID  | Problem               | Topics
 -----|-----------------------|-------------
+1232 | [Check If It Is a Straight Line](Math/1232-Check-If-It-Is-a-Straight-Line) | `Array`, `Math`, `Geometry`
 1128 | [Number of Equivalent Domino Pairs](Array/1128-Number-of-Equivalent-Domino-Pairs) | `Array`
 1122 | [Relative Sort Array](Array/1122-Relative-Sort-Array) | `Array`, `Sort`
 1108 | [Defanging an IP Address](String/1108-Defanging-an-IP-Address) | `String`
+1047 | [Remove All Adjacent Duplicates In String](Stack/1047-Remove-All-Adjacent-Duplicates-In-String) | `Stack`
 1030 | [Matrix Cells in Distance Order](Sort/1030-Matrix-Cells-in-Distance-Order) | `Sort`
 1009 | [Complement of Base 10 Integer](Math/1009-Complement-of-Base-10-Integer) | `Math`
  961 | [N-Repeated Element in Size 2N Array](Hash_Table/0961-N-Repeated-Element-in-Size-2N-Array) | `Hash Table`
@@ -143,6 +147,13 @@ Total Questions Available           | 924   | 95
 
  ID  | Problem @ LeetCode    | Dificulty  | Topics
 -----|-----------------------|------------|--------
+1240 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares) | Hard  | `Dynamic Programming`, `Backtracking`
+1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | Normal  | `Backtracking`, `Bit Manipulation`
+1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation) | Normal  | `Math`
+1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | Hard  | `Binary Search`, `Dynamic Programming`, `Sort`
+1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string) | Normal  | `Two Pointers`, `String`
+1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | Normal  | `Array`, `String`
+1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability) | Normal  | `Math`, `Dynamic Programming`, `Brainteaser`
 1224 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency) | Hard  | `Hash Table`
 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation) | Normal  | `Dynamic Programming`
 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king) | Normal  | `Array`
@@ -152,7 +163,6 @@ Total Questions Available           | 924   | 95
 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference) | Normal  | `Math`, `Dynamic Programming`
 1217 | [Play with Chips](https://leetcode.com/problems/play-with-chips) | Easy  | `Array`, `Math`, `Greedy`
 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations) | Hard  | `Breadth-first Search`
-1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii) | Normal  | `Stack`
 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | Normal  | `Array`, `Sliding Window`
 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy  | `Hash Table`
 1206 | [Design Skiplist](https://leetcode.com/problems/design-skiplist) | Hard  | `Design`
@@ -191,7 +201,6 @@ Total Questions Available           | 924   | 95
 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square) | Normal  | `Dynamic Programming`
 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path) | Normal  | `Hash Table`, `String`
 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy  | `Recursion`
-1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression) | Normal  | `Math`, `Bit Manipulation`
 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values) | Normal  | `Dynamic Programming`, `Stack`, `Tree`
 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors) | Normal  | `Breadth-first Search`, `Graph`
 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team) | Hard  | `Dynamic Programming`, `Bit Manipulation`
@@ -223,7 +232,6 @@ Total Questions Available           | 924   | 95
 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy  | `Array`
 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii) | Normal  | `Dynamic Programming`
 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | Normal  | `Hash Table`, `Dynamic Programming`
-1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | Easy  | `Stack`
 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy  | `Heap`, `Greedy`
 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring) | Hard  | `Hash Table`, `Binary Search`
 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum) | Normal  | `Graph`
@@ -532,7 +540,7 @@ Total Questions Available           | 924   | 95
  712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | Normal  | `Dynamic Programming`
  710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist) | Hard  | `Hash Table`, `Binary Search`, `Sort`, `Random`
  709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy  | `String`
- 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list) | Easy  | `Linked List`, `Design`
+ 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list) | Normal  | `Linked List`, `Design`
  706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy  | `Hash Table`, `Design`
  705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy  | `Hash Table`, `Design`
  704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy  | `Binary Search`
