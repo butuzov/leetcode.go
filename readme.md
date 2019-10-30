@@ -18,10 +18,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Dificulty                           | Total | Done
 ------------------------------------|-------|------
-Easy                                | 266   | 43
-Normal                              | 470   | 47
-Hard                                | 196   | 9
-Total Questions Available           | 932   | 99
+Easy                                | 266   | 45
+Normal                              | 470   | 48
+Hard                                | 196   | 10
+Total Questions Available           | 932   | 103
 
  
  
@@ -32,6 +32,7 @@ Total Questions Available           | 932   | 99
 -----|-----------------------|-------------
  780 | [Reaching Points](Math/0780-Reaching-Points) | `Math`
  479 | [Largest Palindrome Product](Math/0479-Largest-Palindrome-Product) | 
+ 239 | [Sliding Window Maximum](Heap/0239-Sliding-Window-Maximum) | `Heap`, `Sliding Window`
  214 | [Shortest Palindrome](String/0214-Shortest-Palindrome) | `String`
  145 | [Binary Tree Postorder Traversal](Tree/0145-Binary-Tree-Postorder-Traversal) | `Stack`, `Tree`
   97 | [Interleaving String](Dynamic_Programming/0097-Interleaving-String) | `String`, `Dynamic Programming`
@@ -45,6 +46,7 @@ Total Questions Available           | 932   | 99
 
  ID  | Problem               |  Topics
 -----|-----------------------|-------------
+1233 | [Remove Sub-Folders from the Filesystem](String/1233-Remove-Sub-Folders-from-the-Filesystem) | `Array`, `String`
 1209 | [Remove All Adjacent Duplicates in String II](Stack/1209-Remove-All-Adjacent-Duplicates-in-String-II) | `Stack`
 1146 | [Snapshot Array](Array/1146-Snapshot-Array) | `Array`
 1131 | [Maximum of Absolute Value Expression](Math/1131-Maximum-of-Absolute-Value-Expression) | `Math`, `Bit Manipulation`
@@ -108,6 +110,7 @@ Total Questions Available           | 932   | 99
  961 | [N-Repeated Element in Size 2N Array](Hash_Table/0961-N-Repeated-Element-in-Size-2N-Array) | `Hash Table`
  917 | [Reverse Only Letters](String/0917-Reverse-Only-Letters) | `String`
  905 | [Sort Array By Parity](Array/0905-Sort-Array-By-Parity) | `Array`
+ 766 | [Toeplitz Matrix](Array/0766-Toeplitz-Matrix) | `Array`
  674 | [Longest Continuous Increasing Subsequence](Array/0674-Longest-Continuous-Increasing-Subsequence) | `Array`
  520 | [Detect Capital](String/0520-Detect-Capital) | `String`
  509 | [Fibonacci Number](Math/0509-Fibonacci-Number) | `Array`
@@ -133,6 +136,7 @@ Total Questions Available           | 932   | 99
  189 | [Rotate Array](Array/0189-Rotate-Array) | `Array`
  171 | [Excel Sheet Column Number](Math/0171-Excel-Sheet-Column-Number) | `Math`
  168 | [Excel Sheet Column Title](Math/0168-Excel-Sheet-Column-Title) | `Math`
+ 125 | [Valid Palindrome](String/0125-Valid-Palindrome) | `Two Pointers`, `String`
   83 | [Remove Duplicates from Sorted List](Linked_List/0083-Remove-Duplicates-from-Sorted-List) | `Linked List`
   69 | [Sqrt(x)](Binary_Search/0069-Sqrt(x)) | `Math`, `Binary Search`
   26 | [Remove Duplicates from Sorted Array](Array/0026-Remove-Duplicates-from-Sorted-Array) | `Array`, `Two Pointers`
@@ -152,7 +156,6 @@ Total Questions Available           | 932   | 99
 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation) | Normal  | `Math`
 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | Hard  | `Binary Search`, `Dynamic Programming`, `Sort`
 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string) | Normal  | `Two Pointers`, `String`
-1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | Normal  | `Array`, `String`
 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability) | Normal  | `Math`, `Dynamic Programming`, `Brainteaser`
 1224 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency) | Hard  | `Hash Table`
 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation) | Normal  | `Dynamic Programming`
@@ -495,7 +498,6 @@ Total Questions Available           | 932   | 99
  769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | Normal  | `Array`
  768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii) | Hard  | `Array`
  767 | [Reorganize String](https://leetcode.com/problems/reorganize-string) | Normal  | `String`, `Heap`, `Greedy`, `Sort`
- 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy  | `Array`
  765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands) | Hard  | `Greedy`, `Union Find`, `Graph`
  764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign) | Normal  | `Dynamic Programming`
  763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | Normal  | `Two Pointers`, `Greedy`
@@ -819,7 +821,6 @@ Total Questions Available           | 932   | 99
  242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy  | `Hash Table`, `Sort`
  241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | Normal  | `Divide and Conquer`
  240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | Normal  | `Binary Search`, `Divide and Conquer`
- 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard  | `Heap`, `Sliding Window`
  238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Normal  | `Array`
  237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy  | `Linked List`
  236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Normal  | `Tree`
@@ -891,7 +892,6 @@ Total Questions Available           | 932   | 99
  128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Hard  | `Array`, `Union Find`
  127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Normal  | `Breadth-first Search`
  126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | Hard  | `Array`, `String`, `Backtracking`, `Breadth-first Search`
- 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy  | `Two Pointers`, `String`
  124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Hard  | `Tree`, `Depth-first Search`
  123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | Hard  | `Array`, `Dynamic Programming`
  122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Easy  | `Array`, `Greedy`
