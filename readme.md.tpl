@@ -16,15 +16,15 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Stats
 
-Dificulty                           | Total | Done
-------------------------------------|-------|------
+Dificulty                           | Total                     | Done
+------------------------------------|---------------------------|------
 Easy                                | {{index .Total "Easy"}}   | {{index .Stat "Easy"}}
-Normal                              | {{index .Total "Normal"}}   | {{index .Stat "Normal"}}
+Normal                              | {{index .Total "Normal"}} | {{index .Stat "Normal"}}
 Hard                                | {{index .Total "Hard"}}   | {{index .Stat "Hard"}}
-Total Questions Available           | {{index .Total "All"}}   | {{index .Stat "All"}}
+Total Questions Available           | {{index .Total "All"}}    | {{index .Stat "All"}}
 
- 
- 
+
+
 
 ## Solved  ☆☆☆ Hard Problems
 

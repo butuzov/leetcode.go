@@ -1,4 +1,46 @@
 {
+    "check-if-it-is-a-good-array": {
+        "Id": 1250,
+        "Title": "Check If It Is a Good Array",
+        "Slug": "check-if-it-is-a-good-array",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "minimum-remove-to-make-valid-parentheses": {
+        "Id": 1249,
+        "Title": "Minimum Remove to Make Valid Parentheses",
+        "Slug": "minimum-remove-to-make-valid-parentheses",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Stack"
+        ]
+    },
+    "count-number-of-nice-subarrays": {
+        "Id": 1248,
+        "Title": "Count Number of Nice Subarrays",
+        "Slug": "count-number-of-nice-subarrays",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Two Pointers"
+        ]
+    },
+    "minimum-swaps-to-make-strings-equal": {
+        "Id": 1247,
+        "Title": "Minimum Swaps to Make Strings Equal",
+        "Slug": "minimum-swaps-to-make-strings-equal",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Greedy"
+        ]
+    },
     "airplane-seat-assignment-probability": {
         "Id": 1227,
         "Title": "Airplane Seat Assignment Probability",

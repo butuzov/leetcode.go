@@ -16,15 +16,15 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Stats
 
-Dificulty                           | Total | Done
-------------------------------------|-------|------
+Dificulty                           | Total                     | Done
+------------------------------------|---------------------------|------
 Easy                                | 266   | 45
-Normal                              | 470   | 48
-Hard                                | 196   | 10
-Total Questions Available           | 932   | 103
+Normal                              | 473 | 51
+Hard                                | 197   | 10
+Total Questions Available           | 936    | 106
 
- 
- 
+
+
 
 ## Solved  ☆☆☆ Hard Problems
 
@@ -54,6 +54,7 @@ Total Questions Available           | 932   | 103
 1094 | [Car Pooling](Greedy/1094-Car-Pooling) | `Greedy`
 1093 | [Statistics from a Large Sample](Math/1093-Statistics-from-a-Large-Sample) | `Math`, `Two Pointers`
 1014 | [Best Sightseeing Pair](Array/1014-Best-Sightseeing-Pair) | `Array`
+1008 | [Construct Binary Search Tree from Preorder Traversal](Tree/1008-Construct-Binary-Search-Tree-from-Preorder-Traversal) | `Tree`
  990 | [Satisfiability of Equality Equations](Union_Find/0990-Satisfiability-of-Equality-Equations) | `Union Find`, `Graph`
  973 | [K Closest Points to Origin](Sort/0973-K-Closest-Points-to-Origin) | `Divide and Conquer`, `Heap`, `Sort`
  957 | [Prison Cells After N Days](Hash_Table/0957-Prison-Cells-After-N-Days) | `Hash Table`
@@ -77,6 +78,7 @@ Total Questions Available           | 932   | 103
   98 | [Validate Binary Search Tree](Tree/0098-Validate-Binary-Search-Tree) | `Tree`, `Depth-first Search`
   94 | [Binary Tree Inorder Traversal](Tree/0094-Binary-Tree-Inorder-Traversal) | `Hash Table`, `Stack`, `Tree`
   78 | [Subsets](Array/0078-Subsets) | `Array`, `Backtracking`, `Bit Manipulation`
+  74 | [Search a 2D Matrix](Binary_Search/0074-Search-a-2D-Matrix) | `Array`, `Binary Search`
   61 | [Rotate List](Linked_List/0061-Rotate-List) | `Linked List`, `Two Pointers`
   59 | [Spiral Matrix II](Array/0059-Spiral-Matrix-II) | `Array`
   56 | [Merge Intervals](Sort/0056-Merge-Intervals) | `Array`, `Sort`
@@ -85,6 +87,7 @@ Total Questions Available           | 932   | 103
   47 | [Permutations II](Backtracking/0047-Permutations-II) | `Backtracking`
   46 | [Permutations](Backtracking/0046-Permutations) | `Backtracking`
   34 | [Find First and Last Position of Element in Sorted Array](Binary_Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | `Array`, `Binary Search`
+  33 | [Search in Rotated Sorted Array](Binary_Search/0033-Search-in-Rotated-Sorted-Array) | `Array`, `Binary Search`
   31 | [Next Permutation](Array/0031-Next-Permutation) | `Array`
   15 | [3Sum](Array/0015-3Sum) | `Array`, `Two Pointers`
   12 | [Integer to Roman](String/0012-Integer-to-Roman) | `Math`, `String`
@@ -151,6 +154,10 @@ Total Questions Available           | 932   | 103
 
  ID  | Problem @ LeetCode    | Dificulty  | Topics
 -----|-----------------------|------------|--------
+1250 | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array) | Hard  | `Math`
+1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | Normal  | `String`, `Stack`
+1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | Normal  | `Two Pointers`
+1247 | [Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal) | Normal  | `String`, `Greedy`
 1240 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares) | Hard  | `Dynamic Programming`, `Backtracking`
 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | Normal  | `Backtracking`, `Bit Manipulation`
 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation) | Normal  | `Math`
@@ -269,7 +276,6 @@ Total Questions Available           | 932   | 103
 1012 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits) | Hard  | `Math`, `Dynamic Programming`
 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Normal  | `Array`, `Binary Search`
 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | Easy  | `Array`
-1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | Normal  | `Tree`
 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | Normal  | `Array`, `Greedy`
 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial) | Normal  | `Math`
 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | Easy  | `Greedy`
@@ -934,7 +940,6 @@ Total Questions Available           | 932   | 103
   77 | [Combinations](https://leetcode.com/problems/combinations) | Normal  | `Backtracking`
   76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard  | `Hash Table`, `Two Pointers`, `String`, `Sliding Window`
   75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Normal  | `Array`, `Two Pointers`, `Sort`
-  74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Normal  | `Array`, `Binary Search`
   73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Normal  | `Array`
   72 | [Edit Distance](https://leetcode.com/problems/edit-distance) | Hard  | `String`, `Dynamic Programming`
   71 | [Simplify Path](https://leetcode.com/problems/simplify-path) | Normal  | `String`, `Stack`
@@ -964,7 +969,6 @@ Total Questions Available           | 932   | 103
   37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | Hard  | `Hash Table`, `Backtracking`
   36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Normal  | `Hash Table`
   35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy  | `Array`, `Binary Search`
-  33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Normal  | `Array`, `Binary Search`
   32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | Hard  | `String`, `Dynamic Programming`
   30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | Hard  | `Hash Table`, `Two Pointers`, `String`
   29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | Normal  | `Math`, `Binary Search`
