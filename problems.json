@@ -1,4 +1,616 @@
 {
+    "maximum-students-taking-exam": {
+        "Id": 1349,
+        "Title": "Maximum Students Taking Exam",
+        "Slug": "maximum-students-taking-exam",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "tweet-counts-per-frequency": {
+        "Id": 1348,
+        "Title": "Tweet Counts Per Frequency",
+        "Slug": "tweet-counts-per-frequency",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Design"
+        ]
+    },
+    "minimum-number-of-steps-to-make-two-strings-anagram": {
+        "Id": 1347,
+        "Title": "Minimum Number of Steps to Make Two Strings Anagram",
+        "Slug": "minimum-number-of-steps-to-make-two-strings-anagram",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
+    },
+    "check-if-n-and-its-double-exist": {
+        "Id": 1346,
+        "Title": "Check If N and Its Double Exist",
+        "Slug": "check-if-n-and-its-double-exist",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "jump-game-v": {
+        "Id": 1340,
+        "Title": "Jump Game V",
+        "Slug": "jump-game-v",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "maximum-product-of-splitted-binary-tree": {
+        "Id": 1339,
+        "Title": "Maximum Product of Splitted Binary Tree",
+        "Slug": "maximum-product-of-splitted-binary-tree",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Tree"
+        ]
+    },
+    "reduce-array-size-to-the-half": {
+        "Id": 1338,
+        "Title": "Reduce Array Size to The Half",
+        "Slug": "reduce-array-size-to-the-half",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Greedy"
+        ]
+    },
+    "the-k-weakest-rows-in-a-matrix": {
+        "Id": 1337,
+        "Title": "The K Weakest Rows in a Matrix",
+        "Slug": "the-k-weakest-rows-in-a-matrix",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
+    },
+    "minimum-difficulty-of-a-job-schedule": {
+        "Id": 1335,
+        "Title": "Minimum Difficulty of a Job Schedule",
+        "Slug": "minimum-difficulty-of-a-job-schedule",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance": {
+        "Id": 1334,
+        "Title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+        "Slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Graph"
+        ]
+    },
+    "filter-restaurants-by-vegan-friendly-price-and-distance": {
+        "Id": 1333,
+        "Title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
+        "Slug": "filter-restaurants-by-vegan-friendly-price-and-distance",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Sort"
+        ]
+    },
+    "remove-palindromic-subsequences": {
+        "Id": 1332,
+        "Title": "Remove Palindromic Subsequences",
+        "Slug": "remove-palindromic-subsequences",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
+    },
+    "minimum-number-of-taps-to-open-to-water-a-garden": {
+        "Id": 1326,
+        "Title": "Minimum Number of Taps to Open to Water a Garden",
+        "Slug": "minimum-number-of-taps-to-open-to-water-a-garden",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming",
+            "Greedy"
+        ]
+    },
+    "delete-leaves-with-a-given-value": {
+        "Id": 1325,
+        "Title": "Delete Leaves With a Given Value",
+        "Slug": "delete-leaves-with-a-given-value",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Tree"
+        ]
+    },
+    "print-words-vertically": {
+        "Id": 1324,
+        "Title": "Print Words Vertically",
+        "Slug": "print-words-vertically",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
+    },
+    "maximum-69-number": {
+        "Id": 1323,
+        "Title": "Maximum 69 Number",
+        "Slug": "maximum-69-number",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "jump-game-iv": {
+        "Id": 1345,
+        "Title": "Jump Game IV",
+        "Slug": "jump-game-iv",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Breadth-first Search"
+        ]
+    },
+    "angle-between-hands-of-a-clock": {
+        "Id": 1344,
+        "Title": "Angle Between Hands of a Clock",
+        "Slug": "angle-between-hands-of-a-clock",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold": {
+        "Id": 1343,
+        "Title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+        "Slug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "number-of-steps-to-reduce-a-number-to-zero": {
+        "Id": 1342,
+        "Title": "Number of Steps to Reduce a Number to Zero",
+        "Slug": "number-of-steps-to-reduce-a-number-to-zero",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Bit Manipulation"
+        ]
+    },
+    "minimum-distance-to-type-a-word-using-two-fingers": {
+        "Id": 1320,
+        "Title": "Minimum Distance to Type a Word Using Two Fingers",
+        "Slug": "minimum-distance-to-type-a-word-using-two-fingers",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "number-of-operations-to-make-network-connected": {
+        "Id": 1319,
+        "Title": "Number of Operations to Make Network Connected",
+        "Slug": "number-of-operations-to-make-network-connected",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search",
+            "Breadth-first Search",
+            "Union Find"
+        ]
+    },
+    "minimum-flips-to-make-a-or-b-equal-to-c": {
+        "Id": 1318,
+        "Title": "Minimum Flips to Make a OR b Equal to c",
+        "Slug": "minimum-flips-to-make-a-or-b-equal-to-c",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Bit Manipulation"
+        ]
+    },
+    "convert-integer-to-the-sum-of-two-no-zero-integers": {
+        "Id": 1317,
+        "Title": "Convert Integer to the Sum of Two No-Zero Integers",
+        "Slug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "minimum-insertion-steps-to-make-a-string-palindrome": {
+        "Id": 1312,
+        "Title": "Minimum Insertion Steps to Make a String Palindrome",
+        "Slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "get-watched-videos-by-your-friends": {
+        "Id": 1311,
+        "Title": "Get Watched Videos by Your Friends",
+        "Slug": "get-watched-videos-by-your-friends",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "String",
+            "Breadth-first Search"
+        ]
+    },
+    "xor-queries-of-a-subarray": {
+        "Id": 1310,
+        "Title": "XOR Queries of a Subarray",
+        "Slug": "xor-queries-of-a-subarray",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Bit Manipulation"
+        ]
+    },
+    "decrypt-string-from-alphabet-to-integer-mapping": {
+        "Id": 1309,
+        "Title": "Decrypt String from Alphabet to Integer Mapping",
+        "Slug": "decrypt-string-from-alphabet-to-integer-mapping",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
+    },
+    "verbal-arithmetic-puzzle": {
+        "Id": 1307,
+        "Title": "Verbal Arithmetic Puzzle",
+        "Slug": "verbal-arithmetic-puzzle",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Math",
+            "Backtracking"
+        ]
+    },
+    "jump-game-iii": {
+        "Id": 1306,
+        "Title": "Jump Game III",
+        "Slug": "jump-game-iii",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Breadth-first Search",
+            "Graph"
+        ]
+    },
+    "all-elements-in-two-binary-search-trees": {
+        "Id": 1305,
+        "Title": "All Elements in Two Binary Search Trees",
+        "Slug": "all-elements-in-two-binary-search-trees",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Sort",
+            "Tree"
+        ]
+    },
+    "find-n-unique-integers-sum-up-to-zero": {
+        "Id": 1304,
+        "Title": "Find N Unique Integers Sum up to Zero",
+        "Slug": "find-n-unique-integers-sum-up-to-zero",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "maximum-candies-you-can-get-from-boxes": {
+        "Id": 1298,
+        "Title": "Maximum Candies You Can Get from Boxes",
+        "Slug": "maximum-candies-you-can-get-from-boxes",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Breadth-first Search"
+        ]
+    },
+    "maximum-number-of-occurrences-of-a-substring": {
+        "Id": 1297,
+        "Title": "Maximum Number of Occurrences of a Substring",
+        "Slug": "maximum-number-of-occurrences-of-a-substring",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Bit Manipulation"
+        ]
+    },
+    "divide-array-in-sets-of-k-consecutive-numbers": {
+        "Id": 1296,
+        "Title": "Divide Array in Sets of K Consecutive Numbers",
+        "Slug": "divide-array-in-sets-of-k-consecutive-numbers",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Greedy"
+        ]
+    },
+    "find-numbers-with-even-number-of-digits": {
+        "Id": 1295,
+        "Title": "Find Numbers with Even Number of Digits",
+        "Slug": "find-numbers-with-even-number-of-digits",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "shortest-path-in-a-grid-with-obstacles-elimination": {
+        "Id": 1293,
+        "Title": "Shortest Path in a Grid with Obstacles Elimination",
+        "Slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Breadth-first Search"
+        ]
+    },
+    "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold": {
+        "Id": 1292,
+        "Title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+        "Slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
+    },
+    "convert-binary-number-in-a-linked-list-to-integer": {
+        "Id": 1290,
+        "Title": "Convert Binary Number in a Linked List to Integer",
+        "Slug": "convert-binary-number-in-a-linked-list-to-integer",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Linked List",
+            "Bit Manipulation"
+        ]
+    },
+    "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix": {
+        "Id": 1284,
+        "Title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "Slug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Breadth-first Search"
+        ]
+    },
+    "find-the-smallest-divisor-given-a-threshold": {
+        "Id": 1283,
+        "Title": "Find the Smallest Divisor Given a Threshold",
+        "Slug": "find-the-smallest-divisor-given-a-threshold",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Binary Search"
+        ]
+    },
+    "group-the-people-given-the-group-size-they-belong-to": {
+        "Id": 1282,
+        "Title": "Group the People Given the Group Size They Belong To",
+        "Slug": "group-the-people-given-the-group-size-they-belong-to",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Greedy"
+        ]
+    },
+    "subtract-the-product-and-sum-of-digits-of-an-integer": {
+        "Id": 1281,
+        "Title": "Subtract the Product and Sum of Digits of an Integer",
+        "Slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Math"
+        ]
+    },
+    "palindrome-partitioning-iii": {
+        "Id": 1278,
+        "Title": "Palindrome Partitioning III",
+        "Slug": "palindrome-partitioning-iii",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "count-square-submatrices-with-all-ones": {
+        "Id": 1277,
+        "Title": "Count Square Submatrices with All Ones",
+        "Slug": "count-square-submatrices-with-all-ones",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Dynamic Programming"
+        ]
+    },
+    "number-of-burgers-with-no-waste-of-ingredients": {
+        "Id": 1276,
+        "Title": "Number of Burgers with No Waste of Ingredients",
+        "Slug": "number-of-burgers-with-no-waste-of-ingredients",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Greedy"
+        ]
+    },
+    "find-winner-on-a-tic-tac-toe-game": {
+        "Id": 1275,
+        "Title": "Find Winner on a Tic Tac Toe Game",
+        "Slug": "find-winner-on-a-tic-tac-toe-game",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "number-of-ways-to-stay-in-the-same-place-after-some-steps": {
+        "Id": 1269,
+        "Title": "Number of Ways to Stay in the Same Place After Some Steps",
+        "Slug": "number-of-ways-to-stay-in-the-same-place-after-some-steps",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "search-suggestions-system": {
+        "Id": 1268,
+        "Title": "Search Suggestions System",
+        "Slug": "search-suggestions-system",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
+    },
+    "count-servers-that-communicate": {
+        "Id": 1267,
+        "Title": "Count Servers that Communicate",
+        "Slug": "count-servers-that-communicate",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Graph"
+        ]
+    },
+    "minimum-time-visiting-all-points": {
+        "Id": 1266,
+        "Title": "Minimum Time Visiting All Points",
+        "Slug": "minimum-time-visiting-all-points",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Geometry"
+        ]
+    },
+    "minimum-moves-to-move-a-box-to-their-target-location": {
+        "Id": 1263,
+        "Title": "Minimum Moves to Move a Box to Their Target Location",
+        "Slug": "minimum-moves-to-move-a-box-to-their-target-location",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Breadth-first Search"
+        ]
+    },
+    "greatest-sum-divisible-by-three": {
+        "Id": 1262,
+        "Title": "Greatest Sum Divisible by Three",
+        "Slug": "greatest-sum-divisible-by-three",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "find-elements-in-a-contaminated-binary-tree": {
+        "Id": 1261,
+        "Title": "Find Elements in a Contaminated Binary Tree",
+        "Slug": "find-elements-in-a-contaminated-binary-tree",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Hash Table",
+            "Tree"
+        ]
+    },
+    "shift-2d-grid": {
+        "Id": 1260,
+        "Title": "Shift 2D Grid",
+        "Slug": "shift-2d-grid",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "maximum-score-words-formed-by-letters": {
+        "Id": 1255,
+        "Title": "Maximum Score Words Formed by Letters",
+        "Slug": "maximum-score-words-formed-by-letters",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Bit Manipulation"
+        ]
+    },
+    "number-of-closed-islands": {
+        "Id": 1254,
+        "Title": "Number of Closed Islands",
+        "Slug": "number-of-closed-islands",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search"
+        ]
+    },
+    "reconstruct-a-2-row-binary-matrix": {
+        "Id": 1253,
+        "Title": "Reconstruct a 2-Row Binary Matrix",
+        "Slug": "reconstruct-a-2-row-binary-matrix",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Math",
+            "Greedy"
+        ]
+    },
+    "cells-with-odd-values-in-a-matrix": {
+        "Id": 1252,
+        "Title": "Cells with Odd Values in a Matrix",
+        "Slug": "cells-with-odd-values-in-a-matrix",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
     "check-if-it-is-a-good-array": {
         "Id": 1250,
         "Title": "Check If It Is a Good Array",
@@ -507,6 +1119,59 @@
             "Math"
         ]
     },
+    "rank-transform-of-an-array": {
+        "Id": 1331,
+        "Title": "Rank Transform of an Array",
+        "Slug": "rank-transform-of-an-array",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "reverse-subarray-to-maximize-array-value": {
+        "Id": 1330,
+        "Title": "Reverse Subarray To Maximize Array Value",
+        "Slug": "reverse-subarray-to-maximize-array-value",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Array",
+            "Math"
+        ]
+    },
+    "deepest-leaves-sum": {
+        "Id": 1302,
+        "Title": "Deepest Leaves Sum",
+        "Slug": "deepest-leaves-sum",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
+    },
+    "sort-the-matrix-diagonally": {
+        "Id": 1329,
+        "Title": "Sort the Matrix Diagonally",
+        "Slug": "sort-the-matrix-diagonally",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Sort"
+        ]
+    },
+    "break-a-palindrome": {
+        "Id": 1328,
+        "Title": "Break a Palindrome",
+        "Slug": "break-a-palindrome",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
+    },
     "longest-chunked-palindrome-decomposition": {
         "Id": 1147,
         "Title": "Longest Chunked Palindrome Decomposition",
@@ -559,6 +1224,48 @@
             "Array"
         ]
     },
+    "distinct-echo-substrings": {
+        "Id": 1316,
+        "Title": "Distinct Echo Substrings",
+        "Slug": "distinct-echo-substrings",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "String",
+            "Rolling Hash"
+        ]
+    },
+    "sum-of-nodes-with-even-valued-grandparent": {
+        "Id": 1315,
+        "Title": "Sum of Nodes with Even-Valued Grandparent",
+        "Slug": "sum-of-nodes-with-even-valued-grandparent",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Tree",
+            "Depth-first Search"
+        ]
+    },
+    "matrix-block-sum": {
+        "Id": 1314,
+        "Title": "Matrix Block Sum",
+        "Slug": "matrix-block-sum",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "decompress-run-length-encoded-list": {
+        "Id": 1313,
+        "Title": "Decompress Run-Length Encoded List",
+        "Slug": "decompress-run-length-encoded-list",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
     "stone-game-ii": {
         "Id": 1140,
         "Title": "Stone Game II",
@@ -600,6 +1307,37 @@
             "Recursion"
         ]
     },
+    "number-of-paths-with-max-score": {
+        "Id": 1301,
+        "Title": "Number of Paths with Max Score",
+        "Slug": "number-of-paths-with-max-score",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "sum-of-mutated-array-closest-to-target": {
+        "Id": 1300,
+        "Title": "Sum of Mutated Array Closest to Target",
+        "Slug": "sum-of-mutated-array-closest-to-target",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
+    },
+    "replace-elements-with-greatest-element-on-right-side": {
+        "Id": 1299,
+        "Title": "Replace Elements with Greatest Element on Right Side",
+        "Slug": "replace-elements-with-greatest-element-on-right-side",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
     "maximum-of-absolute-value-expression": {
         "Id": 1131,
         "Title": "Maximum of Absolute Value Expression",
@@ -638,6 +1376,36 @@
         "Id": 1128,
         "Title": "Number of Equivalent Domino Pairs",
         "Slug": "number-of-equivalent-domino-pairs",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "minimum-falling-path-sum-ii": {
+        "Id": 1289,
+        "Title": "Minimum Falling Path Sum II",
+        "Slug": "minimum-falling-path-sum-ii",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "remove-covered-intervals": {
+        "Id": 1288,
+        "Title": "Remove Covered Intervals",
+        "Slug": "remove-covered-intervals",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Line Sweep"
+        ]
+    },
+    "element-appearing-more-than-25-in-sorted-array": {
+        "Id": 1287,
+        "Title": "Element Appearing More Than 25% In Sorted Array",
+        "Slug": "element-appearing-more-than-25-in-sorted-array",
         "Paid": false,
         "Level": 1,
         "Topics": [
@@ -685,6 +1453,27 @@
         "Topics": [
             "Array",
             "Sort"
+        ]
+    },
+    "sequential-digits": {
+        "Id": 1291,
+        "Title": "Sequential Digits",
+        "Slug": "sequential-digits",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Backtracking"
+        ]
+    },
+    "iterator-for-combination": {
+        "Id": 1286,
+        "Title": "Iterator for Combination",
+        "Slug": "iterator-for-combination",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Backtracking",
+            "Design"
         ]
     },
     "maximum-nesting-depth-of-two-valid-parentheses-strings": {
@@ -4153,7 +4942,7 @@
         "Title": "Reach a Number",
         "Slug": "reach-a-number",
         "Paid": false,
-        "Level": 1,
+        "Level": 2,
         "Topics": [
             "Math"
         ]

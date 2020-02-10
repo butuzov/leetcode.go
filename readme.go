@@ -13,12 +13,12 @@ import (
 
 // Problem describe json structure.
 type Problem struct {
-	ID       int    `json:"Id"`
-	Title    string `json:"Title"`
+	ID       int       `json:"Id"`
+	Title    string    `json:"Title"`
 	Slug     string
-	Level    int `json:"Level"`
+	Level    int       `json:"Level"`
 	LevelStr string
-	Topics   []string `json:"topics"`
+	Topics   []string  `json:"topics"`
 	Topic    string
 
 	Hard   bool
