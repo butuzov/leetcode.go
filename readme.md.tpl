@@ -16,12 +16,12 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Stats
 
-Dificulty                           | Total                     | Done
-------------------------------------|---------------------------|------
-Easy                                | {{index .Total "Easy"}}   | {{index .Stat "Easy"}}
-Normal                              | {{index .Total "Normal"}} | {{index .Stat "Normal"}}
-Hard                                | {{index .Total "Hard"}}   | {{index .Stat "Hard"}}
-Total Questions Available           | {{index .Total "All"}}    | {{index .Stat "All"}}
+Difficulty                          | Total   | Done
+------------------------------------|---------|------
+Easy                                | {{- index .Total "Easy" | printf " %7d " -}} | {{index .Stat "Easy" | printf  " %4d " }}
+Normal                              | {{- index .Total "Normal" | printf " %7d " -}} | {{index .Stat "Normal" | printf  " %4d " }}
+Hard                                | {{- index .Total "Hard" | printf " %7d " -}} | {{index .Stat "Hard" | printf  " %4d " }}
+Total Questions Available           | {{- index .Total "All" | printf  " %7d " -}} | {{index .Stat "All" | printf  " %4d " }}
 
 
 
@@ -53,9 +53,9 @@ Total Questions Available           | {{index .Total "All"}}    | {{index .Stat 
 {{end}}
 {{- end}}
 
-## Upsolved Problems
+## Unsolved Problems
 
- ID  | Problem @ LeetCode    | Dificulty  | Topics
+ ID  | Problem @ LeetCode    | Difficulty  | Topics
 -----|-----------------------|------------|--------
 {{ range .List }}
 {{- if not .Ready -}} {{ .ID | printf "%4d" }} | [{{ .Title }}](https://leetcode.com/problems/{{- .Slug -}}) | {{ .LevelStr }}  | {{ .Topic }}

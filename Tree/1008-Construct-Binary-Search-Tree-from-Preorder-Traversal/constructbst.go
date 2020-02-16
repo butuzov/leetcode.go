@@ -1,32 +1,27 @@
 package main
 
+import (
+	"github.com/butuzov/leetcode.go/pkg/binarytree"
+)
+
 // ******************************************
 // https://github.com/butuzov/leetcode.go
 // ******************************************
 
-/**
- * Definition for a binary tree node.
- * type TreeNode struct {
- *     Val int
- *     Left *TreeNode
- *     Right *TreeNode
- * }
- */
-
-func bstFromPreorder(preorder []int) *TreeNode {
+func bstFromPreorder(preorder []int) *binarytree.TreeNode {
 	if len(preorder) == 0 {
 		return nil
 	}
 
-	var tree = &TreeNode{Val: preorder[0]}
+	var tree = &binarytree.TreeNode{Val: preorder[0]}
 
 	if len(preorder) == 1 {
 		return tree
 	}
 
-	var insert func(*TreeNode, int)
+	var insert func(*binarytree.TreeNode, int)
 
-	insert = func(t *TreeNode, v int) {
+	insert = func(t *binarytree.TreeNode, v int) {
 
 		// left part
 		if t.Val > v {
@@ -35,7 +30,7 @@ func bstFromPreorder(preorder []int) *TreeNode {
 				return
 			}
 
-			t.Left = &TreeNode{Val: v}
+			t.Left = &binarytree.TreeNode{Val: v}
 			return
 		}
 
@@ -46,7 +41,7 @@ func bstFromPreorder(preorder []int) *TreeNode {
 			return
 		}
 
-		t.Right = &TreeNode{Val: v}
+		t.Right = &binarytree.TreeNode{Val: v}
 		return
 	}
 

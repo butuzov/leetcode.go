@@ -1,4 +1,48 @@
 {
+    "construct-target-array-with-multiple-sums": {
+        "Id": 1354,
+        "Title": "Construct Target Array With Multiple Sums",
+        "Slug": "construct-target-array-with-multiple-sums",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Greedy"
+        ]
+    },
+    "maximum-number-of-events-that-can-be-attended": {
+        "Id": 1353,
+        "Title": "Maximum Number of Events That Can Be Attended",
+        "Slug": "maximum-number-of-events-that-can-be-attended",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Greedy",
+            "Sort",
+            "Segment Tree"
+        ]
+    },
+    "product-of-the-last-k-numbers": {
+        "Id": 1352,
+        "Title": "Product of the Last K Numbers",
+        "Slug": "product-of-the-last-k-numbers",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Design"
+        ]
+    },
+    "count-negative-numbers-in-a-sorted-matrix": {
+        "Id": 1351,
+        "Title": "Count Negative Numbers in a Sorted Matrix",
+        "Slug": "count-negative-numbers-in-a-sorted-matrix",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Binary Search"
+        ]
+    },
     "maximum-students-taking-exam": {
         "Id": 1349,
         "Title": "Maximum Students Taking Exam",

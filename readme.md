@@ -16,12 +16,12 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Stats
 
-Dificulty                           | Total                     | Done
-------------------------------------|---------------------------|------
-Easy                                | 284   | 46
-Normal                              | 512 | 52
-Hard                                | 216   | 10
-Total Questions Available           | 1012    | 108
+Difficulty                          | Total   | Done
+------------------------------------|---------|------
+Easy                                |     285 |    48 
+Normal                              |     514 |    55 
+Hard                                |     217 |    10 
+Total Questions Available           |    1016 |   113 
 
 
 
@@ -60,6 +60,7 @@ Total Questions Available           | 1012    | 108
  957 | [Prison Cells After N Days](Hash_Table/0957-Prison-Cells-After-N-Days) | `Hash Table`
  916 | [Word Subsets](String/0916-Word-Subsets) | `String`
  848 | [Shifting Letters](String/0848-Shifting-Letters) | `String`
+ 695 | [Max Area of Island](Depth-first_Search/0695-Max-Area-of-Island) | `Array`, `Depth-first Search`
  670 | [Maximum Swap](Array/0670-Maximum-Swap) | `Array`, `Math`
  539 | [Minimum Time Difference](String/0539-Minimum-Time-Difference) | `String`
  537 | [Complex Number Multiplication](Math/0537-Complex-Number-Multiplication) | `Math`, `String`
@@ -72,7 +73,9 @@ Total Questions Available           | 1012    | 108
  275 | [H-Index II](Binary_Search/0275-H-Index-II) | `Binary Search`
  264 | [Ugly Number II](Math/0264-Ugly-Number-II) | `Math`, `Dynamic Programming`, `Heap`
  220 | [Contains Duplicate III](Hash_Table/0220-Contains-Duplicate-III) | `Sort`, `Ordered Map`
+ 200 | [Number of Islands](Depth-first_Search/0200-Number-of-Islands) | `Depth-first Search`, `Breadth-first Search`, `Union Find`
  179 | [Largest Number](Sort/0179-Largest-Number) | `Sort`
+ 173 | [Binary Search Tree Iterator](Stack/0173-Binary-Search-Tree-Iterator) | `Stack`, `Tree`, `Design`
  165 | [Compare Version Numbers](String/0165-Compare-Version-Numbers) | `String`
  144 | [Binary Tree Preorder Traversal](Tree/0144-Binary-Tree-Preorder-Traversal) | `Stack`, `Tree`
  114 | [Flatten Binary Tree to Linked List](Tree/0114-Flatten-Binary-Tree-to-Linked-List) | `Tree`, `Depth-first Search`
@@ -104,6 +107,7 @@ Total Questions Available           | 1012    | 108
 
  ID  | Problem               | Topics
 -----|-----------------------|-------------
+1295 | [Find Numbers with Even Number of Digits](Array/1295-Find-Numbers-with-Even-Number-of-Digits) | `Array`
 1232 | [Check If It Is a Straight Line](Math/1232-Check-If-It-Is-a-Straight-Line) | `Array`, `Math`, `Geometry`
 1128 | [Number of Equivalent Domino Pairs](Array/1128-Number-of-Equivalent-Domino-Pairs) | `Array`
 1122 | [Relative Sort Array](Array/1122-Relative-Sort-Array) | `Array`, `Sort`
@@ -141,6 +145,7 @@ Total Questions Available           | 1012    | 108
  189 | [Rotate Array](Array/0189-Rotate-Array) | `Array`
  171 | [Excel Sheet Column Number](Math/0171-Excel-Sheet-Column-Number) | `Math`
  168 | [Excel Sheet Column Title](Math/0168-Excel-Sheet-Column-Title) | `Math`
+ 136 | [Single Number](Bit_Manipulation/0136-Single-Number) | `Hash Table`, `Bit Manipulation`
  125 | [Valid Palindrome](String/0125-Valid-Palindrome) | `Two Pointers`, `String`
   83 | [Remove Duplicates from Sorted List](Linked_List/0083-Remove-Duplicates-from-Sorted-List) | `Linked List`
   69 | [Sqrt(x)](Binary_Search/0069-Sqrt(x)) | `Math`, `Binary Search`
@@ -152,10 +157,14 @@ Total Questions Available           | 1012    | 108
    1 | [Two Sum](Array/0001-Two-Sum) | `Array`, `Hash Table`
 
 
-## Upsolved Problems
+## Unsolved Problems
 
- ID  | Problem @ LeetCode    | Dificulty  | Topics
+ ID  | Problem @ LeetCode    | Difficulty  | Topics
 -----|-----------------------|------------|--------
+1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums) | Hard  | `Greedy`
+1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended) | Normal  | `Greedy`, `Sort`, `Segment Tree`
+1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | Normal  | `Array`, `Design`
+1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | Easy  | `Array`, `Binary Search`
 1349 | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam) | Hard  | `Dynamic Programming`
 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency) | Normal  | `Design`
 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | Normal  | `String`
@@ -203,7 +212,6 @@ Total Questions Available           | 1012    | 108
 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes) | Hard  | `Breadth-first Search`
 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring) | Normal  | `String`, `Bit Manipulation`
 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers) | Normal  | `Array`, `Greedy`
-1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | Easy  | `Array`
 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination) | Hard  | `Breadth-first Search`
 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | Normal  | `Array`, `Binary Search`
 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits) | Normal  | `Backtracking`
@@ -637,7 +645,6 @@ Total Questions Available           | 1012    | 108
  698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) | Normal  | `Dynamic Programming`, `Recursion`
  697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | Easy  | `Array`
  696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | Easy  | `String`
- 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Normal  | `Array`, `Depth-first Search`
  693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | Easy  | `Bit Manipulation`
  692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | Normal  | `Hash Table`, `Heap`, `Trie`
  691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word) | Hard  | `Dynamic Programming`, `Backtracking`
@@ -934,13 +941,11 @@ Total Questions Available           | 1012    | 108
  205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy  | `Hash Table`
  203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy  | `Linked List`
  201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | Normal  | `Bit Manipulation`
- 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Normal  | `Depth-first Search`, `Breadth-first Search`, `Union Find`
  199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Normal  | `Tree`, `Depth-first Search`, `Breadth-first Search`
  190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy  | `Bit Manipulation`
  188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | Hard  | `Dynamic Programming`
  187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | Normal  | `Hash Table`, `Bit Manipulation`
  174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game) | Hard  | `Binary Search`, `Dynamic Programming`
- 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Normal  | `Stack`, `Tree`, `Design`
  172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Easy  | `Math`
  169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy  | `Array`, `Divide and Conquer`, `Bit Manipulation`
  167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Easy  | `Array`, `Two Pointers`, `Binary Search`
@@ -964,7 +969,6 @@ Total Questions Available           | 1012    | 108
  140 | [Word Break II](https://leetcode.com/problems/word-break-ii) | Hard  | `Dynamic Programming`, `Backtracking`
  139 | [Word Break](https://leetcode.com/problems/word-break) | Normal  | `Dynamic Programming`
  137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | Normal  | `Bit Manipulation`
- 136 | [Single Number](https://leetcode.com/problems/single-number) | Easy  | `Hash Table`, `Bit Manipulation`
  135 | [Candy](https://leetcode.com/problems/candy) | Hard  | `Greedy`
  134 | [Gas Station](https://leetcode.com/problems/gas-station) | Normal  | `Greedy`
  132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii) | Hard  | `Dynamic Programming`
