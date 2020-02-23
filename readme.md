@@ -12,16 +12,16 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Progress
 
-▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ## Stats
 
 Difficulty                          | Total   | Done
 ------------------------------------|---------|------
-Easy                                |     285 |    48 
-Normal                              |     514 |    55 
-Hard                                |     217 |    10 
-Total Questions Available           |    1016 |   113 
+Easy                                |     287 |    49 
+Normal                              |     518 |    60 
+Hard                                |     219 |    10 
+Total Questions Available           |    1024 |   119 
 
 
 
@@ -77,17 +77,22 @@ Total Questions Available           |    1016 |   113
  179 | [Largest Number](Sort/0179-Largest-Number) | `Sort`
  173 | [Binary Search Tree Iterator](Stack/0173-Binary-Search-Tree-Iterator) | `Stack`, `Tree`, `Design`
  165 | [Compare Version Numbers](String/0165-Compare-Version-Numbers) | `String`
+ 146 | [LRU Cache](Design/0146-LRU-Cache) | `Design`
  144 | [Binary Tree Preorder Traversal](Tree/0144-Binary-Tree-Preorder-Traversal) | `Stack`, `Tree`
  114 | [Flatten Binary Tree to Linked List](Tree/0114-Flatten-Binary-Tree-to-Linked-List) | `Tree`, `Depth-first Search`
   98 | [Validate Binary Search Tree](Tree/0098-Validate-Binary-Search-Tree) | `Tree`, `Depth-first Search`
   94 | [Binary Tree Inorder Traversal](Tree/0094-Binary-Tree-Inorder-Traversal) | `Hash Table`, `Stack`, `Tree`
   78 | [Subsets](Array/0078-Subsets) | `Array`, `Backtracking`, `Bit Manipulation`
   74 | [Search a 2D Matrix](Binary_Search/0074-Search-a-2D-Matrix) | `Array`, `Binary Search`
+  64 | [Minimum Path Sum](Dynamic_Programming/0064-Minimum-Path-Sum) | `Array`, `Dynamic Programming`
+  63 | [Unique Paths II](Dynamic_Programming/0063-Unique-Paths-II) | `Array`, `Dynamic Programming`
+  62 | [Unique Paths](Dynamic_Programming/0062-Unique-Paths) | `Array`, `Dynamic Programming`
   61 | [Rotate List](Linked_List/0061-Rotate-List) | `Linked List`, `Two Pointers`
   59 | [Spiral Matrix II](Array/0059-Spiral-Matrix-II) | `Array`
   56 | [Merge Intervals](Sort/0056-Merge-Intervals) | `Array`, `Sort`
   54 | [Spiral Matrix](Array/0054-Spiral-Matrix) | `Array`
   50 | [Pow(x, n)](Divide_and_Conquer/0050-Pow(x,-n)) | `Math`, `Binary Search`
+  49 | [Group Anagrams](Hash_Table/0049-Group-Anagrams) | `Hash Table`, `String`
   47 | [Permutations II](Backtracking/0047-Permutations-II) | `Backtracking`
   46 | [Permutations](Backtracking/0046-Permutations) | `Backtracking`
   34 | [Find First and Last Position of Element in Sorted Array](Binary_Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | `Array`, `Binary Search`
@@ -109,6 +114,7 @@ Total Questions Available           |    1016 |   113
 -----|-----------------------|-------------
 1295 | [Find Numbers with Even Number of Digits](Array/1295-Find-Numbers-with-Even-Number-of-Digits) | `Array`
 1232 | [Check If It Is a Straight Line](Math/1232-Check-If-It-Is-a-Straight-Line) | `Array`, `Math`, `Geometry`
+1217 | [Play with Chips](Array/1217-Play-with-Chips) | `Array`, `Math`, `Greedy`
 1128 | [Number of Equivalent Domino Pairs](Array/1128-Number-of-Equivalent-Domino-Pairs) | `Array`
 1122 | [Relative Sort Array](Array/1122-Relative-Sort-Array) | `Array`, `Sort`
 1108 | [Defanging an IP Address](String/1108-Defanging-an-IP-Address) | `String`
@@ -161,6 +167,14 @@ Total Questions Available           |    1016 |   113
 
  ID  | Problem @ LeetCode    | Difficulty  | Topics
 -----|-----------------------|------------|--------
+1363 | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three) | Hard  | `Math`, `Dynamic Programming`
+1362 | [Closest Divisors](https://leetcode.com/problems/closest-divisors) | Normal  | `Math`
+1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes) | Normal  | `Graph`
+1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates) | Easy  | 
+1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options) | Hard  | `Math`, `Dynamic Programming`
+1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | Normal  | `String`
+1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders) | Normal  | `Design`
+1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | Easy  | `Sort`, `Bit Manipulation`
 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums) | Hard  | `Greedy`
 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended) | Normal  | `Greedy`, `Sort`, `Segment Tree`
 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | Normal  | `Array`, `Design`
@@ -257,7 +271,6 @@ Total Questions Available           |    1016 |   113
 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation) | Hard  | `Dynamic Programming`
 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) | Normal  | `Backtracking`
 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference) | Normal  | `Math`, `Dynamic Programming`
-1217 | [Play with Chips](https://leetcode.com/problems/play-with-chips) | Easy  | `Array`, `Math`, `Greedy`
 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations) | Hard  | `Breadth-first Search`
 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) | Normal  | `Array`, `Sliding Window`
 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy  | `Hash Table`
@@ -533,7 +546,7 @@ Total Questions Available           |    1016 |   113
  831 | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information) | Normal  | `String`
  830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | Easy  | `Array`
  829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum) | Hard  | `Math`
- 828 | [Unique Letter String](https://leetcode.com/problems/unique-letter-string) | Hard  | `Two Pointers`
+ 828 | [Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string) | Hard  | `Two Pointers`
  827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | Hard  | `Depth-first Search`
  826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work) | Normal  | `Two Pointers`
  825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages) | Normal  | `Array`
@@ -962,7 +975,6 @@ Total Questions Available           |    1016 |   113
  149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | Hard  | `Hash Table`, `Math`
  148 | [Sort List](https://leetcode.com/problems/sort-list) | Normal  | `Linked List`, `Sort`
  147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | Normal  | `Linked List`, `Sort`
- 146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Normal  | `Design`
  143 | [Reorder List](https://leetcode.com/problems/reorder-list) | Normal  | `Linked List`
  142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Normal  | `Linked List`, `Two Pointers`
  141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy  | `Linked List`, `Two Pointers`
@@ -1028,15 +1040,11 @@ Total Questions Available           |    1016 |   113
   67 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy  | `Math`, `String`
   66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy  | `Array`
   65 | [Valid Number](https://leetcode.com/problems/valid-number) | Hard  | `Math`, `String`
-  64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Normal  | `Array`, `Dynamic Programming`
-  63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | Normal  | `Array`, `Dynamic Programming`
-  62 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Normal  | `Array`, `Dynamic Programming`
   60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | Normal  | `Math`, `Backtracking`
   58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy  | `String`
   55 | [Jump Game](https://leetcode.com/problems/jump-game) | Normal  | `Array`, `Greedy`
   53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy  | `Array`, `Divide and Conquer`, `Dynamic Programming`
   52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | Hard  | `Backtracking`
-  49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Normal  | `Hash Table`, `String`
   48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Normal  | `Array`
   45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | Hard  | `Array`, `Greedy`
   44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | Hard  | `String`, `Dynamic Programming`, `Backtracking`, `Greedy`
