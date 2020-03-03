@@ -1,10 +1,13 @@
 package main
+
+import "github.com/butuzov/leetcode.go/pkg/linkedlist"
+
 /*****************************************************************************
  * Solution
  ****************************************************************************/
 
 // Solution.
-func deleteDuplicates(head *ListNode) *ListNode {
+func deleteDuplicates(head *linkedlist.ListNode) *linkedlist.ListNode {
 
 	if head != nil {
 		current := head

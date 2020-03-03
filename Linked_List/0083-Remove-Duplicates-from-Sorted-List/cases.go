@@ -1,43 +1,34 @@
 package main
+
+import "github.com/butuzov/leetcode.go/pkg/linkedlist"
+
 var MessageError = "Fail: Input(%+v) : Expected(%+v) vs Returend(%+v)"
 var MessageOk = "OK: Input(%+v) as Expected(%+v)"
 
-// Case definings truct of our tests.
+// Case defining struct of our tests.
 type Case struct {
-	list     *ListNode
-	expected *ListNode
+	list, expected *linkedlist.ListNode
 }
 
-// makeTestCase - makes a Test Case =)
-func makeTestCase(list, expected *ListNode) Case {
-	return Case{
-		list:     list,
-		expected: expected,
-	}
-}
-
-var TestCases = []struct {
-	input    *ListNode
-	expected *ListNode
-}{
+var TestCases = []Case{
 	{
-		&ListNode{},
-		makeList(0),
+		&linkedlist.ListNode{},
+		linkedlist.MakeList(0),
 	},
 	{
-		makeList(0, 0),
-		makeList(0),
+		linkedlist.MakeList(0, 0),
+		linkedlist.MakeList(0),
 	},
 	{
-		makeList(0, 0, 1),
-		makeList(0, 1),
+		linkedlist.MakeList(0, 0, 1),
+		linkedlist.MakeList(0, 1),
 	},
 	{
-		makeList(1, 1, 2),
-		makeList(1, 2),
+		linkedlist.MakeList(1, 1, 2),
+		linkedlist.MakeList(1, 2),
 	},
 	{
-		makeList(1, 1, 2, 3, 3),
-		makeList(1, 2, 3),
+		linkedlist.MakeList(1, 1, 2, 3, 3),
+		linkedlist.MakeList(1, 2, 3),
 	},
 }

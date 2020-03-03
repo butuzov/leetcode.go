@@ -1,5 +1,8 @@
 package main
-func rotateRight(list *ListNode, k int) *ListNode {
+
+import "github.com/butuzov/leetcode.go/pkg/linkedlist"
+
+func rotateRight(list *linkedlist.ListNode, k int) *linkedlist.ListNode {
 	if list == nil {
 		return nil
 	}
@@ -21,7 +24,7 @@ func rotateRight(list *ListNode, k int) *ListNode {
 	}
 
 	var head = list
-	var prev *ListNode
+	var prev *linkedlist.ListNode
 	var splitPoint = len - k
 
 	// find the split point

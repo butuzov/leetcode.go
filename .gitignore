@@ -1,5 +1,4 @@
 parser*
 archive
-.ipynb
+*.ipynb
 example*.go
-archived/courserra.org/*

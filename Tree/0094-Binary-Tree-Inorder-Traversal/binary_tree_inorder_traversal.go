@@ -1,17 +1,19 @@
 package main
 
+import "github.com/butuzov/leetcode.go/pkg/binarytree"
+
 /*******************************************************************************
   Problem Solution
 *******************************************************************************/
 
-func inorderTraversalRecursive(root *TreeNode) []int {
+func inorderTraversalRecursive(root *binarytree.TreeNode) []int {
 	var results = []int{}
 	if root == nil {
 		return results
 	}
 
-	var inOrder func(*TreeNode)
-	inOrder = func(t *TreeNode) {
+	var inOrder func(*binarytree.TreeNode)
+	inOrder = func(t *binarytree.TreeNode) {
 		if t == nil {
 			return
 		}
@@ -25,9 +27,9 @@ func inorderTraversalRecursive(root *TreeNode) []int {
 	return results
 }
 
-func inorderTraversal(root *TreeNode) []int {
+func inorderTraversal(root *binarytree.TreeNode) []int {
 	var results = []int{}
-	var stack = []*TreeNode{}
+	var stack = []*binarytree.TreeNode{}
 	var node = root
 
 	for node != nil || len(stack) > 0 {

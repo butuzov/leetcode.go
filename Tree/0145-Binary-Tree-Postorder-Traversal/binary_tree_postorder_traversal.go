@@ -1,9 +1,11 @@
 package main
 
+import "github.com/butuzov/leetcode.go/pkg/binarytree"
+
 /*******************************************************************************
   Problem Solution
 *******************************************************************************/
-func postorderTraversalRecursive(root *TreeNode) []int {
+func postorderTraversalRecursive(root *binarytree.TreeNode) []int {
 	var results = []int{}
 	if root == nil {
 		return results
@@ -11,8 +13,8 @@ func postorderTraversalRecursive(root *TreeNode) []int {
 
 	var n = 0
 
-	var postOrder func(*TreeNode)
-	postOrder = func(t *TreeNode) {
+	var postOrder func(*binarytree.TreeNode)
+	postOrder = func(t *binarytree.TreeNode) {
 		if t == nil {
 			return
 		}
@@ -27,9 +29,9 @@ func postorderTraversalRecursive(root *TreeNode) []int {
 	return results
 }
 
-func postorderTraversal(root *TreeNode) []int {
+func postorderTraversal(root *binarytree.TreeNode) []int {
 	var results = []int{}
-	var stack = []*TreeNode{}
+	var stack = []*binarytree.TreeNode{}
 	var node = root
 
 	for node != nil || len(stack) > 0 {

@@ -16,12 +16,12 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Stats
 
-Difficulty                          | Total   | Done
-------------------------------------|---------|------
-Easy                                | {{- index .Total "Easy" | printf " %7d " -}} | {{index .Stat "Easy" | printf  " %4d " }}
-Normal                              | {{- index .Total "Normal" | printf " %7d " -}} | {{index .Stat "Normal" | printf  " %4d " }}
-Hard                                | {{- index .Total "Hard" | printf " %7d " -}} | {{index .Stat "Hard" | printf  " %4d " }}
-Total Questions Available           | {{- index .Total "All" | printf  " %7d " -}} | {{index .Stat "All" | printf  " %4d " }}
+Difficulty                          | Total   | Done   |   %     |
+------------------------------------|---------|--------|---------|
+Easy                                | {{- index .Total "Easy" | printf " %7d " -}} | {{index .Stat "Easy" | printf " %4d " }} | {{index .Percents "Easy" | printf " %4d " }}% |
+Normal                              | {{- index .Total "Normal" | printf " %7d " -}} | {{index .Stat "Normal" | printf " %4d " }} | {{index .Percents "Normal" | printf " %4d " }}% |
+Hard                                | {{- index .Total "Hard" | printf " %7d " -}} | {{index .Stat "Hard" | printf " %4d " }} | {{index .Percents "Hard" | printf " %4d " }}% |
+Total Questions Available           | {{- index .Total "All" | printf  " %7d " -}} | {{index .Stat "All" | printf " %4d " }} | {{index .Percents "All" | printf " %4d " }}% |
 
 
 

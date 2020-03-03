@@ -103,6 +103,8 @@ func main() {
 
 	solvedStat := map[string]int{"Easy": 0, "Normal": 0, "Hard": 0, "All": 0}
 	totalStat := map[string]int{"Easy": 0, "Normal": 0, "Hard": 0, "All": 0}
+	percentsStat := map[string]int{"Easy": 0, "Normal": 0, "Hard": 0, "All": 0}
+
 	for i, p := range tmp {
 
 		if p.Ready {
@@ -126,17 +128,24 @@ func main() {
 	var progressLen = 91
 	solvedPercents := int(math.RoundToEven((float64(solvedStat["All"]) / float64(totalStat["All"])) * float64(progressLen)))
 
+	for k, _ := range percentsStat {
+		fmt.Println(k, float64(solvedStat[k])/float64(totalStat[k]))
+		percentsStat[k] = int(math.RoundToEven(float64(solvedStat[k]) / float64(totalStat[k]) * 100))
+	}
+
 	tpl := template.Must(template.ParseGlob("readme*"))
 	tpl.ExecuteTemplate(f, "readme.md.tpl", struct {
 		List     Problems
 		Progress string
 		Stat     map[string]int
 		Total    map[string]int
+		Percents map[string]int
 	}{
 		tmp,
 		strings.Repeat("▰", solvedPercents) + strings.Repeat("▱", progressLen-solvedPercents),
 		solvedStat,
 		totalStat,
+		percentsStat,
 	})
 }
 

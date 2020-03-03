@@ -2,11 +2,13 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/butuzov/leetcode.go/pkg/binarytree"
 )
 
 func main() {
 
-	var tree = newTree([]string{"1", "2l", "3l", "p", "4r", "p", "p", "5r", "6r"})
+	var tree = binarytree.NewTree([]string{"1", "2l", "3l", "p", "4r", "p", "p", "5r", "6r"})
 	// var tree = newTree([]string{"2", "3l", "p", "4r"})
 	fmt.Println(tree)
 	fmt.Println("Traversal In_Order", tree.InOrder())

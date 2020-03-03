@@ -1,13 +1,15 @@
 package main
 
+import "github.com/butuzov/leetcode.go/pkg/binarytree"
+
 /*******************************************************************************
   Problem Solution
 *******************************************************************************/
 
-func isValidBST(root *TreeNode) bool {
+func isValidBST(root *binarytree.TreeNode) bool {
 	var values = []int{}
-	var traversal func(*TreeNode, *[]int)
-	traversal = func(r *TreeNode, v *[]int) {
+	var traversal func(*binarytree.TreeNode, *[]int)
+	traversal = func(r *binarytree.TreeNode, v *[]int) {
 		if r == nil {
 			return
 		}
@@ -30,11 +32,11 @@ func isValidBST(root *TreeNode) bool {
 
 // ------
 
-func isValidBSTEveryNode(root *TreeNode) bool {
+func isValidBSTEveryNode(root *binarytree.TreeNode) bool {
 
-	var validBinTree func(*TreeNode, *[]int, bool) bool
+	var validBinTree func(*binarytree.TreeNode, *[]int, bool) bool
 
-	validBinTree = func(tree *TreeNode, s *[]int, left bool) bool {
+	validBinTree = func(tree *binarytree.TreeNode, s *[]int, left bool) bool {
 
 		if tree == nil {
 			return true

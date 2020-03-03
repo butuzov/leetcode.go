@@ -1,4 +1,7 @@
 package main
+
+import "github.com/butuzov/leetcode.go/pkg/linkedlist"
+
 var MessageError = "Fail: Input(k(%d), list(%+v)): Expected(%+v) vs Returend(%+v)"
 var MessageOk = "OK: Input(k(%d), list(%+v)) as Expected(%+v)"
 
@@ -7,28 +10,28 @@ var MessageOk = "OK: Input(k(%d), list(%+v)) as Expected(%+v)"
 *******************************************************************************/
 
 var TestCases = []struct {
-	In, Out *ListNode
+	In, Out *linkedlist.ListNode
 	K       int
 }{
 	{
-		makeList([]int{1, 2, 3, 4, 5}...),
-		makeList([]int{4, 5, 1, 2, 3}...),
+		linkedlist.MakeList([]int{1, 2, 3, 4, 5}...),
+		linkedlist.MakeList([]int{4, 5, 1, 2, 3}...),
 		102,
 	},
 	{
-		makeList([]int{0, 1, 2}...),
-		makeList([]int{2, 0, 1}...),
+		linkedlist.MakeList([]int{0, 1, 2}...),
+		linkedlist.MakeList([]int{2, 0, 1}...),
 		4,
 	},
 	{
-		makeList([]int{0, 1, 2}...),
-		makeList([]int{0, 1, 2}...),
+		linkedlist.MakeList([]int{0, 1, 2}...),
+		linkedlist.MakeList([]int{0, 1, 2}...),
 		3,
 	},
 
 	{
-		makeList([]int{0, 1, 2}...),
-		makeList([]int{0, 1, 2}...),
+		linkedlist.MakeList([]int{0, 1, 2}...),
+		linkedlist.MakeList([]int{0, 1, 2}...),
 		0,
 	},
 }

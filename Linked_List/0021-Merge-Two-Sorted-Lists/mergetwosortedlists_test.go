@@ -1,6 +1,9 @@
 package main
+
 import (
 	"testing"
+
+	"github.com/butuzov/leetcode.go/pkg/linkedlist"
 )
 
 /*******************************************************************************
@@ -11,14 +14,14 @@ var MessageError = "Fail: Inputs (%s) and (%s): Expected(%s) vs Returend(%s)"
 var MessageOk = "OK: Inputs (%s) and (%s) as Expected(%s)"
 
 var TestCases = []struct {
-	input1   *ListNode
-	input2   *ListNode
-	expected *ListNode
+	input1   *linkedlist.ListNode
+	input2   *linkedlist.ListNode
+	expected *linkedlist.ListNode
 }{
 	{
-		makeList([]int{1}...),
-		makeList([]int{2}...),
-		makeList([]int{1, 2}...),
+		linkedlist.MakeList([]int{1}...),
+		linkedlist.MakeList([]int{2}...),
+		linkedlist.MakeList([]int{1, 2}...),
 	},
 }
 
@@ -28,11 +31,11 @@ var TestCases = []struct {
 func TestMergeTwoLists(t *testing.T) {
 	for _, test := range TestCases {
 		actual := mergeTwoLists(test.input1, test.input2)
-		var preservedActal = actual
+		var preservedActual = actual
 		var preservedExpected = test.expected
 		for {
 			if actual.Val != test.expected.Val {
-				t.Errorf(MessageError, test.input1, test.input2, preservedExpected, preservedActal)
+				t.Errorf(MessageError, test.input1, test.input2, preservedExpected, preservedActual)
 				break
 			}
 
@@ -42,7 +45,7 @@ func TestMergeTwoLists(t *testing.T) {
 			}
 
 			if (actual.Next == nil && test.expected.Next != nil) || (test.expected.Next == nil && actual.Next != nil) {
-				t.Errorf(MessageError, test.input1, test.input2, preservedExpected, preservedActal)
+				t.Errorf(MessageError, test.input1, test.input2, preservedExpected, preservedActual)
 				break
 			}
 

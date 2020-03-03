@@ -1,25 +1,28 @@
 package main
+
+import "github.com/butuzov/leetcode.go/pkg/linkedlist"
+
 var MessageError = "Fail: A(%+v) + B(%+v) is Expected(%+v) vs Returend(%+v)"
 var MessageOk = "OK: A(%+v) + B(%+v) as Expected(%+v)"
 
 var TestCases = []struct {
-	llOne    *ListNode
-	llTwo    *ListNode
-	llResult *ListNode
+	llOne    *linkedlist.ListNode
+	llTwo    *linkedlist.ListNode
+	llResult *linkedlist.ListNode
 }{
 	{
-		makeList([]int{2, 4, 3}...),
-		makeList([]int{5, 6, 4}...),
-		makeList([]int{7, 0, 8}...),
+		linkedlist.MakeList([]int{2, 4, 3}...),
+		linkedlist.MakeList([]int{5, 6, 4}...),
+		linkedlist.MakeList([]int{7, 0, 8}...),
 	},
 	{
-		makeList([]int{5, 2}...),
-		makeList([]int{5, 9}...),
-		makeList([]int{0, 2, 1}...),
+		linkedlist.MakeList([]int{5, 2}...),
+		linkedlist.MakeList([]int{5, 9}...),
+		linkedlist.MakeList([]int{0, 2, 1}...),
 	},
 	{
-		makeList([]int{0}...),
-		makeList([]int{0}...),
-		makeList([]int{0}...),
+		linkedlist.MakeList([]int{0}...),
+		linkedlist.MakeList([]int{0}...),
+		linkedlist.MakeList([]int{0}...),
 	},
 }

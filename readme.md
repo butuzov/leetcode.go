@@ -16,12 +16,12 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Stats
 
-Difficulty                          | Total   | Done
-------------------------------------|---------|------
-Easy                                |     287 |    49 
-Normal                              |     518 |    60 
-Hard                                |     219 |    10 
-Total Questions Available           |    1024 |   119 
+Difficulty                          | Total   | Done   |   %     |
+------------------------------------|---------|--------|---------|
+Easy                                |     288 |    55  |    19 % |
+Normal                              |     520 |    62  |    12 % |
+Hard                                |     220 |    10  |     5 % |
+Total Questions Available           |    1028 |   127  |    12 % |
 
 
 
@@ -79,7 +79,9 @@ Total Questions Available           |    1024 |   119
  165 | [Compare Version Numbers](String/0165-Compare-Version-Numbers) | `String`
  146 | [LRU Cache](Design/0146-LRU-Cache) | `Design`
  144 | [Binary Tree Preorder Traversal](Tree/0144-Binary-Tree-Preorder-Traversal) | `Stack`, `Tree`
+ 120 | [Triangle](Dynamic_Programming/0120-Triangle) | `Array`, `Dynamic Programming`
  114 | [Flatten Binary Tree to Linked List](Tree/0114-Flatten-Binary-Tree-to-Linked-List) | `Tree`, `Depth-first Search`
+ 109 | [Convert Sorted List to Binary Search Tree](Linked_List/0109-Convert-Sorted-List-to-Binary-Search-Tree) | `Linked List`, `Depth-first Search`
   98 | [Validate Binary Search Tree](Tree/0098-Validate-Binary-Search-Tree) | `Tree`, `Depth-first Search`
   94 | [Binary Tree Inorder Traversal](Tree/0094-Binary-Tree-Inorder-Traversal) | `Hash Table`, `Stack`, `Tree`
   78 | [Subsets](Array/0078-Subsets) | `Array`, `Backtracking`, `Bit Manipulation`
@@ -153,6 +155,12 @@ Total Questions Available           |    1024 |   119
  168 | [Excel Sheet Column Title](Math/0168-Excel-Sheet-Column-Title) | `Math`
  136 | [Single Number](Bit_Manipulation/0136-Single-Number) | `Hash Table`, `Bit Manipulation`
  125 | [Valid Palindrome](String/0125-Valid-Palindrome) | `Two Pointers`, `String`
+ 122 | [Best Time to Buy and Sell Stock II](Array/0122-Best-Time-to-Buy-and-Sell-Stock-II) | `Array`, `Greedy`
+ 121 | [Best Time to Buy and Sell Stock](Array/0121-Best-Time-to-Buy-and-Sell-Stock) | `Array`, `Dynamic Programming`
+ 119 | [Pascal&#39;s Triangle II](Math/0119-Pascal&#39;s-Triangle-II) | `Array`
+ 118 | [Pascal&#39;s Triangle](Array/0118-Pascal&#39;s-Triangle) | `Array`
+ 108 | [Convert Sorted Array to Binary Search Tree](Tree/0108-Convert-Sorted-Array-to-Binary-Search-Tree) | `Tree`, `Depth-first Search`
+ 100 | [Same Tree](Tree/0100-Same-Tree) | `Tree`, `Depth-first Search`
   83 | [Remove Duplicates from Sorted List](Linked_List/0083-Remove-Duplicates-from-Sorted-List) | `Linked List`
   69 | [Sqrt(x)](Binary_Search/0069-Sqrt(x)) | `Math`, `Binary Search`
   26 | [Remove Duplicates from Sorted Array](Array/0026-Remove-Duplicates-from-Sorted-Array) | `Array`, `Two Pointers`
@@ -167,6 +175,10 @@ Total Questions Available           |    1024 |   119
 
  ID  | Problem @ LeetCode    | Difficulty  | Topics
 -----|-----------------------|------------|--------
+1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | Hard  | `Breadth-first Search`
+1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree) | Normal  | `Linked List`, `Dynamic Programming`, `Tree`
+1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes) | Normal  | `Array`, `Sort`
+1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy  | `Array`, `Hash Table`
 1363 | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three) | Hard  | `Math`, `Dynamic Programming`
 1362 | [Closest Divisors](https://leetcode.com/problems/closest-divisors) | Normal  | `Math`
 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes) | Normal  | `Graph`
@@ -992,18 +1004,11 @@ Total Questions Available           |    1024 |   119
  126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | Hard  | `Array`, `String`, `Backtracking`, `Breadth-first Search`
  124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Hard  | `Tree`, `Depth-first Search`
  123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | Hard  | `Array`, `Dynamic Programming`
- 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Easy  | `Array`, `Greedy`
- 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy  | `Array`, `Dynamic Programming`
- 120 | [Triangle](https://leetcode.com/problems/triangle) | Normal  | `Array`, `Dynamic Programming`
- 119 | [Pascal&#39;s Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy  | `Array`
- 118 | [Pascal&#39;s Triangle](https://leetcode.com/problems/pascals-triangle) | Easy  | `Array`
  115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) | Hard  | `String`, `Dynamic Programming`
  113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | Normal  | `Tree`, `Depth-first Search`
  112 | [Path Sum](https://leetcode.com/problems/path-sum) | Easy  | `Tree`, `Depth-first Search`
  111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy  | `Tree`, `Depth-first Search`, `Breadth-first Search`
  110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy  | `Tree`, `Depth-first Search`
- 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | Normal  | `Linked List`, `Depth-first Search`
- 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy  | `Tree`, `Depth-first Search`
  107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | Easy  | `Tree`, `Breadth-first Search`
  106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | Normal  | `Array`, `Tree`, `Depth-first Search`
  105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Normal  | `Array`, `Tree`, `Depth-first Search`
@@ -1011,7 +1016,6 @@ Total Questions Available           |    1024 |   119
  103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Normal  | `Stack`, `Tree`, `Breadth-first Search`
  102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Normal  | `Tree`, `Breadth-first Search`
  101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy  | `Tree`, `Depth-first Search`, `Breadth-first Search`
- 100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy  | `Tree`, `Depth-first Search`
   99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | Hard  | `Tree`, `Depth-first Search`
   96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | Normal  | `Dynamic Programming`, `Tree`
   95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | Normal  | `Dynamic Programming`, `Tree`

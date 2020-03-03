@@ -1,4 +1,48 @@
 {
+    "minimum-cost-to-make-at-least-one-valid-path-in-a-grid": {
+        "Id": 1368,
+        "Title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "Slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Breadth-first Search"
+        ]
+    },
+    "linked-list-in-binary-tree": {
+        "Id": 1367,
+        "Title": "Linked List in Binary Tree",
+        "Slug": "linked-list-in-binary-tree",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Linked List",
+            "Dynamic Programming",
+            "Tree"
+        ]
+    },
+    "rank-teams-by-votes": {
+        "Id": 1366,
+        "Title": "Rank Teams by Votes",
+        "Slug": "rank-teams-by-votes",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Sort"
+        ]
+    },
+    "how-many-numbers-are-smaller-than-the-current-number": {
+        "Id": 1365,
+        "Title": "How Many Numbers Are Smaller Than the Current Number",
+        "Slug": "how-many-numbers-are-smaller-than-the-current-number",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array",
+            "Hash Table"
+        ]
+    },
     "construct-target-array-with-multiple-sums": {
         "Id": 1354,
         "Title": "Construct Target Array With Multiple Sums",

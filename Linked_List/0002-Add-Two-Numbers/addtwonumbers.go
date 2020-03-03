@@ -1,9 +1,12 @@
 package main
+
+import "github.com/butuzov/leetcode.go/pkg/linkedlist"
+
 /*******************************************************************************
   Problem Solution
 *******************************************************************************/
 
-func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
+func addTwoNumbers(l1 *linkedlist.ListNode, l2 *linkedlist.ListNode) *linkedlist.ListNode {
 	var numbers []int
 	var extra int
 	var number int
@@ -42,5 +45,5 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 		}
 	}
 
-	return makeList(numbers...)
+	return linkedlist.MakeList(numbers...)
 }

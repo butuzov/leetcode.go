@@ -1,10 +1,12 @@
 package main
 
+import "github.com/butuzov/leetcode.go/pkg/binarytree"
+
 /*******************************************************************************
   Problem Solution
 *******************************************************************************/
 
-func flatten(root *TreeNode) {
+func flatten(root *binarytree.TreeNode) {
 	if root == nil {
 		return
 	}

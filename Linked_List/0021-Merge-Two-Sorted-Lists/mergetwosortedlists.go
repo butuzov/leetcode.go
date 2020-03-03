@@ -1,12 +1,15 @@
 package main
+
 import (
 	"sort"
+
+	"github.com/butuzov/leetcode.go/pkg/linkedlist"
 )
 
-func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
+func mergeTwoLists(l1 *linkedlist.ListNode, l2 *linkedlist.ListNode) *linkedlist.ListNode {
 
-	var node, head *ListNode
-	var lists []*ListNode
+	var node, head *linkedlist.ListNode
+	var lists []*linkedlist.ListNode
 
 	if l1 != nil {
 		lists = append(lists, l1)
@@ -34,7 +37,7 @@ func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 			})
 		}
 
-		link := &ListNode{Val: lists[0].Val}
+		link := &linkedlist.ListNode{Val: lists[0].Val}
 
 		if node == nil {
 			head = link
@@ -57,7 +60,7 @@ func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 }
 
 // Lists type represents a
-type Lists []*ListNode
+type Lists []*linkedlist.ListNode
 
 func (l Lists) Len() int           { return len(l) }
 func (l Lists) Swap(i, j int)      { l[i], l[j] = l[j], l[i] }
