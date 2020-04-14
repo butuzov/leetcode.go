@@ -1,4 +1,302 @@
 {
+    "number-of-ways-to-paint-n-3-grid": {
+        "Id": 1411,
+        "Title": "Number of Ways to Paint N \u00d7 3 Grid",
+        "Slug": "number-of-ways-to-paint-n-3-grid",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "html-entity-parser": {
+        "Id": 1410,
+        "Title": "HTML Entity Parser",
+        "Slug": "html-entity-parser",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Stack"
+        ]
+    },
+    "queries-on-a-permutation-with-key": {
+        "Id": 1409,
+        "Title": "Queries on a Permutation With Key",
+        "Slug": "queries-on-a-permutation-with-key",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "string-matching-in-an-array": {
+        "Id": 1408,
+        "Title": "String Matching in an Array",
+        "Slug": "string-matching-in-an-array",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
+    },
+    "stone-game-iii": {
+        "Id": 1406,
+        "Title": "Stone Game III",
+        "Slug": "stone-game-iii",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "number-of-steps-to-reduce-a-number-in-binary-representation-to-one": {
+        "Id": 1404,
+        "Title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "Slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String",
+            "Bit Manipulation"
+        ]
+    },
+    "minimum-subsequence-in-non-increasing-order": {
+        "Id": 1403,
+        "Title": "Minimum Subsequence in Non-Increasing Order",
+        "Slug": "minimum-subsequence-in-non-increasing-order",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Greedy",
+            "Sort"
+        ]
+    },
+    "find-all-good-strings": {
+        "Id": 1397,
+        "Title": "Find All Good Strings",
+        "Slug": "find-all-good-strings",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "design-underground-system": {
+        "Id": 1396,
+        "Title": "Design Underground System",
+        "Slug": "design-underground-system",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Design"
+        ]
+    },
+    "count-number-of-teams": {
+        "Id": 1395,
+        "Title": "Count Number of Teams",
+        "Slug": "count-number-of-teams",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "find-lucky-integer-in-an-array": {
+        "Id": 1394,
+        "Title": "Find Lucky Integer in an Array",
+        "Slug": "find-lucky-integer-in-an-array",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "longest-happy-prefix": {
+        "Id": 1392,
+        "Title": "Longest Happy Prefix",
+        "Slug": "longest-happy-prefix",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "String"
+        ]
+    },
+    "check-if-there-is-a-valid-path-in-a-grid": {
+        "Id": 1391,
+        "Title": "Check if There is a Valid Path in a Grid",
+        "Slug": "check-if-there-is-a-valid-path-in-a-grid",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search",
+            "Breadth-first Search"
+        ]
+    },
+    "create-target-array-in-the-given-order": {
+        "Id": 1389,
+        "Title": "Create Target Array in the Given Order",
+        "Slug": "create-target-array-in-the-given-order",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "reducing-dishes": {
+        "Id": 1402,
+        "Title": "Reducing Dishes",
+        "Slug": "reducing-dishes",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "construct-k-palindrome-strings": {
+        "Id": 1400,
+        "Title": "Construct K Palindrome Strings",
+        "Slug": "construct-k-palindrome-strings",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Greedy"
+        ]
+    },
+    "circle-and-rectangle-overlapping": {
+        "Id": 1401,
+        "Title": "Circle and Rectangle Overlapping",
+        "Slug": "circle-and-rectangle-overlapping",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Geometry"
+        ]
+    },
+    "count-largest-group": {
+        "Id": 1399,
+        "Title": "Count Largest Group",
+        "Slug": "count-largest-group",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "maximum-performance-of-a-team": {
+        "Id": 1383,
+        "Title": "Maximum Performance of a Team",
+        "Slug": "maximum-performance-of-a-team",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Greedy",
+            "Sort"
+        ]
+    },
+    "design-a-stack-with-increment-operation": {
+        "Id": 1381,
+        "Title": "Design a Stack With Increment Operation",
+        "Slug": "design-a-stack-with-increment-operation",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Stack",
+            "Design"
+        ]
+    },
+    "lucky-numbers-in-a-matrix": {
+        "Id": 1380,
+        "Title": "Lucky Numbers in a Matrix",
+        "Slug": "lucky-numbers-in-a-matrix",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "frog-position-after-t-seconds": {
+        "Id": 1377,
+        "Title": "Frog Position After T Seconds",
+        "Slug": "frog-position-after-t-seconds",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Depth-first Search"
+        ]
+    },
+    "time-needed-to-inform-all-employees": {
+        "Id": 1376,
+        "Title": "Time Needed to Inform All Employees",
+        "Slug": "time-needed-to-inform-all-employees",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Depth-first Search"
+        ]
+    },
+    "bulb-switcher-iii": {
+        "Id": 1375,
+        "Title": "Bulb Switcher III",
+        "Slug": "bulb-switcher-iii",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array"
+        ]
+    },
+    "generate-a-string-with-characters-that-have-odd-counts": {
+        "Id": 1374,
+        "Title": "Generate a String With Characters That Have Odd Counts",
+        "Slug": "generate-a-string-with-characters-that-have-odd-counts",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "String"
+        ]
+    },
+    "pizza-with-3n-slices": {
+        "Id": 1388,
+        "Title": "Pizza With 3n Slices",
+        "Slug": "pizza-with-3n-slices",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming"
+        ]
+    },
+    "sort-integers-by-the-power-value": {
+        "Id": 1387,
+        "Title": "Sort Integers by The Power Value",
+        "Slug": "sort-integers-by-the-power-value",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Sort",
+            "Graph"
+        ]
+    },
+    "cinema-seat-allocation": {
+        "Id": 1386,
+        "Title": "Cinema Seat Allocation",
+        "Slug": "cinema-seat-allocation",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Array",
+            "Greedy"
+        ]
+    },
+    "find-the-distance-value-between-two-arrays": {
+        "Id": 1385,
+        "Title": "Find the Distance Value Between Two Arrays",
+        "Slug": "find-the-distance-value-between-two-arrays",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "Array"
+        ]
+    },
     "minimum-cost-to-make-at-least-one-valid-path-in-a-grid": {
         "Id": 1368,
         "Title": "Minimum Cost to Make at Least One Valid Path in a Grid",
@@ -87,6 +385,49 @@
             "Binary Search"
         ]
     },
+    "maximum-sum-bst-in-binary-tree": {
+        "Id": 1373,
+        "Title": "Maximum Sum BST in Binary Tree",
+        "Slug": "maximum-sum-bst-in-binary-tree",
+        "Paid": false,
+        "Level": 3,
+        "Topics": [
+            "Dynamic Programming",
+            "Binary Search Tree"
+        ]
+    },
+    "longest-zigzag-path-in-a-binary-tree": {
+        "Id": 1372,
+        "Title": "Longest ZigZag Path in a Binary Tree",
+        "Slug": "longest-zigzag-path-in-a-binary-tree",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Tree"
+        ]
+    },
+    "find-the-longest-substring-containing-vowels-in-even-counts": {
+        "Id": 1371,
+        "Title": "Find the Longest Substring Containing Vowels in Even Counts",
+        "Slug": "find-the-longest-substring-containing-vowels-in-even-counts",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "String"
+        ]
+    },
+    "increasing-decreasing-string": {
+        "Id": 1370,
+        "Title": "Increasing Decreasing String",
+        "Slug": "increasing-decreasing-string",
+        "Paid": false,
+        "Level": 1,
+        "Topics": [
+            "String",
+            "Sort"
+        ]
+    },
     "maximum-students-taking-exam": {
         "Id": 1349,
         "Title": "Maximum Students Taking Exam",
@@ -145,7 +486,8 @@
         "Level": 2,
         "Topics": [
             "Dynamic Programming",
-            "Tree"
+            "Tree",
+            "Depth-first Search"
         ]
     },
     "reduce-array-size-to-the-half": {
@@ -1052,6 +1394,17 @@
             "Array"
         ]
     },
+    "longest-happy-string": {
+        "Id": 1405,
+        "Title": "Longest Happy String",
+        "Slug": "longest-happy-string",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Dynamic Programming",
+            "Greedy"
+        ]
+    },
     "critical-connections-in-a-network": {
         "Id": 1192,
         "Title": "Critical Connections in a Network",
@@ -1131,6 +1484,26 @@
         "Level": 1,
         "Topics": [
             "Array"
+        ]
+    },
+    "balance-a-binary-search-tree": {
+        "Id": 1382,
+        "Title": "Balance a Binary Search Tree",
+        "Slug": "balance-a-binary-search-tree",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Binary Search Tree"
+        ]
+    },
+    "four-divisors": {
+        "Id": 1390,
+        "Title": "Four Divisors",
+        "Slug": "four-divisors",
+        "Paid": false,
+        "Level": 2,
+        "Topics": [
+            "Math"
         ]
     },
     "number-of-valid-words-for-each-puzzle": {
@@ -2541,7 +2914,7 @@
         "Title": "Rotting Oranges",
         "Slug": "rotting-oranges",
         "Paid": false,
-        "Level": 1,
+        "Level": 2,
         "Topics": [
             "Breadth-first Search"
         ]

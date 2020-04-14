@@ -125,7 +125,7 @@ func main() {
 		totalStat["All"]++
 	}
 
-	var progressLen = 91
+	var progressLen = 95
 	solvedPercents := int(math.RoundToEven((float64(solvedStat["All"]) / float64(totalStat["All"])) * float64(progressLen)))
 
 	for k, _ := range percentsStat {

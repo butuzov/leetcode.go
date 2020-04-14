@@ -12,16 +12,16 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Progress
 
-▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ## Stats
 
 Difficulty                          | Total   | Done   |   %     |
 ------------------------------------|---------|--------|---------|
-Easy                                |     288 |    55  |    19 % |
-Normal                              |     520 |    62  |    12 % |
-Hard                                |     220 |    10  |     5 % |
-Total Questions Available           |    1028 |   127  |    12 % |
+Easy                                |     296 |    55  |    19 % |
+Normal                              |     539 |    62  |    12 % |
+Hard                                |     229 |    10  |     4 % |
+Total Questions Available           |    1064 |   127  |    12 % |
 
 
 
@@ -174,7 +174,43 @@ Total Questions Available           |    1028 |   127  |    12 % |
 ## Unsolved Problems
 
  ID  | Problem @ LeetCode    | Difficulty  | Topics
------|-----------------------|------------|--------
+-----|-----------------------|:-----------:|--------
+1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid) | Hard  | `Dynamic Programming`
+1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser) | Normal  | `String`, `Stack`
+1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key) | Normal  | `Array`
+1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array) | Easy  | `String`
+1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) | Hard  | `Dynamic Programming`
+1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string) | Normal  | `Dynamic Programming`, `Greedy`
+1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | Normal  | `String`, `Bit Manipulation`
+1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order) | Easy  | `Greedy`, `Sort`
+1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes) | Hard  | `Dynamic Programming`
+1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping) | Normal  | `Geometry`
+1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings) | Normal  | `Greedy`
+1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | Easy  | `Array`
+1397 | [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings) | Hard  | `Dynamic Programming`
+1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system) | Normal  | `Design`
+1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams) | Normal  | `Array`
+1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | Easy  | `Array`
+1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix) | Hard  | `String`
+1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid) | Normal  | `Depth-first Search`, `Breadth-first Search`
+1390 | [Four Divisors](https://leetcode.com/problems/four-divisors) | Normal  | `Math`
+1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | Easy  | `Array`
+1388 | [Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices) | Hard  | `Dynamic Programming`
+1387 | [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value) | Normal  | `Sort`, `Graph`
+1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | Normal  | `Array`, `Greedy`
+1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | Easy  | `Array`
+1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team) | Hard  | `Greedy`, `Sort`
+1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | Normal  | `Binary Search Tree`
+1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) | Normal  | `Stack`, `Design`
+1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy  | `Array`
+1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds) | Hard  | `Depth-first Search`
+1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees) | Normal  | `Depth-first Search`
+1375 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii) | Normal  | `Array`
+1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | Easy  | `String`
+1373 | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree) | Hard  | `Dynamic Programming`, `Binary Search Tree`
+1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree) | Normal  | `Dynamic Programming`, `Tree`
+1371 | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts) | Normal  | `String`
+1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string) | Easy  | `String`, `Sort`
 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | Hard  | `Breadth-first Search`
 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree) | Normal  | `Linked List`, `Dynamic Programming`, `Tree`
 1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes) | Normal  | `Array`, `Sort`
@@ -200,7 +236,7 @@ Total Questions Available           |    1028 |   127  |    12 % |
 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | Normal  | `Array`
 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy  | `Bit Manipulation`
 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | Hard  | `Dynamic Programming`
-1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree) | Normal  | `Dynamic Programming`, `Tree`
+1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree) | Normal  | `Dynamic Programming`, `Tree`, `Depth-first Search`
 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | Normal  | `Array`, `Greedy`
 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | Easy  | `Array`, `Binary Search`
 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule) | Hard  | `Dynamic Programming`
@@ -400,7 +436,7 @@ Total Questions Available           |    1028 |   127  |    12 % |
  997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | Easy  | `Graph`
  996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays) | Hard  | `Math`, `Backtracking`, `Graph`
  995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips) | Hard  | `Greedy`, `Sliding Window`
- 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Easy  | `Breadth-first Search`
+ 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Normal  | `Breadth-first Search`
  993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree) | Easy  | `Tree`, `Breadth-first Search`
  992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | Hard  | `Hash Table`, `Two Pointers`, `Sliding Window`
  991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator) | Normal  | `Math`, `Greedy`

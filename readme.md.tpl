@@ -56,7 +56,7 @@ Total Questions Available           | {{- index .Total "All" | printf  " %7d " -
 ## Unsolved Problems
 
  ID  | Problem @ LeetCode    | Difficulty  | Topics
------|-----------------------|------------|--------
+-----|-----------------------|:-----------:|--------
 {{ range .List }}
 {{- if not .Ready -}} {{ .ID | printf "%4d" }} | [{{ .Title }}](https://leetcode.com/problems/{{- .Slug -}}) | {{ .LevelStr }}  | {{ .Topic }}
 {{end}}
