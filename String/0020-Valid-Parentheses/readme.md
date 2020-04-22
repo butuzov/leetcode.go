@@ -9,41 +9,41 @@ An input string is valid if:
 
 Note that an empty string is also considered valid.
 
-**Example 1:**
+Example 1:
     
     
     
-    **Input:** "()"
-    **Output:** true
-    
-
-**Example 2:**
-    
-    
-    
-    **Input:** "()[]{}"
-    **Output:** true
+    Input: "()"
+    Output: true
     
 
-**Example 3:**
+Example 2:
     
     
     
-    **Input:** "(]"
-    **Output:** false
-    
-
-**Example 4:**
-    
-    
-    
-    **Input:** "([)]"
-    **Output:** false
+    Input: "()[]{}"
+    Output: true
     
 
-**Example 5:**
+Example 3:
     
     
     
-    **Input:** "{[]}"
-    **Output:** true
+    Input: "(]"
+    Output: false
+    
+
+Example 4:
+    
+    
+    
+    Input: "([)]"
+    Output: false
+    
+
+Example 5:
+    
+    
+    
+    Input: "{[]}"
+    Output: true

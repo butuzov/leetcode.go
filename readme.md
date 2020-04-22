@@ -12,16 +12,16 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Progress
 
-▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ## Stats
 
 Difficulty                          | Total   | Done   |   %     |
 ------------------------------------|---------|--------|---------|
-Easy                                |     296 |    55  |    19 % |
-Normal                              |     539 |    62  |    12 % |
-Hard                                |     229 |    10  |     4 % |
-Total Questions Available           |    1064 |   127  |    12 % |
+Easy                                |     298 |    56  |    19 % |
+Normal                              |     543 |    65  |    12 % |
+Hard                                |     231 |    10  |     4 % |
+Total Questions Available           |    1072 |   131  |    12 % |
 
 
 
@@ -46,6 +46,8 @@ Total Questions Available           |    1064 |   127  |    12 % |
 
  ID  | Problem               |  Topics
 -----|-----------------------|-------------
+1419 | [Minimum Number of Frogs Croaking](String/1419-Minimum-Number-of-Frogs-Croaking) | `String`
+1418 | [Display Table of Food Orders in a Restaurant](Hash_Table/1418-Display-Table-of-Food-Orders-in-a-Restaurant) | `Hash Table`
 1233 | [Remove Sub-Folders from the Filesystem](String/1233-Remove-Sub-Folders-from-the-Filesystem) | `Array`, `String`
 1209 | [Remove All Adjacent Duplicates in String II](Stack/1209-Remove-All-Adjacent-Duplicates-in-String-II) | `Stack`
 1146 | [Snapshot Array](Array/1146-Snapshot-Array) | `Array`
@@ -75,8 +77,9 @@ Total Questions Available           |    1064 |   127  |    12 % |
  220 | [Contains Duplicate III](Hash_Table/0220-Contains-Duplicate-III) | `Sort`, `Ordered Map`
  200 | [Number of Islands](Depth-first_Search/0200-Number-of-Islands) | `Depth-first Search`, `Breadth-first Search`, `Union Find`
  179 | [Largest Number](Sort/0179-Largest-Number) | `Sort`
- 173 | [Binary Search Tree Iterator](Stack/0173-Binary-Search-Tree-Iterator) | `Stack`, `Tree`, `Design`
+ 173 | [Binary Search Tree Iterator](Design/0173-Binary-Search-Tree-Iterator) | `Stack`, `Tree`, `Design`
  165 | [Compare Version Numbers](String/0165-Compare-Version-Numbers) | `String`
+ 151 | [Reverse Words in a String](String/0151-Reverse-Words-in-a-String) | `String`
  146 | [LRU Cache](Design/0146-LRU-Cache) | `Design`
  144 | [Binary Tree Preorder Traversal](Tree/0144-Binary-Tree-Preorder-Traversal) | `Stack`, `Tree`
  120 | [Triangle](Dynamic_Programming/0120-Triangle) | `Array`, `Dynamic Programming`
@@ -128,6 +131,7 @@ Total Questions Available           |    1064 |   127  |    12 % |
  905 | [Sort Array By Parity](Array/0905-Sort-Array-By-Parity) | `Array`
  766 | [Toeplitz Matrix](Array/0766-Toeplitz-Matrix) | `Array`
  674 | [Longest Continuous Increasing Subsequence](Array/0674-Longest-Continuous-Increasing-Subsequence) | `Array`
+ 557 | [Reverse Words in a String III](String/0557-Reverse-Words-in-a-String-III) | `String`
  520 | [Detect Capital](String/0520-Detect-Capital) | `String`
  509 | [Fibonacci Number](Math/0509-Fibonacci-Number) | `Array`
  507 | [Perfect Number](Math/0507-Perfect-Number) | `Math`
@@ -175,6 +179,12 @@ Total Questions Available           |    1064 |   127  |    12 % |
 
  ID  | Problem @ LeetCode    | Difficulty  | Topics
 -----|-----------------------|:-----------:|--------
+1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons) | Hard  | `Dynamic Programming`
+1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | Easy  | `String`
+1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array) | Hard  | `Dynamic Programming`
+1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Normal  | `Backtracking`
+1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) | Normal  | `Array`, `Greedy`
+1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) | Easy  | `Array`
 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid) | Hard  | `Dynamic Programming`
 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser) | Normal  | `String`, `Stack`
 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key) | Normal  | `Array`
@@ -785,7 +795,6 @@ Total Questions Available           |    1064 |   127  |    12 % |
  563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | Easy  | `Tree`
  561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | Easy  | `Array`
  560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Normal  | `Array`, `Hash Table`
- 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy  | `String`
  556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii) | Normal  | `String`
  554 | [Brick Wall](https://leetcode.com/problems/brick-wall) | Normal  | `Hash Table`
  553 | [Optimal Division](https://leetcode.com/problems/optimal-division) | Normal  | `Math`, `String`
@@ -1018,7 +1027,6 @@ Total Questions Available           |    1064 |   127  |    12 % |
  154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | Hard  | `Array`, `Binary Search`
  153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Normal  | `Array`, `Binary Search`
  152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Normal  | `Array`, `Dynamic Programming`
- 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Normal  | `String`
  150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Normal  | `Stack`
  149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | Hard  | `Hash Table`, `Math`
  148 | [Sort List](https://leetcode.com/problems/sort-list) | Normal  | `Linked List`, `Sort`
