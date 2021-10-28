@@ -13,8 +13,10 @@ type Problem struct {
 	Level    int    `json:"Level"`    // in json
 	LevelStr string `json:"LevelStr"` // in readme
 
-	Topics []string `json:"topics"` // in json
-	Topic  string   // in readmemake readme
+	Topics  []string `json:"topics"` // in json
+	Topic   string   // in readmemake readme
+	Content string
+	Code    []string
 
 	Hard   bool
 	Easy   bool
