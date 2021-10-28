@@ -1,36 +1,28 @@
 package main
+
 import (
 	"testing"
 )
 
 /*******************************************************************************
-  Problem Solution
-*******************************************************************************/
-func hammingWeight(num uint32) int {
-	var ones int
-	for num > 0 {
-		ones++
-		// Kernigan way to count Bits
-		num = num & (num - 1)
-		if num == 0 {
-			break
-		}
-	}
-	return ones
-}
-
-/*******************************************************************************
   TestTable
 *******************************************************************************/
 
-var MessageError = "Fail: Input(%+v): Expected(%+v) vs Returend(%+v)"
-var MessageOk = "OK: Input(%+v) as Expected(%+v)"
+var (
+	MessageError = "Fail: Input(%+v): Expected(%+v) vs Returend(%+v)"
+	MessageOk    = "OK: Input(%+v) as Expected(%+v)"
+)
 
 var TestCases = []struct {
-	input    bool
-	expected bool
+	input    uint32
+	expected int
 }{
-	{true, false},
+	{2, 1},
+	{3, 2},
+	{31, 5},
+	{3100, 5},
+	{123123, 10},
+	{12312312, 17},
 }
 
 /*******************************************************************************

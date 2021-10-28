@@ -12,16 +12,15 @@ import (
 
 // funcName for easier name representation
 func funcName(fnc func([]int) [][]int) string {
-	var ptr = reflect.ValueOf(fnc).Pointer()
-	var path = runtime.FuncForPC(ptr).Name()
-	var names1 = strings.Split(path, "/")
-	var names2 = strings.Split(names1[len(names1)-1], ".")
+	ptr := reflect.ValueOf(fnc).Pointer()
+	path := runtime.FuncForPC(ptr).Name()
+	names1 := strings.Split(path, "/")
+	names2 := strings.Split(names1[len(names1)-1], ".")
 	return names2[1]
 }
 
 func test(t *testing.T, fnc func([]int) [][]int) {
-
-	var name = funcName(fnc)
+	name := funcName(fnc)
 
 	t.Parallel()
 	for i, test := range TestCases {
@@ -55,14 +54,6 @@ func TestPermute(t *testing.T) {
 	test(t, permute)
 }
 
-func TestPermute2(t *testing.T) {
-	test(t, permute2)
-}
-
 func BenchmarkPermute(b *testing.B) {
 	bench(b, permute)
-}
-
-func BenchmarkPermute2(b *testing.B) {
-	bench(b, permute2)
 }
