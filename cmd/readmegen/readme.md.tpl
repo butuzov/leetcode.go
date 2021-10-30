@@ -5,7 +5,7 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
  * [Progress](#progress)
  * [Stats](#stats)
  * [Solved Hard Problems](#solved---hard-problems)
- * [Solved Normal Problems](#solved--normal-problems)
+ * [Solved Medium Problems](#solved--medium-problems)
  * [Solved Easy Problems](#solved--easy-problems)
  * [Upcoming Problems](#solved-problems)
 
@@ -19,7 +19,7 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 Difficulty                          | Total   | Done   |   %     |
 ------------------------------------|---------|--------|---------|
 Easy                                | {{- index .Total "Easy" | printf " %7d " -}} | {{index .Stat "Easy" | printf " %4d " }} | {{index .Percents "Easy" | printf " %4d " }}% |
-Normal                              | {{- index .Total "Normal" | printf " %7d " -}} | {{index .Stat "Normal" | printf " %4d " }} | {{index .Percents "Normal" | printf " %4d " }}% |
+Medium                              | {{- index .Total "Medium" | printf " %7d " -}} | {{index .Stat "Medium" | printf " %4d " }} | {{index .Percents "Medium" | printf " %4d " }}% |
 Hard                                | {{- index .Total "Hard" | printf " %7d " -}} | {{index .Stat "Hard" | printf " %4d " }} | {{index .Percents "Hard" | printf " %4d " }}% |
 Total Questions Available           | {{- index .Total "All" | printf  " %7d " -}} | {{index .Stat "All" | printf " %4d " }} | {{index .Percents "All" | printf " %4d " }}% |
 
@@ -35,12 +35,12 @@ Total Questions Available           | {{- index .Total "All" | printf  " %7d " -
 {{end}}
 {{- end}}
 
-### Solved ☆☆ Normal Problems
+### Solved ☆☆ Medium Problems
 
  ID  | Problem               |  Topics
 -----|-----------------------|-------------
 {{ range .List }}
-{{- if .Normal -}} {{ .ID | printf "%4d" }} | [{{ .Title }}]({{ .Slug }}) | {{ .Topic }}
+{{- if .Medium -}} {{ .ID | printf "%4d" }} | [{{ .Title }}]({{ .Slug }}) | {{ .Topic }}
 {{end}}
 {{- end}}
 

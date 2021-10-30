@@ -11,7 +11,7 @@ import (
 )
 
 // funcName for easier name representation
-func funcName(fnc func([]int) [][]int) string {
+func funcName(fnc func(string) []string) string {
 	ptr := reflect.ValueOf(fnc).Pointer()
 	path := runtime.FuncForPC(ptr).Name()
 	names1 := strings.Split(path, "/")
@@ -19,29 +19,30 @@ func funcName(fnc func([]int) [][]int) string {
 	return names2[1]
 }
 
-func test(t *testing.T, fnc func([]int) [][]int) {
+func test(t *testing.T, fnc func(string) []string) {
 	name := funcName(fnc)
 
-	t.Parallel()
 	for i, test := range TestCases {
+		test := test
 		t.Run(fmt.Sprintf("%s(%d)", name, i), func(t *testing.T) {
-			assert.Equal(t, test.expected, fnc(test.nums))
+			t.Parallel()
+			assert.Equal(t, test.expected, fnc(test.digits))
 		})
 	}
 }
 
 // prevention of inline optimization.
-var result [][]int
+var result []string
 
-func bench(b *testing.B, fnc func([]int) [][]int) {
+func bench(b *testing.B, fnc func(string) []string) {
 	b.StopTimer()
 	b.ReportAllocs()
 	b.StartTimer()
 	b.RunParallel(func(pb *testing.PB) {
 		for pb.Next() {
-			var r [][]int
+			var r []string
 			for _, test := range TestCases {
-				r = fnc(test.nums)
+				r = fnc(test.digits)
 			}
 			result = r
 		}
@@ -50,10 +51,10 @@ func bench(b *testing.B, fnc func([]int) [][]int) {
 
 // Actual Benchmarks & Tests -------------------------------------
 
-func TestPermute(t *testing.T) {
-	test(t, permute)
+func TestLetterCombinations(t *testing.T) {
+	test(t, letterCombinations)
 }
 
-func BenchmarkPermute(b *testing.B) {
-	bench(b, permute)
+func BenchmarkLetterCombinations(b *testing.B) {
+	bench(b, letterCombinations)
 }
