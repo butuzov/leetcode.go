@@ -12,16 +12,16 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 ## Progress
 
-▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ## Stats
 
 Difficulty                          | Total   | Done   |   %     |
 ------------------------------------|---------|--------|---------|
-Easy                                |     526 |    54  |    10 % |
-Medium                              |    1088 |    69  |     6 % |
-Hard                                |     435 |     7  |     2 % |
-Total Questions Available           |    2049 |   130  |     6 % |
+Easy                                |     526 |    57  |    11 % |
+Medium                              |    1088 |    72  |     7 % |
+Hard                                |     435 |    10  |     2 % |
+Total Questions Available           |    2049 |   139  |     7 % |
 
 
 
@@ -30,11 +30,14 @@ Total Questions Available           |    2049 |   130  |     6 % |
 
  ID  | Problem               |  Topics
 -----|-----------------------|-------------
+1665 | [Minimum Initial Energy to Finish Tasks](Sort/1665-Minimum-Initial-Energy-to-Finish-Tasks) | `Greedy`, `Array`, `Sorting`
+1383 | [Maximum Performance of a Team](Heap/1383-Maximum-Performance-of-a-Team) | `Greedy`, `Array`, `Sorting`, `Heap (Priority Queue)`
  780 | [Reaching Points](Math/0780-Reaching-Points) | `Math`
  479 | [Largest Palindrome Product](Math/0479-Largest-Palindrome-Product) | `Math`
  239 | [Sliding Window Maximum](Heap/0239-Sliding-Window-Maximum) | `Queue`, `Array`, `Sliding Window`, `Monotonic Queue`, `Heap (Priority Queue)`
  214 | [Shortest Palindrome](String/0214-Shortest-Palindrome) | `String`, `String Matching`, `Hash Function`, `Rolling Hash`
   51 | [N-Queens](Backtracking/0051-N-Queens) | `Array`, `Backtracking`
+  37 | [Sudoku Solver](Backtracking/0037-Sudoku-Solver) | `Array`, `Backtracking`, `Matrix`
   23 | [Merge k Sorted Lists](Linked_List/0023-Merge-k-Sorted-Lists) | `Linked List`, `Divide and Conquer`, `Heap (Priority Queue)`, `Merge Sort`
    4 | [Median of Two Sorted Arrays](Divide_and_Conquer/0004-Median-of-Two-Sorted-Arrays) | `Array`, `Binary Search`, `Divide and Conquer`
 
@@ -101,9 +104,12 @@ Total Questions Available           |    2049 |   130  |     6 % |
   49 | [Group Anagrams](Hash_Table/0049-Group-Anagrams) | `Hash Table`, `String`, `Sorting`
   47 | [Permutations II](Backtracking/0047-Permutations-II) | `Array`, `Backtracking`
   46 | [Permutations](Backtracking/0046-Permutations) | `Array`, `Backtracking`
+  36 | [Valid Sudoku](Array/0036-Valid-Sudoku) | `Array`, `Hash Table`, `Matrix`
   34 | [Find First and Last Position of Element in Sorted Array](Binary_Search/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | `Array`, `Binary Search`
   33 | [Search in Rotated Sorted Array](Binary_Search/0033-Search-in-Rotated-Sorted-Array) | `Array`, `Binary Search`
   31 | [Next Permutation](Array/0031-Next-Permutation) | `Array`, `Two Pointers`
+  22 | [Generate Parentheses](Backtracking/0022-Generate-Parentheses) | `String`, `Dynamic Programming`, `Backtracking`
+  17 | [Letter Combinations of a Phone Number](Backtracking/0017-Letter-Combinations-of-a-Phone-Number) | `Hash Table`, `String`, `Backtracking`
   15 | [3Sum](Array/0015-3Sum) | `Array`, `Two Pointers`, `Sorting`
   12 | [Integer to Roman](String/0012-Integer-to-Roman) | `Hash Table`, `Math`, `String`
   11 | [Container With Most Water](Array/0011-Container-With-Most-Water) | `Greedy`, `Array`, `Two Pointers`
@@ -118,8 +124,10 @@ Total Questions Available           |    2049 |   130  |     6 % |
 
  ID  | Problem               | Topics
 -----|-----------------------|-------------
+1360 | [Number of Days Between Two Dates](String/1360-Number-of-Days-Between-Two-Dates) | `Math`, `String`
 1295 | [Find Numbers with Even Number of Digits](Array/1295-Find-Numbers-with-Even-Number-of-Digits) | `Array`
 1232 | [Check If It Is a Straight Line](Math/1232-Check-If-It-Is-a-Straight-Line) | `Geometry`, `Array`, `Math`
+1154 | [Day of the Year](String/1154-Day-of-the-Year) | `Math`, `String`
 1128 | [Number of Equivalent Domino Pairs](Array/1128-Number-of-Equivalent-Domino-Pairs) | `Array`, `Hash Table`, `Counting`
 1122 | [Relative Sort Array](Array/1122-Relative-Sort-Array) | `Array`, `Hash Table`, `Counting Sort`, `Sorting`
 1108 | [Defanging an IP Address](String/1108-Defanging-an-IP-Address) | `String`
@@ -130,6 +138,7 @@ Total Questions Available           |    2049 |   130  |     6 % |
  917 | [Reverse Only Letters](String/0917-Reverse-Only-Letters) | `Two Pointers`, `String`
  905 | [Sort Array By Parity](Array/0905-Sort-Array-By-Parity) | `Array`, `Two Pointers`, `Sorting`
  766 | [Toeplitz Matrix](Array/0766-Toeplitz-Matrix) | `Array`, `Matrix`
+ 704 | [Binary Search](Binary_Search/0704-Binary-Search) | `Array`, `Binary Search`
  674 | [Longest Continuous Increasing Subsequence](Array/0674-Longest-Continuous-Increasing-Subsequence) | `Array`
  557 | [Reverse Words in a String III](String/0557-Reverse-Words-in-a-String-III) | `Two Pointers`, `String`
  520 | [Detect Capital](String/0520-Detect-Capital) | `String`
@@ -165,7 +174,7 @@ Total Questions Available           |    2049 |   130  |     6 % |
  100 | [Same Tree](Tree/0100-Same-Tree) | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree`
   94 | [Binary Tree Inorder Traversal](Tree/0094-Binary-Tree-Inorder-Traversal) | `Stack`, `Tree`, `Depth-First Search`, `Binary Tree`
   83 | [Remove Duplicates from Sorted List](Linked_List/0083-Remove-Duplicates-from-Sorted-List) | `Linked List`
-  69 | [Sqrt(x)](Binary_Search/0069-Sqrt(x)) | `Math`, `Binary Search`
+  69 | [Sqrt(x)](Math/0069-Sqrt(x)) | `Math`, `Binary Search`
   26 | [Remove Duplicates from Sorted Array](Array/0026-Remove-Duplicates-from-Sorted-Array) | `Array`, `Two Pointers`
   21 | [Merge Two Sorted Lists](Linked_List/0021-Merge-Two-Sorted-Lists) | `Recursion`, `Linked List`
   20 | [Valid Parentheses](String/0020-Valid-Parentheses) | `Stack`, `String`
@@ -563,7 +572,6 @@ Total Questions Available           |    2049 |   130  |     6 % |
 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring) | Easy  | `String`, `String Matching`
 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | Easy  | `Database`
 1666 | [Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree) | Medium  | `Tree`, `Depth-First Search`, `Binary Tree`
-1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks) | Hard  | `Greedy`, `Array`, `Sorting`
 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array) | Medium  | `Array`, `Dynamic Programming`
 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value) | Medium  | `Greedy`, `String`
 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy  | `Array`, `String`
@@ -843,7 +851,6 @@ Total Questions Available           |    2049 |   130  |     6 % |
 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | Medium  | `Greedy`, `Bit Manipulation`, `Array`, `Hash Table`
 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | Easy  | `Array`, `Two Pointers`, `Binary Search`, `Sorting`
 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year) | Hard  | `Database`
-1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team) | Hard  | `Greedy`, `Array`, `Sorting`, `Heap (Priority Queue)`
 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | Medium  | `Greedy`, `Tree`, `Depth-First Search`, `Binary Search Tree`, `Divide and Conquer`, `Binary Tree`
 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) | Medium  | `Stack`, `Design`, `Array`
 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy  | `Array`, `Matrix`
@@ -866,7 +873,6 @@ Total Questions Available           |    2049 |   130  |     6 % |
 1363 | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three) | Hard  | `Greedy`, `Array`, `Dynamic Programming`
 1362 | [Closest Divisors](https://leetcode.com/problems/closest-divisors) | Medium  | `Math`
 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes) | Medium  | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph`, `Binary Tree`
-1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates) | Easy  | `Math`, `String`
 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options) | Hard  | `Math`, `Dynamic Programming`, `Combinatorics`
 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | Medium  | `Hash Table`, `String`, `Sliding Window`
 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders) | Medium  | `Design`, `Array`, `Hash Table`
@@ -1068,7 +1074,6 @@ Total Questions Available           |    2049 |   130  |     6 % |
 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray) | Hard  | `Design`, `Binary Indexed Tree`, `Segment Tree`, `Array`, `Binary Search`
 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring) | Medium  | `String`, `Sliding Window`
 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) | Medium  | `Dynamic Programming`
-1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy  | `Math`, `String`
 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string) | Hard  | `Hash Table`, `String`
 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern) | Medium  | `Array`, `Hash Table`, `Sorting`
 1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together) | Medium  | `Array`, `Sliding Window`
@@ -1495,7 +1500,6 @@ Total Questions Available           |    2049 |   130  |     6 % |
  707 | [Design Linked List](https://leetcode.com/problems/design-linked-list) | Medium  | `Design`, `Linked List`
  706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy  | `Design`, `Array`, `Hash Table`, `Linked List`, `Hash Function`
  705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy  | `Design`, `Array`, `Hash Table`, `Linked List`, `Hash Function`
- 704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy  | `Array`, `Binary Search`
  703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | Easy  | `Tree`, `Design`, `Binary Search Tree`, `Binary Tree`, `Data Stream`, `Heap (Priority Queue)`
  702 | [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size) | Medium  | `Array`, `Binary Search`, `Interactive`
  701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | Medium  | `Tree`, `Binary Search Tree`, `Binary Tree`
@@ -2079,8 +2083,6 @@ Total Questions Available           |    2049 |   130  |     6 % |
   40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | Medium  | `Array`, `Backtracking`
   39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium  | `Array`, `Backtracking`
   38 | [Count and Say](https://leetcode.com/problems/count-and-say) | Medium  | `String`
-  37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | Hard  | `Array`, `Backtracking`, `Matrix`
-  36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium  | `Array`, `Hash Table`, `Matrix`
   35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy  | `Array`, `Binary Search`
   32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | Hard  | `Stack`, `String`, `Dynamic Programming`
   30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | Hard  | `Hash Table`, `String`, `Sliding Window`
@@ -2089,10 +2091,8 @@ Total Questions Available           |    2049 |   130  |     6 % |
   27 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy  | `Array`, `Two Pointers`
   25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | Hard  | `Recursion`, `Linked List`
   24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Medium  | `Recursion`, `Linked List`
-  22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium  | `String`, `Dynamic Programming`, `Backtracking`
   19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium  | `Linked List`, `Two Pointers`
   18 | [4Sum](https://leetcode.com/problems/4sum) | Medium  | `Array`, `Two Pointers`, `Sorting`
-  17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium  | `Hash Table`, `String`, `Backtracking`
   16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | Medium  | `Array`, `Two Pointers`, `Sorting`
   14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy  | `String`
   13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy  | `Hash Table`, `Math`, `String`
