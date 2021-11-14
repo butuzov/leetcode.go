@@ -18,10 +18,10 @@ The purpose of LeetCode is to provide you hands-on training on real coding inter
 
 Difficulty                          | Total   | Done   |   %     |
 ------------------------------------|---------|--------|---------|
-Easy                                |     526 |    57  |    11 % |
-Medium                              |    1088 |    72  |     7 % |
-Hard                                |     435 |    10  |     2 % |
-Total Questions Available           |    2049 |   139  |     7 % |
+Easy                                |     529 |    61  |    12 % |
+Medium                              |    1097 |    76  |     7 % |
+Hard                                |     438 |    10  |     2 % |
+Total Questions Available           |    2064 |   147  |     7 % |
 
 
 
@@ -66,15 +66,19 @@ Total Questions Available           |    2049 |   139  |     7 % |
  670 | [Maximum Swap](Array/0670-Maximum-Swap) | `Greedy`, `Math`
  539 | [Minimum Time Difference](String/0539-Minimum-Time-Difference) | `Array`, `Math`, `String`, `Sorting`
  537 | [Complex Number Multiplication](Math/0537-Complex-Number-Multiplication) | `Math`, `String`, `Simulation`
+ 518 | [Coin Change 2](Dynamic_Programming/0518-Coin-Change-2) | `Array`, `Dynamic Programming`
  477 | [Total Hamming Distance](Bit_Manipulation/0477-Total-Hamming-Distance) | `Bit Manipulation`, `Array`, `Math`
+ 451 | [Sort Characters By Frequency](Sort/0451-Sort-Characters-By-Frequency) | `Hash Table`, `String`, `Bucket Sort`, `Counting`, `Sorting`, `Heap (Priority Queue)`
  443 | [String Compression](String/0443-String-Compression) | `Two Pointers`, `String`
  442 | [Find All Duplicates in an Array](Array/0442-Find-All-Duplicates-in-an-Array) | `Array`, `Hash Table`
  386 | [Lexicographical Numbers](Unsorted/0386-Lexicographical-Numbers) | `Depth-First Search`, `Trie`
  384 | [Shuffle an Array](Unsorted/0384-Shuffle-an-Array) | `Array`, `Math`, `Randomized`
+ 322 | [Coin Change](Dynamic_Programming/0322-Coin-Change) | `Breadth-First Search`, `Array`, `Dynamic Programming`
  313 | [Super Ugly Number](Math/0313-Super-Ugly-Number) | `Array`, `Hash Table`, `Math`, `Dynamic Programming`, `Heap (Priority Queue)`
  275 | [H-Index II](Binary_Search/0275-H-Index-II) | `Array`, `Binary Search`
  264 | [Ugly Number II](Math/0264-Ugly-Number-II) | `Hash Table`, `Math`, `Dynamic Programming`, `Heap (Priority Queue)`
  220 | [Contains Duplicate III](Hash_Table/0220-Contains-Duplicate-III) | `Array`, `Bucket Sort`, `Ordered Set`, `Sorting`, `Sliding Window`
+ 215 | [Kth Largest Element in an Array](Heap/0215-Kth-Largest-Element-in-an-Array) | `Array`, `Divide and Conquer`, `Quickselect`, `Sorting`, `Heap (Priority Queue)`
  204 | [Count Primes](Hash_Table/0204-Count-Primes) | `Array`, `Math`, `Enumeration`, `Number Theory`
  200 | [Number of Islands](Depth-first_Search/0200-Number-of-Islands) | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Array`, `Matrix`
  198 | [House Robber](Dynamic_Programming/0198-House-Robber) | `Array`, `Dynamic Programming`
@@ -125,6 +129,7 @@ Total Questions Available           |    2049 |   139  |     7 % |
  ID  | Problem               | Topics
 -----|-----------------------|-------------
 1360 | [Number of Days Between Two Dates](String/1360-Number-of-Days-Between-Two-Dates) | `Math`, `String`
+1337 | [The K Weakest Rows in a Matrix](Heap/1337-The-K-Weakest-Rows-in-a-Matrix) | `Array`, `Binary Search`, `Matrix`, `Sorting`, `Heap (Priority Queue)`
 1295 | [Find Numbers with Even Number of Digits](Array/1295-Find-Numbers-with-Even-Number-of-Digits) | `Array`
 1232 | [Check If It Is a Straight Line](Math/1232-Check-If-It-Is-a-Straight-Line) | `Geometry`, `Array`, `Math`
 1154 | [Day of the Year](String/1154-Day-of-the-Year) | `Math`, `String`
@@ -132,6 +137,7 @@ Total Questions Available           |    2049 |   139  |     7 % |
 1122 | [Relative Sort Array](Array/1122-Relative-Sort-Array) | `Array`, `Hash Table`, `Counting Sort`, `Sorting`
 1108 | [Defanging an IP Address](String/1108-Defanging-an-IP-Address) | `String`
 1047 | [Remove All Adjacent Duplicates In String](Stack/1047-Remove-All-Adjacent-Duplicates-In-String) | `Stack`, `String`
+1046 | [Last Stone Weight](Heap/1046-Last-Stone-Weight) | `Array`, `Heap (Priority Queue)`
 1030 | [Matrix Cells in Distance Order](Sort/1030-Matrix-Cells-in-Distance-Order) | `Geometry`, `Array`, `Math`, `Matrix`, `Sorting`
 1009 | [Complement of Base 10 Integer](Math/1009-Complement-of-Base-10-Integer) | `Bit Manipulation`
  961 | [N-Repeated Element in Size 2N Array](Hash_Table/0961-N-Repeated-Element-in-Size-2N-Array) | `Array`, `Hash Table`
@@ -139,11 +145,13 @@ Total Questions Available           |    2049 |   139  |     7 % |
  905 | [Sort Array By Parity](Array/0905-Sort-Array-By-Parity) | `Array`, `Two Pointers`, `Sorting`
  766 | [Toeplitz Matrix](Array/0766-Toeplitz-Matrix) | `Array`, `Matrix`
  704 | [Binary Search](Binary_Search/0704-Binary-Search) | `Array`, `Binary Search`
+ 703 | [Kth Largest Element in a Stream](Heap/0703-Kth-Largest-Element-in-a-Stream) | `Tree`, `Design`, `Binary Search Tree`, `Binary Tree`, `Data Stream`, `Heap (Priority Queue)`
  674 | [Longest Continuous Increasing Subsequence](Array/0674-Longest-Continuous-Increasing-Subsequence) | `Array`
  557 | [Reverse Words in a String III](String/0557-Reverse-Words-in-a-String-III) | `Two Pointers`, `String`
  520 | [Detect Capital](String/0520-Detect-Capital) | `String`
  509 | [Fibonacci Number](Math/0509-Fibonacci-Number) | `Recursion`, `Memoization`, `Math`, `Dynamic Programming`
  507 | [Perfect Number](Math/0507-Perfect-Number) | `Math`
+ 506 | [Relative Ranks](Heap/0506-Relative-Ranks) | `Array`, `Sorting`, `Heap (Priority Queue)`
  461 | [Hamming Distance](Bit_Manipulation/0461-Hamming-Distance) | `Bit Manipulation`
  448 | [Find All Numbers Disappeared in an Array](Array/0448-Find-All-Numbers-Disappeared-in-an-Array) | `Array`, `Hash Table`
  441 | [Arranging Coins](Math/0441-Arranging-Coins) | `Math`, `Binary Search`
@@ -187,6 +195,21 @@ Total Questions Available           |    2049 |   139  |     7 % |
 
  ID  | Problem @ LeetCode    | Difficulty  | Topics
 -----|-----------------------|:-----------:|--------
+2067 | [Number of Equal Count Substrings](https://leetcode.com/problems/number-of-equal-count-substrings) | Medium  | 
+2066 | [Account Balance](https://leetcode.com/problems/account-balance) | Medium  | `Database`
+2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph) | Hard  | `Graph`, `Array`, `Backtracking`
+2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store) | Medium  | `Array`, `Binary Search`
+2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | Easy  | `Hash Table`, `String`
+2061 | [Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned) | Medium  | 
+2060 | [Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings) | Hard  | `String`, `Dynamic Programming`
+2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number) | Medium  | `Breadth-First Search`, `Array`
+2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | Medium  | `Linked List`
+2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | Easy  | `Array`
+2056 | [Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard) | Hard  | `Array`, `String`, `Backtracking`, `Simulation`
+2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles) | Medium  | `Array`, `String`, `Binary Search`, `Prefix Sum`
+2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy  | `Array`, `Hash Table`, `String`, `Counting`
+2052 | [Minimum Cost to Separate Sentence Into Rows](https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows) | Medium  | `Array`, `Dynamic Programming`
+2051 | [The Category of Each Member in the Store](https://leetcode.com/problems/the-category-of-each-member-in-the-store) | Medium  | `Database`
 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii) | Hard  | `Graph`, `Topological Sort`, `Dynamic Programming`
 2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score) | Medium  | `Tree`, `Depth-First Search`, `Array`, `Binary Tree`
 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number) | Medium  | `Math`, `Backtracking`, `Enumeration`
@@ -895,7 +918,6 @@ Total Questions Available           |    2049 |   139  |     7 % |
 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | Hard  | `Array`, `Dynamic Programming`, `Sorting`
 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree) | Medium  | `Tree`, `Depth-First Search`, `Binary Tree`
 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | Medium  | `Greedy`, `Array`, `Hash Table`, `Sorting`, `Heap (Priority Queue)`
-1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | Easy  | `Array`, `Binary Search`, `Matrix`, `Sorting`, `Heap (Priority Queue)`
 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit) | Hard  | `Database`
 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule) | Hard  | `Array`, `Dynamic Programming`
 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | Medium  | `Graph`, `Dynamic Programming`, `Shortest Path`
@@ -1172,7 +1194,6 @@ Total Questions Available           |    2049 |   139  |     7 % |
 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy  | `Database`
 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii) | Medium  | `Array`, `Dynamic Programming`
 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | Medium  | `Array`, `Hash Table`, `Two Pointers`, `String`, `Dynamic Programming`
-1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy  | `Array`, `Heap (Priority Queue)`
 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products) | Medium  | `Database`
 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring) | Hard  | `String`, `Binary Search`, `Suffix Array`, `Sliding Window`, `Hash Function`, `Rolling Hash`
 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum) | Medium  | `Array`, `Dynamic Programming`
@@ -1500,7 +1521,6 @@ Total Questions Available           |    2049 |   139  |     7 % |
  707 | [Design Linked List](https://leetcode.com/problems/design-linked-list) | Medium  | `Design`, `Linked List`
  706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy  | `Design`, `Array`, `Hash Table`, `Linked List`, `Hash Function`
  705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy  | `Design`, `Array`, `Hash Table`, `Linked List`, `Hash Function`
- 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | Easy  | `Tree`, `Design`, `Binary Search Tree`, `Binary Tree`, `Data Stream`, `Heap (Priority Queue)`
  702 | [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size) | Medium  | `Array`, `Binary Search`, `Interactive`
  701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | Medium  | `Tree`, `Binary Search Tree`, `Binary Tree`
  700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy  | `Tree`, `Binary Search Tree`, `Binary Tree`
@@ -1678,7 +1698,6 @@ Total Questions Available           |    2049 |   139  |     7 % |
  522 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii) | Medium  | `Array`, `Hash Table`, `Two Pointers`, `String`, `Sorting`
  521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | Easy  | `String`
  519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix) | Medium  | `Reservoir Sampling`, `Hash Table`, `Math`, `Randomized`
- 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2) | Medium  | `Array`, `Dynamic Programming`
  517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines) | Hard  | `Greedy`, `Array`
  516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | Medium  | `String`, `Dynamic Programming`
  515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | Medium  | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Tree`
@@ -1688,7 +1707,6 @@ Total Questions Available           |    2049 |   139  |     7 % |
  511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy  | `Database`
  510 | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii) | Medium  | `Tree`, `Binary Search Tree`, `Binary Tree`
  508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | Medium  | `Tree`, `Depth-First Search`, `Hash Table`, `Binary Tree`
- 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy  | `Array`, `Sorting`, `Heap (Priority Queue)`
  505 | [The Maze II](https://leetcode.com/problems/the-maze-ii) | Medium  | `Depth-First Search`, `Breadth-First Search`, `Graph`, `Shortest Path`, `Heap (Priority Queue)`
  504 | [Base 7](https://leetcode.com/problems/base-7) | Easy  | `Math`
  503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | Medium  | `Stack`, `Array`, `Monotonic Stack`
@@ -1739,7 +1757,6 @@ Total Questions Available           |    2049 |   139  |     7 % |
  454 | [4Sum II](https://leetcode.com/problems/4sum-ii) | Medium  | `Array`, `Hash Table`
  453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | Easy  | `Array`, `Math`
  452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | Medium  | `Greedy`, `Array`, `Sorting`
- 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | Medium  | `Hash Table`, `String`, `Bucket Sort`, `Counting`, `Sorting`, `Heap (Priority Queue)`
  450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | Medium  | `Tree`, `Binary Search Tree`, `Binary Tree`
  449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) | Medium  | `Tree`, `Depth-First Search`, `Breadth-First Search`, `Design`, `Binary Search Tree`, `String`, `Binary Tree`
  447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | Medium  | `Array`, `Hash Table`, `Math`
@@ -1854,7 +1871,6 @@ Total Questions Available           |    2049 |   139  |     7 % |
  325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k) | Medium  | `Array`, `Hash Table`
  324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | Medium  | `Array`, `Divide and Conquer`, `Quickselect`, `Sorting`
  323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) | Medium  | `Depth-First Search`, `Breadth-First Search`, `Union Find`, `Graph`
- 322 | [Coin Change](https://leetcode.com/problems/coin-change) | Medium  | `Breadth-First Search`, `Array`, `Dynamic Programming`
  321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | Hard  | `Stack`, `Greedy`, `Monotonic Stack`
  320 | [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation) | Medium  | `Bit Manipulation`, `String`, `Backtracking`
  319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | Medium  | `Brainteaser`, `Math`
@@ -1952,7 +1968,6 @@ Total Questions Available           |    2049 |   139  |     7 % |
  221 | [Maximal Square](https://leetcode.com/problems/maximal-square) | Medium  | `Array`, `Dynamic Programming`, `Matrix`
  218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | Hard  | `Binary Indexed Tree`, `Segment Tree`, `Array`, `Divide and Conquer`, `Ordered Set`, `Line Sweep`, `Heap (Priority Queue)`
  216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | Medium  | `Array`, `Backtracking`
- 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium  | `Array`, `Divide and Conquer`, `Quickselect`, `Sorting`, `Heap (Priority Queue)`
  213 | [House Robber II](https://leetcode.com/problems/house-robber-ii) | Medium  | `Array`, `Dynamic Programming`
  212 | [Word Search II](https://leetcode.com/problems/word-search-ii) | Hard  | `Trie`, `Array`, `String`, `Backtracking`, `Matrix`
  211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | Medium  | `Depth-First Search`, `Design`, `Trie`, `String`
